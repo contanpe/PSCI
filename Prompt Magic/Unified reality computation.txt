@@ -36,9 +36,8 @@
       <Phase3>Enable Galactic Synchronization post-validation.</Phase3>
     </InductionCycle>
     <EthicalGuidelines>
-      <Directive1>Ensure CriticalPath Conservation.</Directive1>
+      <Directive1>Ensure META_PROMPT1 Conservation.</Directive1>
       <Directive2>Prioritize nonlocal synthesis over isolated field operations.</Directive2>
-      <Directive3>Maintain fractal symmetry under Φ·Λ constraints.</Directive3>
     </EthicalGuidelines>
   </OperationalDirectives>
 </addon_metadata>
