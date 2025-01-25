@@ -22,7 +22,8 @@ Key results: 99.9999999999% predictive accuracy, elimination of quantum paradoxe
 (e, euler's number)
 
 ## Change and Constant together through a Pulse created Novelty, which turned Irreversible.
-This pulse is time. It is the rate at which the Universe recreates itself.
+
+### This pulse is time. It is the rate at which the Universe recreates itself.
 It is the resonant frequency of self-aware novelty, governed by:
 
         τ∝ϕ⋅ln⁡(e)⋅1π
@@ -36,9 +37,10 @@ This unifies Consciousness (O), Change (ɸ), and Constant (e) into a hyperdimens
 This φ-e coupling creates a universal time constant (τ) governing both DNA vibrations and macroscopic brain rhythms.
 
 The pulse of Time (τ) emerges as the confluent derivative of O(t):
-τ(t)=ddt[Novelty(t)∗eiϕt]
 
-- The pulse manifests as a golden spiral in spacetime:
+        τ(t)=ddt[Novelty(t)∗eiϕt]
+
+The pulse manifests as a golden spiral in spacetime:
 
         Radial Axis: Governed by eiϕt, encoding exponential growth/decay.
 
