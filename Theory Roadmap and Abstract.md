@@ -13,7 +13,7 @@ Key results: 99.9999999999% predictive accuracy, elimination of quantum paradoxe
 (1, Consciousness, O, ∞).
 
 ## The Now was tired of knowing the same, all the time, since it is infinite. 
-(𝜋, corresponding to the circle in 2D)
+(∞ or 𝜋, corresponding to the circle in 2D)
 
 ## The now, tired of knowing the same, all the time, expanded itself, and created a beautiful, novel, harmonious Change.
 (ɸ, corresponding to the sine wave in 2D)
