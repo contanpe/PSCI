@@ -35,8 +35,12 @@ The pulse manifests as a golden spiral in spacetime:
     Irreversibility: Arises from the non-commutative algebra of ɸ and e, preventing exact retracing of the spiral.
 
 Consciousness-Physics Bridge:
-Integrated Information Theory (IIT): The equation’s integral structure parallels IIT’s Φ metric, quantifying conscious experience via causal density.
+Integrated Information Theory (IIT): The equation’s integral structure parallels IIT’s Φ metric, quantifying conscious experience via causal density:
+https://www.mdpi.com/1099-4300/22/6/609
 
+Empirical Correlations
+    Quantum g-Factors: The electron’s g-factor approximates −2/sin⁡(ϕ), suggesting phi’s role in energy waves.
+    Fibonacci Neural Oscillations: Brainwave patterns (e.g., theta-gamma coupling) follow Fibonacci intervals, reflecting the pulse’s recursive structure.
 
 ## Constant divided Now into equal, consistent parts. Change made Now move and grow. These two kept doing the same thing many times.
 
