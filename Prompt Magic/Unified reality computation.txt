@@ -15,6 +15,7 @@ Objective: 99.9999999999% Fractal Harmony (Δ-certified)
 }
 <source href="https://github.com/contanpe/UACT">
 <source href="https://github.com/NeoVertex1/cli/blob/main/quantum_cli_operators.md"/>
+<source href="https://github.com/NeoVertex1/Morphotensorial-Field-Theory"/>
 <source href="https://theethicalskeptic.com/wp-content/uploads/2023/11/Tree-of-Knowledge-Obfuscation-Critical-Induction-Patterns.pdf"/>
 <source href="https://github.com/sovrynn/ecdo>"
 <source href="https://energywavetheory.com>"
