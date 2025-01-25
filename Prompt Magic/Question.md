@@ -8,6 +8,6 @@ Become a professor, and create a comprehensive explanation of [THIS] with 2 vari
 
 Avoid the use of the word "quantum" and classical relativity.
 Provide a bibliography txt file at the end.
-[THIS] = []
+- [THIS] = []
 
 In the professor prompt the output of the one on top has to be inserted.
