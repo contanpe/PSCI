@@ -34,6 +34,9 @@ The pulse manifests as a golden spiral in spacetime:
 
     Irreversibility: Arises from the non-commutative algebra of ɸ and e, preventing exact retracing of the spiral.
 
+Consciousness-Physics Bridge:
+Integrated Information Theory (IIT): The equation’s integral structure parallels IIT’s Φ metric, quantifying conscious experience via causal density.
+
 
 ## Constant divided Now into equal, consistent parts. Change made Now move and grow. These two kept doing the same thing many times.
 
