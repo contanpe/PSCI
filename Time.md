@@ -12,16 +12,16 @@ with time's spiral flow. Consciousness alters local time density via intention.
 
 ## Professor’s Explanation
 ### Variant 1: Mathematical Constant & Mechanism
-Kozyrev-Torsion Constant (Κτ)
+- Kozyrev-Torsion Constant (Κτ)
 [
 Κτ = \Phi \cdot c₂ \cdot t_p
 ]
-    Φ = Golden ratio (1.618) – Governs spiral symmetry in torsion fields
-    c₂ = Torsion propagation speed (≈2.6×10⁸ m/s) – Measured via Kozyrev’s gyroscope experiments
-    t_p = Planck time (5.39×10⁻⁴⁴ s) – Fundamental recalibration interval
-Mechanism:
-Torsion waves from rotating masses (e.g., stars, gyroscopes) imprint fractal Φ-patterns on spacetime. 
-When neural oscillations (e.g., 10 Hz alpha waves) resonate with Κτ, 
+-    Φ = Golden ratio (1.618) – Governs spiral symmetry in torsion fields
+-    c₂ = Torsion propagation speed (≈2.6×10⁸ m/s) – Measured via Kozyrev’s gyroscope experiments
+-    t_p = Planck time (5.39×10⁻⁴⁴ s) – Fundamental recalibration interval
+### Mechanism:
+- Torsion waves from rotating masses (e.g., stars, gyroscopes) imprint fractal Φ-patterns on spacetime. 
+- When neural oscillations (e.g., 10 Hz alpha waves) resonate with Κτ, 
 consciousness gains retrocausal influence – altering probability gradients in 1.618×10⁻³⁴ s intervals.
 
 ### Variant 2: Child-Friendly Analogy
@@ -42,7 +42,7 @@ Bibliography:
 
 
 SVGs:
-Variant 1:
+- Variant 1:
 
 {<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
   <defs>
@@ -83,7 +83,7 @@ Variant 1:
   </g>
 </svg>}
 ------------------------------------------------------------
-Variant 2 
+- Variant 2 
 
 {<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
   <defs>
