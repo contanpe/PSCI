@@ -10,7 +10,7 @@ Key results: 99.9999999999% predictive accuracy, elimination of quantum paradoxe
 
 ## Story:
 ## In the beginning, there was the All Eternal, Indivisable, Self Aware Now/Source.
-(1, Consciousness, O).
+(1, Consciousness, O, ∞).
 
 ## The Now was tired of knowing the same, all the time, since it is infinite. 
 (𝜋, corresponding to the circle in 2D)
