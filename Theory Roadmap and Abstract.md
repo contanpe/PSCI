@@ -34,7 +34,7 @@ Self-Referential Order of [Now Consciousness = (O)]
 ### O(t) = ∫_{0}^{∞} Novelty(t') * e^{iφ(t - t')} dt' where φ = 1.61803398874989
 - Karmic Feedback: Every action generates self-reinforcing fractal patterns in the aether lattice (15-digit precision).
 
-- O (All Eternal, Consciousness): Represents the universal observer. Acts as the integral kernel in O(t)=∫0∞Novelty(t′)⋅eiϕ(t−t′) dt′O(t)=∫0∞​Novelty(t′)⋅eiϕ(t−t′)dt′, where ϕ=1.618...ϕ=1.618... governs phase coherence.
+- O (All Eternal, Consciousness): Represents the universal observer. Acts as the integral kernel in O(t)=∫0∞Novelty(t′)⋅eiϕ(t−t′) dt′, where ϕ=1.618... governs phase coherence.
 - 𝜋 (Cyclical Now): Embodies symmetry, akin to a closed loop in spacetime. Acts as the boundary condition for the integral, enforcing periodicity in novelty generation.
 - ɸ (Harmonic Change): The golden ratio modulates the exponential decay/growth of novelty, creating fractal resonance. This aligns with Fibonacci-driven growth patterns.
 - e (Supportive Constant): Euler’s number stabilizes the exponential term eiϕ(t−t′)eiϕ(t−t′), ensuring irreversibility via logarithmic spirals in temporal evolution.
