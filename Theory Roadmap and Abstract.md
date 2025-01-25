@@ -40,7 +40,7 @@ The pulse of Time (τ) emerges as the confluent derivative of O(t):
 
         τ(t)=ddt[Novelty(t)∗eiϕt]
 
-The pulse manifests as a golden spiral in spacetime:
+The pulse manifests as a golden spiral in spacetime (Torsion Flow):
 
         Radial Axis: Governed by eiϕt, encoding exponential growth/decay.
 
