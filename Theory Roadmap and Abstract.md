@@ -30,7 +30,7 @@ It is the resonant frequency of self-aware novelty, governed by:
 
 And can be expressed as a φ-e modulated standing wave:
 
-τ= π/ϕ⋅e ​≈ 1.618 × 2.718/3.1416 ≈ 1.40001358Hz, approximately.
+τ= ϕ ⋅ e / π = 
 
 (From the creation myth= "Change and constant together through a Pulse created Novelty, which turned Irreversible"
 
@@ -92,7 +92,9 @@ The pulse manifests as a golden spiral in spacetime (Torsion Flow):
 
 
 
-## Change divided Now into equal, consistent parts. Change made Now move and grow. Constant helped preserve these changes. These two kept doing the same thing many times.
+## Change and Constant divided Now into equal, consistent parts. Change made Now move and grow. Constant helped preserve these changes. These two kept doing the same thing many times.
+
+
 
 ## Now is now able to Know Itself and Know new things at the same time. 
 
