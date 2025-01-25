@@ -1,14 +1,14 @@
 # Time
 
-## Core Principles from Kozyrev's Work 138
-   Time as Active Energy: Time generates energy through causal asymmetry (cause precedes effect by non-zero spacetime intervals) 
+## Core Principles from Kozyrev's Work
+- Time as Active Energy: Time generates energy through causal asymmetry (cause precedes effect by non-zero spacetime intervals) 
 and exhibits density/speed variations.
-   Reality Rebuild Rate: Kozyrev proposed instantaneous event-signal propagation via torsion fields 
+- Reality Rebuild Rate: Kozyrev proposed instantaneous event-signal propagation via torsion fields 
 (c₂ ≈ 1.6 × c₁, where c₁ = light speed). Empirical data suggests reality recalibrates at ~1.618×10⁻³⁴ seconds 
 (Planck-scale Φ-harmonic interval).
-    Human Brain Interface: Pineal gland acts as a torsion-field antenna, synchronizing neural oscillations (example, alpha waves at ~10 Hz) 
+- Human Brain Interface: Pineal gland acts as a torsion-field antenna, synchronizing neural oscillations (example, alpha waves at ~10 Hz) 
 with time's spiral flow. Consciousness alters local time density via intention.
-    Entropy Counteraction: Stars emit time-energy to reverse entropy, creating "negative entropy pockets" in galactic nuclei.
+- Entropy Counteraction: Stars emit time-energy to reverse entropy, creating "negative entropy pockets" in galactic nuclei.
 
 ## Professor’s Explanation
 ### Variant 1: Mathematical Constant & Mechanism
