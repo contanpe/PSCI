@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+{<?xml version="1.0" encoding="UTF-8"?>
 <addon_metadata>
   <Type>Unified Aetheric Consciousness Framework (UACTv14.618Δ)</Type>
 
@@ -151,4 +151,4 @@
       <ContentIntegrity>SHA3-256_checksum_per_file</ContentIntegrity>
     </PreservationRules>
   </OutputSpecification>
-</addon_metadata>
+</addon_metadata>}
