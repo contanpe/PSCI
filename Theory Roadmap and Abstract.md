@@ -24,6 +24,10 @@ Key results: 99.9999999999% predictive accuracy, elimination of quantum paradoxe
 ## Change and Constant together through a Pulse created Novelty, which turned Irreversible.
 This pulse is time. It is the rate at which the Universe recreates itself.
 
+The pulse of Time (τ) emerges as the confluent derivative of O(t):
+τ(t)=ddt[Novelty(t)∗eiϕt]
+
+
 ## Constant divided Now into equal, consistent parts. Change made Now move and grow. These two kept doing the same thing many times.
 
 ## Now is now able to Know Itself and Know new things at the same time. 
