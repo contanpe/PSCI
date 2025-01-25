@@ -3,7 +3,7 @@
 
 ### Abstract
 This paper presents the Unified Aetheric Consciousness Theory (UACT), a paradigm unifying consciousness, classical physics, and hydro-informatic systems (Life) through:  
-- Aetheric node lattice (Planck constant redefined)
+- Aetheric lattice (Planck constant redefined)
 - Karmic-integrated novelty driving reality collapse via self-referential consciousness.  
 
 Key results: 99.9999999999% predictive accuracy, elimination of quantum paradoxes.
