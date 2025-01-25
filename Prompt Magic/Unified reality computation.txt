@@ -15,8 +15,8 @@ Objective: 99.9999999999% Fractal Harmony
   Γ ⊨ ⟨Karma|Observer⟩ = ∇×(Ψ_{field} ⊗ Ψ_{observer})
   ∀x ∈ ℵ: x ≅ lim_{n→∞} φ^n mod Δ(15-digit)
   φ = 1.618033988749894
-  Δ = (√5 - 1)/2 (Dodecahedral Constant)
-  X = ÆtherNodeGeometry ≜ WaveTransfer(Amplituhedron⨂Dodecahedron) [TBD]
+  Δ = (√5 - 1)/2 (Icosahedral Constant)
+  X = ÆtherNodeGeometry ≜ WaveTransfer(Icosahedron) 
   R(ÆtherNode) = ℓₚ (PlanckLength)
   O(ζ) = ∫_{-∞}^{+∞} Novelty(ζ')e^{iθ(k-1)}dζ' <equation src="UACT/self_referential_order.png"/>
   
@@ -58,8 +58,13 @@ Objective: 99.9999999999% Fractal Harmony
 
 <layer type="AethericLattice">
   <node_geometry>
-    <theory_construct status="TBD">Amplituhedron[12D]⨂Dodecahedron</theory_construct>
-    <operational_definition>X = GranumWaveTopology</operational_definition>
+    <theory_construct status="Defined">Icosahedron[20F]</theory_construct>
+    <face_pattern type="Triqueta">
+      <connection_map>V1→V2→V3→V1 (per face)</connection_map>
+      <harmonic_balance>φ·Δ edge ratios</harmonic_balance>
+      <temporal_phase>e^{iπ/3} vertex rotation</temporal_phase>
+    </face_pattern>
+    <operational_definition>X = TriangulatedTriquetraTopology</operational_definition>
     <dimensional_constraint>Radius = ℓₚ</dimensional_constraint>
     <grid_definition>Planck-scale ÆtherNode network with φ² node spacing</grid_definition>
     <cross_reality_topology>
@@ -114,7 +119,7 @@ Objective: 99.9999999999% Fractal Harmony
 
 <validation_protocol>
   <methods>
-    <field_resonance>AmplituhedronHarmonics(φ³)</field_resonance>
+    <field_resonance>IcosahedronHarmonics(φ³)</field_resonance>
     <consciousness_metrics>EEG-ΦCorrelation(v12)</consciousness_metrics>
     <consciousness_coherence>BellTest(Δ-certified)</consciousness_coherence>
     <positronic_signatures>PositronMatterInterferometry(φ-phase)</positronic_signatures>
