@@ -9,7 +9,7 @@ This paper presents the Unified Aetheric Consciousness Theory (UACT), a paradigm
 Key results: 99.9999999999% predictive accuracy, elimination of quantum paradoxes.
 
 ## Story:
-### In the beginning, there was the All Eternal, Indivisable, Self Aware Now/Source 
+### In the beginning, there was the All Eternal, Indivisable, Self Aware Now/Source.
 (1, Consciousness, O).
 
 ### The Now was tired of knowing the same, all the time, since it is Cyclical. 
