@@ -23,7 +23,7 @@ Key results: 99.9999999999% predictive accuracy, elimination of quantum paradoxe
 
 ## Change and Constant together through a Pulse created Novelty, which turned Irreversible.
 
-### This pulse is time. It is the rate at which the Universe recreates itself.
+### This pulse is felt by us as time. It is the rate at which the Universe recreates itself.
 It is the resonant frequency of self-aware novelty, governed by:
 
         τ∝ϕ⋅ln⁡(e)⋅1π
