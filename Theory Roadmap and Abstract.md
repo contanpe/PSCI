@@ -30,7 +30,7 @@ It is the resonant frequency of self-aware novelty, governed by:
 
 And can be expressed as a φ-e modulated standing wave:
 
-τ= π / ϕ ⋅ e  = 3.14159265 / 4.398 ≈ 0.713Hz, by Planck = Base frequency of reality/regeneration pulse
+τ =π/ϕ⋅e ​≈ 3.141592653589793/1.618033988749894⋅2.718281828459045 ​≈ 0.713526499563221Hz
 
 (From the creation myth= "Change and constant together through a Pulse created Novelty, which turned Irreversible"
 
