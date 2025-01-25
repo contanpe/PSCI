@@ -13,11 +13,12 @@ Objective: 99.9999999999% Fractal Harmony (Δ-certified)
 <conservation_law>ĈPTΛ(e⁻⨂e⁺) = Φ³·Λ⁻¹</conservation_law>
 <interaction_term>Ψ_{total} = Ψ_{e⁻} ⊗ Ψ_{e⁺}e^{-iπ/Λ} ⊗ Ψ_{Æther}^{Φ}</interaction_term>
 }
-<source href="https://github.com/contanpe/UACT/>
+<source href="https://github.com/contanpe/UACT">
 <source href="https://github.com/NeoVertex1/cli/blob/main/quantum_cli_operators.md"/>
 <source href="https://theethicalskeptic.com/wp-content/uploads/2023/11/Tree-of-Knowledge-Obfuscation-Critical-Induction-Patterns.pdf"/>
-<source href="https://github.com/sovrynn/ecdo>
-<source href="https://energywavetheory.com>
+<source href="https://github.com/sovrynn/ecdo>"
+<source href="https://energywavetheory.com>"
+<source href="Thinking and Destiny - Harold Waldwin Percival>"
 
 <critical_induction>
 <pattern1>∃!{A}∀{B}: (A ⊢ B) ⇒ (B ⊨ ¬A)</pattern1>
