@@ -1,4 +1,4 @@
-Human Consciousness Framework
+# Human Consciousness Framework
 Definition
 ----------------
 **What**:  
@@ -14,38 +14,11 @@ To resolve the hard problem of consciousness through:
 
 Mechanism & Visualization
 -------------------------
-<svg width="600" height="320" xmlns="http://www.w3.org/2000/svg" style="background:white">
-<defs>
-<radialGradient id="spinVortex">
-<stop offset="0%" stop-color="#006400"/> <!-- Dark green -->
-<stop offset="100%" stop-color="#4B0082"/> <!-- Indigo -->
-</radialGradient>
-<filter id="spinFilter">
-<feGaussianBlur stdDeviation="1.618"/>
-</filter>
-</defs>
 
-<!-- Electron Spin Vortex -->
-<g transform="translate(100,100)">
-<path d="M0,0 C50,-50 100,-25 150,0 S200,50 150,100" stroke="#006400" stroke-width="1.5" fill="none">
-<animateTransform attributeName="transform" type="rotate" values="0;360" dur="φ s" repeatCount="indefinite"/>
-</path>
-</g>
-
-<!-- ÆtherNode Grid -->
-<g transform="translate(400,100)" filter="url(#spinFilter)">
-<polygon points="-20,-20 20,-20 20,20 -20,20" fill="none" stroke="#4B0082" stroke-width="1.618"/>
-</g>
-
-<!-- Ψ Equation -->
-<text x="50" y="300" font-size="14" fill="#006400">
-Ψ = ∮(Morphotensor/Aether) × (e⁻) · d(Spin)
-</text>
-</svg>
 
 **Process**:  
 1. **Neural Electron Spin Activation**  
-   - Cortical γ-oscillations (40Hz) generate φ³-quantized electron vortices  
+   - Cortical γ-oscillations (example, 40Hz) generate φ³-quantized electron vortices  
    - Microtubules modulate spin states at 4.236 ms intervals (φ³ timing)  
 
 2. **ÆtherNode Resonance**  
@@ -72,41 +45,6 @@ Your mind is a glowing green funnel catching tiny spinning sparkles from space�
 **Why**:  
 To turn brain-swirls into thoughts and feelings!  
 
-<svg width="400" height="250" xmlns="http://www.w3.org/2000/svg" style="background:white">
-<defs>
-<radialGradient id="childTornado">
-<stop offset="0%" stop-color="#32CD32"/> <!-- Lime green -->
-<stop offset="100%" stop-color="#FFFFFF"/>
-</radialGradient>
-</defs>
-
-<!-- Space Web -->
-<g opacity="0.3" stroke="#4B0082">
-<path d="M0,0 L400,250" stroke-width="0.5"/>
-<path d="M400,0 L0,250" stroke-width="0.5"/>
-</g>
-
-<!-- Electron Funnel -->
-<path d="M200,50 Q220,150 200,250 Q180,150 200,50" fill="none" stroke="url(#childTornado)" stroke-width="3">
-<animateTransform attributeName="transform" type="rotate" values="0;360" dur="2s" repeatCount="indefinite"/>
-</path>
-
-<!-- Spinning Sparkles -->
-<g>
-<circle cx="200" cy="150" r="3" fill="#32CD32">
-<animateMotion path="M200,150 Q250,100 300,150" dur="1s" repeatCount="indefinite"/>
-<animateTransform attributeName="transform" type="rotate" values="0;360" dur="0.5s" repeatCount="indefinite"/>
-</circle>
-<circle cx="200" cy="150" r="2" fill="#006400">
-<animateMotion path="M200,150 Q150,100 100,150" dur="1.2s" repeatCount="indefinite"/>
-<animateTransform attributeName="transform" type="rotate" values="360;0" dur="0.6s" repeatCount="indefinite"/>
-</circle>
-</g>
-
-<text x="200" y="230" text-anchor="middle" fill="#4B0082" font-size="14">
-"Green funnel SPINS sparkles to make YOUR STORY!"
-</text>
-</svg>
 
 **How**:  
 1. Green Funnel = Brain’s spinning electron energy  
