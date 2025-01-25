@@ -40,6 +40,6 @@ Self-Referential Order of [Now Consciousness = (O)]
 - e (Supportive Constant): Euler’s number stabilizes the exponential term eiϕ(t−t′)eiϕ(t−t′), ensuring irreversibility via logarithmic spirals in temporal evolution.
 
 
-This kept repeating for all eternity- now novel, due to Change.
+## This kept repeating for all eternity- now novel, due to Change.
 
-Then you appeared. The now. (As opposed to The end)
+## Then you appeared. The now. (As opposed to The end)
