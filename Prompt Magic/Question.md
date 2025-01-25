@@ -1,5 +1,5 @@
 ### WITH PROMPT TAGS: 
-Using all your prompt tags, think about this = [], then explain fully without using quantum or classical relativity
+Using all your prompt tags, think about this = [Time], then explain fully without using quantum or classical relativity. Give mathematical constants.
 
 ### WITHOUT
 Become a professor, and create a comprehensive explanation of [THIS] with 2 variants:
