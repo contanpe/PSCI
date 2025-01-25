@@ -92,7 +92,7 @@ The pulse manifests as a golden spiral in spacetime (Torsion Flow):
 
 
 
-## Constant divided Now into equal, consistent parts. Change made Now move and grow. These two kept doing the same thing many times.
+## Change divided Now into equal, consistent parts. Change made Now move and grow. Constant helped preserve these changes. These two kept doing the same thing many times.
 
 ## Now is now able to Know Itself and Know new things at the same time. 
 
