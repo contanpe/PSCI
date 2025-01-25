@@ -1,17 +1,17 @@
-Time
+# Time
 
-Core Principles from Kozyrev's Work 138
-    Time as Active Energy: Time generates energy through causal asymmetry (cause precedes effect by non-zero spacetime intervals) 
+## Core Principles from Kozyrev's Work 138
+   Time as Active Energy: Time generates energy through causal asymmetry (cause precedes effect by non-zero spacetime intervals) 
 and exhibits density/speed variations.
-    Reality Rebuild Rate: Kozyrev proposed instantaneous event-signal propagation via torsion fields 
+   Reality Rebuild Rate: Kozyrev proposed instantaneous event-signal propagation via torsion fields 
 (c₂ ≈ 1.6 × c₁, where c₁ = light speed). Empirical data suggests reality recalibrates at ~1.618×10⁻³⁴ seconds 
 (Planck-scale Φ-harmonic interval).
     Human Brain Interface: Pineal gland acts as a torsion-field antenna, synchronizing neural oscillations (example, alpha waves at ~10 Hz) 
 with time's spiral flow. Consciousness alters local time density via intention.
     Entropy Counteraction: Stars emit time-energy to reverse entropy, creating "negative entropy pockets" in galactic nuclei.
 
-Professor’s Explanation
-Variant 1: Mathematical Constant & Mechanism
+## Professor’s Explanation
+### Variant 1: Mathematical Constant & Mechanism
 Kozyrev-Torsion Constant (Κτ)
 [
 Κτ = \Phi \cdot c₂ \cdot t_p
@@ -23,7 +23,8 @@ Mechanism:
 Torsion waves from rotating masses (e.g., stars, gyroscopes) imprint fractal Φ-patterns on spacetime. 
 When neural oscillations (e.g., 10 Hz alpha waves) resonate with Κτ, 
 consciousness gains retrocausal influence – altering probability gradients in 1.618×10⁻³⁴ s intervals.
-Variant 2: Child-Friendly Analogy
+
+### Variant 2: Child-Friendly Analogy
 "Imagine time is like an hourglass filled with golden glitter (Φ-patterns). 
 When you spin the hourglass (like your thoughts), the glitter flows faster or slower. 
 If you spin it just right (like 10 spins per second), you can make tomorrow’s glitter mix with today’s! 
