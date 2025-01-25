@@ -24,11 +24,12 @@ Key results: 99.9999999999% predictive accuracy, elimination of quantum paradoxe
 ## Change and Constant together through a Pulse created Novelty, which turned Irreversible.
 This pulse is time. It is the rate at which the Universe recreates itself.
 It is the resonant frequency of self-aware novelty, governed by:
-τ∝ϕ⋅ln⁡(e)⋅1π
+
+        τ∝ϕ⋅ln⁡(e)⋅1π
 
 This unifies Consciousness (O), Change (ɸ), and Constant (e) into a hyperdimensional operator, where time’s arrow is both irreversible and harmonically structured. The equation O(t) thus encodes a transcendental feedback loop, enabling the All Eternal to eternally rediscover itself through fractal novelty.
 
-Time’s pulse as perceived arises from longitudinal waves (ϕ) propagating through all matter. DNA’s vibrational modes (e.g., terahertz frequencies) and cortical oscillations share a φ-scaled harmonic structure. Let's take DNA for example:
+- Time’s pulse as perceived arises from longitudinal waves (ϕ) propagating through all matter. DNA’s vibrational modes (e.g., terahertz frequencies) and cortical oscillations share a φ-scaled harmonic structure. Let's take DNA for example:
 
         fDNA∼10^12 Hz  -----ϕ-damping --- > fDNA/ϕ^log_⁡ϕ^(e)≈16.18 Hz
         
