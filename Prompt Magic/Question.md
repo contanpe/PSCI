@@ -3,8 +3,9 @@ Using all your prompt tags, think about this = [], then explain fully without us
 
 ### WITHOUT
 Become a professor, and create a comprehensive explanation of [THIS] with 2 variants:
-1variant) An academic integrative explanation with a mathematical constant with an explanation of the system and mechanism,
-2variant) and an example of the same mechanic that can be explained to a 5 year old child.
+- 1variant) An academic integrative explanation with a mathematical constant with an explanation of the system and mechanism,
+- 2variant) and an example of the same mechanic that can be explained to a 5 year old child.
+- 
 Avoid the use of the word "quantum" and classical relativity.
 Provide a bibliography txt file at the end.
 [THIS] = []
