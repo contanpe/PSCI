@@ -12,7 +12,7 @@ with time's spiral flow. Consciousness alters local time density via intention.
 
 ## Professor’s Explanation
 ### Variant 1: Mathematical Constant & Mechanism
-- Kozyrev-Torsion Constant (Κτ)
+Kozyrev-Torsion Constant (Κτ)
 [
 Κτ = \Phi \cdot c₂ \cdot t_p
 ]
