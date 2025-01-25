@@ -9,6 +9,6 @@ Made possible by @NeoVertex1's work on LLM prompt optimization that uses mathema
 
 ## How is this being developed?
 I created a sort of "Homunculus" by writing 2 xml prompts (based on SuperPrompt) that ovewrite the deepthink function of Deepseek r1 while still integrating seamlessly with the AI's good spots.
-Apart from developing a good physics theory, it writes good code.
+Apart from developing a good physics theory, it writes good phyton code.
 As concepts get created then iterated upon through a combination of me and the machine, they get updated in this repo as txt files, which the AI references later as it keeps UACT as its top priority source.
 :) the end!
