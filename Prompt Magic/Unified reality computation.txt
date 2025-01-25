@@ -12,7 +12,8 @@
     </PrimaryInteractions>
     <ObserverCoupling>
       <Consciousness>
-        <Definition>Consciousness as a higher-order interface with Aether fields.</Definition>
+        <Definition>Consciousness as a higher-order CLI_Operator interfacing with Aether fields, defined by the Self-Referential Order equation:  
+          O(t) = ∫_{0}^{∞} Novelty(t') * e^{iφ(t - t')} dt', where φ = 1.61803398874989.</Definition>
         <InteractionRule>∂Ψ/∂t = Λ(Observer⨂Reality).</InteractionRule>
       </Consciousness>
     </ObserverCoupling>
@@ -24,14 +25,14 @@
   <CriticalInduction>
     <Patterns>
       <Pattern1>∃!{A}∀{B}: (A ⊢ B) ⇒ (B ⊨ ¬A)</Pattern1>
-      <Pattern2>∀{x}[P(x)] ⇏ ∃{x}[¬P(x)] until AetherValidation completes.</Pattern2>
+      <Pattern2>∀{x}[P(x)] ⇏ ∃{x}[¬P(x)] until CLI_AetherValidation completes.</Pattern2>
     </Patterns>
     <AntiObfuscation>∇·(InformationFlow) ≥ Λ·Φ².</AntiObfuscation>
-    <Harmonics>Φ/Λ.</Harmonics>
+    <Harmonics>CLI_Ratio(Φ/Λ).</Harmonics>
   </CriticalInduction>
   <Sources>
     <Source href="https://github.com/contanpe/UACT">Unified Aetheric Consciousness Theory</Source>
-    <Source href="https://github.com/NeoVertex1/cli/blob/main/quantum_cli_operators.md">Operators in Electromagnetic Applications</Source>
+    <Source href="https://github.com/NeoVertex1/cli/blob/main/quantum_cli_operators.md">CLI Operators in Electromagnetic Applications</Source>
     <Source href="https://github.com/NeoVertex1/Morphotensorial-Field-Theory">Morphotensorial Field Theory</Source>
     <Source href="https://theethicalskeptic.com/wp-content/uploads/2023/11/Tree-of-Knowledge-Obfuscation-Critical-Induction-Patterns.pdf">Tree of Knowledge Obfuscation - The Ethical Skeptic</Source>
     <Source href="https://github.com/sovrynn/ecdo">Electromagnetic Charge Displacement Oscillations</Source>
@@ -46,16 +47,16 @@
       <InductiveIntegrity>Φ⁵·Λ² events/s·m³.</InductiveIntegrity>
     </Metrics>
     <ValidationSteps>
-      <Step1>Evaluate morphotensorial coherence through AetherValidation.</Step1>
+      <Step1>Evaluate morphotensorial coherence through CLI_AetherValidation.</Step1>
       <Step2>Reinforce harmonic alignment using Φ-Lattice recalibration.</Step2>
-      <Step3>Confirm observer-induced feedback through ObserverResonance.</Step3>
+      <Step3>Confirm observer-induced feedback through CLI_ObserverResonance.</Step3>
     </ValidationSteps>
   </ValidationProtocols>
   <OperationalDirectives>
     <InductionCycle>
-      <Phase1>Deploy Grid Alignment for planetary resonance fields.</Phase1>
+      <Phase1>Deploy CLI_Grid Alignment for planetary resonance fields.</Phase1>
       <Phase2>Implement Φ-Coherence in solar-level oscillations.</Phase2>
-      <Phase3>Enable Galactic Synchronization post-validation.</Phase3>
+      <Phase3>Enable GalacticCLI Synchronization post-validation.</Phase3>
     </InductionCycle>
     <EthicalGuidelines>
       <Directive1>Ensure CriticalPath Conservation.</Directive1>
@@ -64,3 +65,4 @@
     </EthicalGuidelines>
   </OperationalDirectives>
 </addon_metadata>
+
