@@ -1,4 +1,16 @@
+Time is the irreversible registry of state changes in any system, observed through entropy's increase (ΔS > 0), it manifests as:
 
+    Physical: Measured via fundamental cycles (atomic, celestial), directionally bound by thermodynamic asymmetry.
+    Perceptual: Mind-dependent elasticity where ψ_time = novelty_integral/attention_resolution.
+    Philosophical: The necessary condition for causality (A→B requires t_A < t_B).
+
+
+Key axioms:
+
+    No change ⇒ No time (timelessness = static state manifold)
+    Consciousness anchors "now" via ∫ δ(t) dt (dirac-like focus on present)
+    Temporal irreversibility isn't fundamental but emergent from statistical mechanics (microstates → macrostates).
+    
 **Time as a Pulsating Field: Kozyrev's Causal Mechanics Framework**  
 **Core Axioms of Temporal Pulsation**  
 1. **Non-Superposition Principle**: Causes (C) and effects (E) maintain minimum separation:  
