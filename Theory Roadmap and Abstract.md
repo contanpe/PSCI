@@ -30,7 +30,7 @@ It is the resonant frequency of self-aware novelty, governed by:
 
 And can be expressed as a φ-e modulated standing wave:
 
-τ= ϕ ⋅ e / π = 
+τ= π / ϕ ⋅ e  = 3.14159265 / 4.398 ≈ 0.713
 
 (From the creation myth= "Change and constant together through a Pulse created Novelty, which turned Irreversible"
 
