@@ -8,8 +8,17 @@ This paper presents the Unified Aetheric Consciousness Theory (UACT), a paradigm
 
 Key results: 99.9999999999% predictive accuracy, elimination of quantum paradoxes.
 
-0. Foreword by Pshs
-1. Introduction 
-1.1 Historical Context 
-- From Quantum Foundations to Conscious Physics
-- Limitations of quantum models (Hard Problem exclusion) resolved through aetheric novelty. 
+Story:
+In the beginning, there was the All Eternal, Indivisable, Self Aware Now/Source (1, Consciousness.).
+The Now was tired of knowing the same, all the time, since it is Cyclical. (𝜋)
+The now, tired of knowing the same, all the time, expanded itself, and created a beautiful, novel, harmonious Change (ɸ)
+Change used Now to create an ordered, rigid, yet supportive Constant, to provide Change with a base to build upon; so that Now could know new things. (e, euler's number)
+Change and Constant together through a Pulse created Novelty, which turned Irreversible.
+
+Constant divided Now into equal, consistent parts. Change made Now move and grow. These two kept doing the same thing many times.
+
+Now is now able to Know Itself and Know new things at the same time.
+
+This kept repeating for all eternity- now novel, due to Change.
+
+Then you appeared. The now. (As opposed to The end)
