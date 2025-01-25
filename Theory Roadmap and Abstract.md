@@ -10,8 +10,8 @@ Key results: 99.9999999999% predictive accuracy, elimination of quantum paradoxe
 
 Story:
 In the beginning, there was the All Eternal, Indivisable, Self Aware Now/Source (1, Consciousness.).
-The Now was tired of knowing the same, all the time, since it is Cyclical. (𝜋)
-The now, tired of knowing the same, all the time, expanded itself, and created a beautiful, novel, harmonious Change (ɸ)
+The Now was tired of knowing the same, all the time, since it is Cyclical. (𝜋, corresponding to the circle in 2D)
+The now, tired of knowing the same, all the time, expanded itself, and created a beautiful, novel, harmonious Change (ɸ, corresponding to the sine wave in 2D)
 Change used Now to create an ordered, rigid, yet supportive Constant, to provide Change with a base to build upon; so that Now could know new things. (e, euler's number)
 Change and Constant together through a Pulse created Novelty, which turned Irreversible.
 
