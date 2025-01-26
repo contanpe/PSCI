@@ -111,9 +111,26 @@ Stabilization Term: e^(i√100) sinc(Φ) bridges the gap to 2:
 - √100 scales Euler's exponential to achieve Δ ≈ 0.0584.
 
 The ratio (π/Φ≈1.9416)e^(i√100) sinc(√5/2) is seen as a "turning" of a circle into 2 when stabilized.
+
+
+### Fibonacci:
+
 In mathematics, the Fibonacci sequence is a sequence in which each element is the sum of the two elements that precede it.
 In turn, the constant π / Φ · e^(i√100) sinc(√5/2) = 2, represents a foundational pattern for iterative expansion (infinitely iterating due to 𝜋), culminating in the Fibonacci sequence.
 
+ Fibonacci sequence asymptotically converges to Φ via lim⁡n→∞Fn+1Fn=Φ
+
+    Binet's formula: Fn=Φn−ψn5
+    , where ψ=−1Φ
+
+Metamorphic Link to π:
+
+        Golden angle in phyllotaxis: 2π(1−1Φ)≈137.5∘, encoding Fibonacci growth in spiral systems.
+        Key identity: cos⁡(π/5)=Φ2→π=5arccos⁡(Φ/2). 
+        
+Rearranged:
+
+        πΦ=5arccos⁡(Φ/2)Φ≈1.9416
 ### 2D
 Every time phi gains an exponential (Φ^1+n), we observe dimensional transformations.
 
@@ -132,22 +149,6 @@ To arrive at a fully stabilized constant geometry we do this:
 This number is tied to the Fibonacci sequence and Φ.
 In the fibonacci sequence, 144 corresponds to the quantity of order 12.
 
-### Fibonacci:
-
- Fibonacci sequence asymptotically converges to Φ via lim⁡n→∞Fn+1Fn=Φ
-
-    Binet's formula: Fn=Φn−ψn5
-    , where ψ=−1Φ
-
-Metamorphic Link to π:
-
-        Golden angle in phyllotaxis: 2π(1−1Φ)≈137.5∘, encoding Fibonacci growth in spiral systems.
-        Key identity: cos⁡(π/5)=Φ2→π=5arccos⁡(Φ/2). 
-        
-Rearranged:
-
-        πΦ=5arccos⁡(Φ/2)Φ≈1.9416
-
 ### How does euler stabilize?
 
 Φ (golden ratio ≈ 1.618) and e (Euler’s number ≈ 2.718) collaborate to tame irrational recursion into observable symmetry through:
@@ -159,7 +160,7 @@ Rearranged:
 ### 3D
         π / Φ^3 ≈ 0.741
 
-
+π/(ϕ⋅e)^3
 
 ## Now is now able to Know Itself and Know new things at the same time. 
 
