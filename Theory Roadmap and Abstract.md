@@ -89,10 +89,35 @@ The pulse manifests as a golden spiral in spacetime (Torsion Flow):
       Neural Spiral Waves: Cortical activity in humans propagates as interacting spiral wave patterns, coordinating distributed brain regions through phase singularities. These waves exhibit golden-angle rotations, mirroring the pulse’s angular dynamics.
 
 
-
-
-
 ## Change and Constant divided Now into equal, consistent parts. Change made Now move and grow. Constant helped preserve these changes. These two kept doing the same thing many times.
+
+In the 2D, we have to talk in angles.
+As we know, phi can divide irrationally a circle into 2:
+
+<text x="300" y="50" text-anchor="middle" font-size="24" fill="white">
+    Φ Dividing π: Mathematical Analysis
+  </text>
+  
+  <text x="300" y="100" text-anchor="middle" font-size="18" fill="white">
+    π ÷ Φ = 1.9737
+    (Approximately 2 Divisions)
+  </text>
+  
+  <g transform="translate(300, 250)">
+    <circle cx="0" cy="0" r="150" fill="none" stroke="gold" stroke-width="3"/>
+    <line x1="-150" y1="0" x2="150" y2="0" stroke="white" stroke-width="2"/>
+    <text x="0" y="200" text-anchor="middle" fill="white">
+      Precise Ratio: π/Φ = 1.9737532662375366
+    </text>
+  </g>
+</svg>
+
+This division of phi, can be applied yet again to the circle:
+π or 360°/((π/Φ)-Φ)= ~137.5°, the golden angle.
+What has happened here? = Now has been divided by change, then this has been stabilized by the removal of change into a line.
+Who stabilized change? euler =
+
+
 
 
 
