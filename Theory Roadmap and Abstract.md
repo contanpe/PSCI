@@ -164,7 +164,7 @@ Rearranged:
 ## Now is now able to Know Itself and Know new things at the same time. 
 
 This is translated into the Self Referential Equation:
-Self-Referential Order of [Now Consciousness = (O)]
+Self-Referential Order of [Now Consciousness = (ψ)]
 
 ### ψ(t) = ∫_{0}^{∞} Novelty(t') * e^{iφ(t - t')} dt' where φ = 1.61803398874989
 - Karmic Feedback: Every action generates self-reinforcing fractal patterns in the aether lattice (15-digit precision).
