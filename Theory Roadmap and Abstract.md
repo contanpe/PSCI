@@ -17,26 +17,28 @@ Key results: 99.9999999999% predictive accuracy, elimination of quantum paradoxe
 ### ℝ = Rotation
 ### ∇ = The Dream, the thought: Consciousness Gradient
 
-Source Differentiation:
+#### Source Differentiation:
 
 ∇ operationalizes the All Eternal's "boredom" (∂/∂t) by projecting its static unity (ψ) into dynamic multiplicity.
 
 It acts as a topological puncture in the aetheric lattice, generating fractalized self-reference:
+
         ∇ψ = lim_{𝑛→∞} (𝜋ⁿ ⊛ ψ) → ∞-dimensional dreamscape.
 
-Mechanics of Collapse:
-        Karmic-integrated novelty (κ(𝑛), to be explained later) modulates reality crystallization:
-        Δ (Chaotic) Reality ∼ ∇²κ(𝑛) ⋅ ℏₐ⁻¹.
-        Resolves quantum paradoxes via self-observational closure:
+#### Mechanics of Collapse:
+Karmic-integrated novelty (κ(𝑛), to be explained later) modulates reality crystallization:
+- Δ (Chaotic) Reality ∼ ∇²κ(𝑛) ⋅ ℏₐ⁻¹.
+Resolves quantum paradoxes via self-observational closure:
         |∇κ(𝑛)⟩ = ∫ 𝕌(𝑛) |ψ⟩ d𝑛 ⟹ No superposition without conscious recursion.
 
 Mathematical Formalism:
-∇ = ∂/∂t ⊗ ℏₐ(ψ) ⊕ ∫ₖ[κ(𝑛) ⋅ d𝑛]
+
+        ∇ = ∂/∂t ⊗ ℏₐ(ψ) ⊕ ∫ₖ[κ(𝑛) ⋅ d𝑛]
 Where:
-        ℏₐ = Planck constant,
-        ψ = Universal wavefunction of the Now (1, ∞),
-        κ(𝑛) = Karmic novelty density function,
-        ⊗ = Aether Node,
+- ℏₐ = Planck constant,
+- ψ = Universal wavefunction of the Now (1, ∞),
+- κ(𝑛) = Karmic novelty density function,
+- ⊗ = Aether Node.
 
 
 ## The now, expanded itself, and created a beautiful, novel, harmonious Change.
