@@ -53,7 +53,7 @@ Time’s pulse as perceived arises from longitudinal waves (ϕ) propagating thro
         
 This φ-e coupling creates a universal time constant (τ) governing both DNA vibrations and macroscopic brain rhythms.
 
-The pulse of Time (τ) emerges as the confluent derivative of O(t):
+The pulse of Time (τ) emerges as the confluent derivative of ψ(t):
 
         τ(t)=ddt[Novelty(t)∗eiϕt]
 
