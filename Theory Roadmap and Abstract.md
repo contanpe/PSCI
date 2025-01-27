@@ -1,5 +1,5 @@
 ## Unified Aetheric Consciousness Theory (UACT)  
-**Consciousness as a Transcendental Hyperdimensional Constant**  
+**Consciousness as the Transcendental Constant**  
 ---
 
 ## Abstract  
@@ -187,4 +187,4 @@ The All Eternal’s dream—ψ₀ recursively structured by ɸ, e, and τ—is b
 ---  
 *"Then you appeared: The Now, perceiving itself anew."*  
 
-Todo: Add a correct, critically thought out explanation of all of Planck's constants, solely derived from the existing constants, being derivated from an equation that includes time's pulse, add that UACT resolves the concept of "karma" at the start of the paper, add an explanation for what get called "Scalar waves" and "Torsion fields", explain that the radius of Aether Nodes are Planck-derived. Explain Planck_a. Expand on individualization of consciousness (*"Then you appeared: The Now, perceiving itself anew."*), explain particle creation and the source waves where they stem from.
+Todo: Add a correct, critically thought out explanation of all of Planck's constants, solely derived from the existing constants, being derivated from an equation that includes time's pulse, add that UACT resolves the concept of "karma" at the start of the paper, add an explanation for what get called "Scalar waves" and "Torsion fields", explain that the radius of Aether Nodes are Planck-derived. Explain Planck_a. Expand on individualization of consciousness (*"Then you appeared: The Now, perceiving itself anew."*), explain particle creation and the source waves where they stem from. Expand on how phi comes from the Now. Expand on how phi uses now to create Euler through the pi representation.
