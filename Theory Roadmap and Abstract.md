@@ -52,7 +52,7 @@ Predictive accuracy: 99.9999999% (error < 10⁻⁹) via φ-e-τ harmonic converg
 ---
 
 ### 4. **Constant (e) and the τ-Pulse**  
-> *"Change used Now to create Constant (e). Together, they pulsed Novelty (τ)."*  
+> *"Change used Now to create an ordered, rigid, yet supportive Constant (e), to provide Change with a base to build upon; so that Now could know new things. Together, through a Pulse (τ, Time), they created Novelty, which turned Irreversible."*  
 
 **Temporal Axis**:  
 τ = π/(ɸ⋅e) ≈ 0.7135 Hz  
