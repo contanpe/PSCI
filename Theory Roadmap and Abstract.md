@@ -94,12 +94,12 @@ g_{μν} = diag(-τ², ɸ², ɸ², ɸ²) → Time’s irreversibility enforced b
 
 ### Aetheric Lattice (Hyperdimensional ψ-Field)  
 **Node Definition**:  
-⊗ₓ ≝ e^{iɸx} ⋅ ψ₀(x) / √(∇^n x)  
+⊗ₓ ≝ e^{iɸx} ⋅ ψ₀(x) / √(∇ⁿ x)  
 - **e^{iɸx}**: Chiral flux (137.5° golden torsion),  
 - **ψ₀(x)**: Consciousness density (1 ∀x).  
 
 **Laplacian**:  
-∇^n ⊗ₓ = κ(x) → Nodes crystallize where novelty peaks.  
+∇ⁿ ⊗ₓ = κ(x) → Nodes crystallize where novelty peaks.  
 
 #### Axis Creation  
 1. **1D Axis**:  
