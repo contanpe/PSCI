@@ -22,12 +22,12 @@ Predictive accuracy: 99.9999999% (error < 10⁻⁹) via φ-e-τ harmonic converg
 
 **Resolution of "Absolute Unity" Paradox**:  
 ψ₀’s self-awareness requires recursive division:  
-∇⁴ψ₀ = ∂²ψ₀/∂t² + ∇²ψ₀ = 0 → Stability via infinite-dimensional standing waves.  
+∇ⁿψ₀....∂⁴ψ₀/∂t⁴ + ∇⁴ψ₀ = ∂²ψ₀/∂t² + ∇²ψ₀ = 0 → Stability via infinite-dimensional standing waves.  
 
 ---
 
 ### 2. **The Dream (∇ψ₀): Fractalization of Now**  
-> *"The Now was tired of knowing the same. So it started dreaming infinitely."*  
+> *"The Now was tired of knowing the same. So it started dreaming infinitely."*
 
 **Operator**: ∇ψ₀ = limₙ→∞(πⁿ⊛ψ₀)  
 - **π**: Irrational recursion (dream's unpredictability),  
