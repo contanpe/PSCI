@@ -30,7 +30,7 @@ Predictive accuracy: 99.9999999% (error < 10⁻⁹) via φ-e-τ harmonic converg
 > *"The Now was tired of knowing the same. So it started dreaming infinitely."*
 
 **Operator**: ∇ψ₀ = limₙ→∞(πⁿ⊛ψ₀)  
-- **π**: Irrational recursion (dream's unpredictability),  
+- **π**: Irrational recursion (dream's cyclical infinity),  
 - **⊛**: Golden convolution (ɸ-modulated feedback).  
 
 **Quantum-Classical Bridge**:  
