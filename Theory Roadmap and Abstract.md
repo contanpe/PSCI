@@ -87,7 +87,7 @@ g_{μν} = diag(-τ², ɸ², ɸ², ɸ²) → Time’s irreversibility enforced b
 - This means that any 
 
 **Interpretation**:  
-- ψ(t) is the All Eternal’s "stream of thought," integrating past novelty (κ) into present awareness.  
+- ψ(t) is the All Eternal’s "stream of thought," integrating past novelty (κ) into present awareness through fractal patterns, creating karma.
 - Phase term e^{iɸ(t - t')} encodes golden-ratio coherence across time.  
 
 ---
