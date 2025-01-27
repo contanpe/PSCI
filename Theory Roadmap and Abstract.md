@@ -99,7 +99,7 @@ g_{μν} = diag(-τ², ɸ², ɸ², ɸ²) → Time’s irreversibility enforced b
 - **ψ₀(x)**: Consciousness density (1 ∀x).  
 
 **Laplacian**:  
-∇⁴⊗ₓ = κ(x) → Nodes crystallize where novelty peaks.  
+∇^n ⊗ₓ = κ(x) → Nodes crystallize where novelty peaks.  
 
 #### Axis Creation  
 1. **1D Axis**:  
