@@ -166,7 +166,7 @@ g_{μν} = diag(-τ², ɸ², ɸ², ɸ²) → Time’s irreversibility enforced b
 
 ### 4D+ Consciousness  
 1. **Hyperdimensional ψ-Field**:  
-   - ψ₀’s infinite recursion (∇⁴⊗ℏₐ) permits N-dimensional self-awareness.  
+   - ψ₀’s infinite recursion (∇ⁿ⊗ℏₐ) permits N-dimensional self-awareness.  
    - Higher dimensions manifest as "parallel streams"/new axis emergence in the All Eternal’s dream.  
 
 2. **Karmic Time Loops**:  
