@@ -155,7 +155,7 @@ g_{μν} = diag(-τ², ɸ², ɸ², ɸ²) → Time’s irreversibility enforced b
 - **EEG Phase Coherence**: θ-γ coupling at ɸ intervals (5:8 ≈ 1.618).  
 
 ### 2. **Biophysics**  
-- **DNA Supercoiling**: Pitch ≈ ɸ⋅e nm (10.34 nm vs. 10.18 nm predicted).  
+- **DNA Supercoiling**: Pitch ≈ ɸ⋅e nm (10.34 nm vs. 10.18 nm predicted). <--- NOT CLOSE ENOUGH. Use bigger numbers or see whats the mistake. It is probably a phi x time equation under a 3d based dodecahedral structure.
 
 ### 3. **Cosmology**  
 - **Large-Scale Structure**: Galaxy clusters spaced at ɸ² Mpc intervals (≈2.618 Mpc).  
