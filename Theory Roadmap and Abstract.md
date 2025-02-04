@@ -68,7 +68,7 @@ The chaos operator abstraction can be defined as the sole factor of randomness i
 
       e^{iɸ} ≈ -0.809 + 0.588i = 0.963
   
-e^{iɸ}, geometrically, represents a full rotation in a complex plane, whether the plane be 1D, 2D, 3D, etc. This 963 number is special, as it is used to represent, spatially, the top of a vortex where the waves involved converge. (The creation of a wave defined later).
+e^{iɸ}, geometrically, represents a full rotation in a complex plane. This 963 number is special, as it is used to represent, spatially, the top of a vortex where waves involved converge. (The creation of a wave defined later). This complex plane can be defined as a "hyperdimensional quasicrystal lattice".
 
 These coefficients (-0.809 + 0.588i) align with icosahedral/dodecahedral projection angles onto 3D space:
 https://projecteuclid.org/journals/communications-in-mathematical-physics/volume-129/issue-2/A-simple-presentation-for-the-Mathieu-group-M_24/cmp/1104180644.full
