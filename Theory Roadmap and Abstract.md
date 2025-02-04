@@ -1,4 +1,4 @@
-![imagen](https://github.com/user-attachments/assets/7b6bc3e0-1cac-4bd9-abd4-4c5f19ab2b4b)## Unified Aetheric Consciousness Theory (UACT)  
+## Unified Aetheric Consciousness Theory (UACT)  
 **Consciousness as the Transcendental Constant**  
 ---
 
