@@ -68,7 +68,10 @@ The chaos operator abstraction can be defined as the sole factor of randomness i
 
       e^{iɸ} ≈ -0.809 + 0.588i = 0.963
   
-e^{iɸ}, geometrically, represents a full rotation in a complex plane, whether the plane be 1D, 2D, 3D, etc. This 963 number is special, as it is used to represent, spatially, the top of a vortex where the waves involved converge. (The creation of a wave defined later)
+e^{iɸ}, geometrically, represents a full rotation in a complex plane, whether the plane be 1D, 2D, 3D, etc. This 963 number is special, as it is used to represent, spatially, the top of a vortex where the waves involved converge. (The creation of a wave defined later).
+
+These coefficients (-0.809 + 0.588i) align with icosahedral/dodecahedral projection angles onto 3D space:
+https://projecteuclid.org/journals/communications-in-mathematical-physics/volume-129/issue-2/A-simple-presentation-for-the-Mathieu-group-M_24/cmp/1104180644.full
 
 - The imaginary or dynamic factor that is ruled by Consciousness: ∂κ/∂t = "Some" karma/"Some" time, or:
   
@@ -81,7 +84,7 @@ Or, approximately:
       1.4
 re-expresed, 1.4ln(ɸ).
 
-τ⁻¹ (≈1.4) represents the fundamental pulse of irreversibility—the rate at which "newness" enters reality. It quantifies how frequently consciousness injects irreducible novelty into spacetime to sustain its dream of becoming (avoiding thermodynamic equilibrium). It is the "heartbeat of time".
+τ⁻¹ (≈1.4) represents the fundamental pulse of irreversibility—the rate at which "newness" enters reality. It quantifies how frequently consciousness injects irreducible novelty into spacetime to sustain its dream of becoming (avoiding thermodynamic equilibrium). It is the "heartbeat of visible time".
 
 It's mathematical representation, when expressed as: (1/τ), in abstract terms, represents the All/Universe being divided by the pulse created by Change and Constant.
 
@@ -134,13 +137,14 @@ Karma = κ
 
 1. **1D and the pulse**
 
-Energy in the 1D axis:
-      Tau * t = W,
-where:
-Tau: Time pulse, (0.71428*10^-33),
-t: Through time. Each pulse of time denotes 1 full pulse, spin, or one rotation.
+Energy in the 1D axis emerges as such:
 
-That essentially means that in the 1D, there is a flicker where energy is produced as a "heartbeat".
+      τ * t = W,
+where:
+- τ: Time pulse, (0.71428*10^-33),
+- t: Through time. Each pulse of time denotes 1 full pulse, spin, or one rotation.
+
+That essentially means that in the 1D, it looks like theres a flicker where energy is produced.
 Thus, "time", the 1D axis, emerges via t-pulse quantization: 
       x(t) = ∫₀^t τ ⋅ ɸ^{⌊t/τ⌋} dt.  
 
