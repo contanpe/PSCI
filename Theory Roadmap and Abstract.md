@@ -66,7 +66,10 @@ The chaos operator abstraction can be defined as the sole factor of randomness i
       
 - The Real or static factor produced by constants:
 
-      e^{iɸ} ≈ -0.809 + 0.588i = 0.963 (A number which we will call Ϛ, more on it later)
+      e^{iɸ} ≈ -0.809 + 0.588i = 0.963
+  
+e^{iɸ}, geometrically, represents a full rotation in a complex plane, whether the plane be 1D, 2D, 3D, etc. This 963 number is special, as it is used to represent, spatially, the top of a vortex where the waves involved converge. (The creation of a wave defined later)
+
 - The imaginary or dynamic factor that is ruled by Consciousness: ∂κ/∂t = "Some" karma/"Some" time, or:
   
       τ⁻¹ln(ɸ) (novelty flux)
