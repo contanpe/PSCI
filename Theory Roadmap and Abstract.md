@@ -60,9 +60,11 @@ g_{μν} = diag(-τ², ɸ², ɸ², ɸ²) → Time’s irreversibility enforced b
 
 **Chaos Operator**
 
-The chaos operator abstraction can be defined as the sole factor of randomness in reality, where e and phi converge (influenced) by karma through time irreversibility, what we will call "novelty flux":
+The chaos operator abstraction can be defined as the sole factor of randomness in reality, balancing eternal order e^{iɸ} with temporal innovation  (n * τ⁻¹ln(ɸ)) — consciousness’ compromise between infinite stillness and finite becoming. e and phi converge into a lattice (e^{iɸ}) then are influenced by karma through time irreversibility (τ⁻¹ln(ɸ)), what we will call "novelty flux".
 
-      Δ ≝ e^{iɸ} ⋅ ∂κ/∂t  = 0.963 * (n * τ⁻¹ln(ɸ))
+It is composed by 2 sides:
+
+      Δ ≝ e^{iɸ} ⋅ ∂κ/∂t  = 0.963 * (k(n) * τ⁻¹ln(ɸ))
       
 - The Real or static factor produced by constants:
 
@@ -75,7 +77,7 @@ https://projecteuclid.org/journals/communications-in-mathematical-physics/volume
 
 - The imaginary or dynamic factor that is ruled by Consciousness: ∂κ/∂t = "Some" karma/"Some" time, or:
   
-      τ⁻¹ln(ɸ) (novelty flux)
+      k(n) * τ⁻¹ln(ɸ) (novelty flux)
 
 Where τ⁻¹ (1/τ) is:
 1.4000135836904848664214308213568640100874071028506088959505920695980472510426505382898408770794312815036444784827213617894578380420900350999728250919353367696695429459390301273835742263036891809893337....
