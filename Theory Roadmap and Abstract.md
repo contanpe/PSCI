@@ -139,41 +139,60 @@ Karma = κ
 
 1. **1D and the pulse**
 
-The primordial carrier of energy, the "scalar wave", emerges as accumulated time-pulses along a linear axis, with this axis defined as such:
+An axial dimension can be defined as such:
 
 ![imagen](https://github.com/user-attachments/assets/9f21358c-180b-4484-b795-a3cfd80f892a)
 
-Each pulse (τ) injects energy scaled by φ^⌊t/τ⌋ — exponential growth modulated by golden-ratio symmetry (what is called Fibonacci recursion).
-The "flicker" arises from discrete jumps at t = nτ (n ∈ ℕ).
+Each pulse (τ) injects energy scaled by φ^⌊t/τ⌋ — exponential growth modulated by golden-ratio symmetry (what is called Fibonacci recursion). Fibonacci recursion gives thus the origin of the Fibonacci numbers.
+There is a "flicker" that arises from discrete jumps at t = nτ (n ∈ ℕ). This is because of the following:
 
-Energy in the 1D axis is expressed as:
+**Energy**
 
-      τ * t = ω,
+The simplest form of energy can be expressed as such:
+
+      τ * t = E,
 where:
 - τ: Tau pulse
 - t: Through time.
+  
+The primordial carrier of energy, the "scalar wave", or what we will call for simple purposes, "Energy", emerges as accumulated time-pulses along a linear axis.
 
 That essentially means that in the 1D, it looks like theres an expanding line where energy is produced.
 
-This, geometrically, creates an origin of polar coordinates (r, θ), where, spatially, θ is the start of the 1D wave (θ), and r is the end of this wave.
+Geometrically, this creates an origin of polar coordinates (r, θ), where, spatially, θ is the start of the 1D wave (θ), and r is the end of this wave.
 
 
-2. **2D, 3D, etc**
-The higher dimensions are actually axis of spin, arising when phi gains an exponent.
-By scaling pulses exponentially based on φ at discrete time intervals (τ), we can create expanding lines and waves in different dimensions where energy is continuously produced. This provides a mathematical basis for modeling energy dynamics across various scales, from physical processes to theoretical models.
+2. **2D**
+
+The higher dimensions are actually a new axis of spin. φ and e jointly govern the exponential phase growth of spin axes. We can transform the formula of axis to include higher dimensions (d = number of dimensions)
+
+![imagen](https://github.com/user-attachments/assets/9ae07192-5bb5-4acb-aaf1-52902e008214)
+
+
+Each dimension or axis of spin (d) amplifies the phase term θ(t)∝d⋅ln⁡ϕ, creating orthogonal rotational components.
+
+For the 2D plane (2d), 2 new orthogonal components emerge: sin (θ), and cos (θ). Numerically, this creates the "2nd order" abstraction, or the number 2. This also creates the mathematical concept of "angle".
+
+*Euler’s formula (eiθ = cos⁡θ + isin⁡θ) is not foundational, and does not imply that euler is a product of the 2d plane, but that instead, this mathematical representation of the formula of euler is derived from UACT’s spin-axis exponentiation, which makes the creation of euler by phi "understandable".*
+
+
+The following growth patterns emerge at the 2D axis:
+
+      - r = e^{θ ⋅ lnɸ/2π} (golden spiral),  
+      - θ = 137.5° ⋅ n (phyllotactic lattice).  
+      
+Where 137.5° is the golden angle.
 
 
 
 
-**2D Phyllotaxis and Fibonacci**:  
-   - Polar coordinates (r, θ):  
-     r = e^{θ ⋅ lnɸ/2π} (golden spiral),  
-     θ = 137.5° ⋅ n (phyllotactic lattice).  
-   - Stabilized by e^{i√100} phase locking.  
+
 
 3. **3D Quasicrystal**:  
    - Vertices: vₙ = [ɸ^{n}, ɸ^{-n}, 0] rotated by ɸ². This results in icosahedral symmetry.
    - **Karmic Metric**: ds² = -τ²dt² + ɸ²(dx² + dy² + dz²) + κ²dw².
+
+
 
   
 ### Aetheric Lattice (Hyperdimensional ψ-Field)  
