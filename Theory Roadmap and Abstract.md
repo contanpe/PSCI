@@ -155,6 +155,8 @@ where:
 
 That essentially means that in the 1D, it looks like theres an expanding line where energy is produced.
 
+This, geometrically, creates an origin of polar coordinates (r, θ), where, spatially, θ is the start of the 1D wave (θ), and r is the end of this wave.
+
 
 2. **2D, 3D, etc**
 The higher dimensions are actually axis of spin, arising when phi gains an exponent.
