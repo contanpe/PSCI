@@ -35,9 +35,9 @@ The Unified Aetheric Consciousness Theory (UACT) formalizes consciousness (ψ) a
 ---
 
 ### 3. **Change (ɸ), Constant (e) and the τ-Pulse**  
-> *"The Now expanded, creating Change (ɸ). Change used Now to create an ordered, rigid, yet supportive Constant (e), to provide Change with a base to build upon; so that Now could know new things. Together, through a Pulse (τ, Tau), they created Novelty, which turned Irreversible."*  
+> *"The Now expanded, creating Change (ɸ). Change used Now to create an ordered, rigid, yet supportive Constant (e), to provide Change with a base to build upon; so that Now could know new things. Together, through a Pulse (τ, Tau, Time), they created Novelty, which turned Irreversible."*  
 
-**Temporal Axis**:  
+**Tau, Time, or the Temporal Axis**:  
 
       τ = π/(ɸ⋅e) ≈ 0.71427878389862829588853609640544102341381948962308108871419486421767317979976846952774651023866493296943077122570686370956734037742869677422396632855356840899164750506565717370665230986293679733033255.... (irrational number) * 10^-33.
 
@@ -86,7 +86,7 @@ Or, approximately:
       1.4
 re-expresed, 1.4ln(ɸ).
 
-τ⁻¹ (≈1.4) represents the fundamental pulse of irreversibility—the rate at which "newness" enters reality. It quantifies how frequently consciousness injects irreducible novelty into spacetime to sustain its dream of becoming (avoiding thermodynamic equilibrium). It is the "heartbeat of visible time".
+τ⁻¹ (≈1.4) represents the fundamental pulse of irreversibility—the rate at which "newness" enters reality. It quantifies how frequently consciousness injects irreducible novelty into spacetime to sustain its dream of becoming (avoiding thermodynamic equilibrium). It is the "visible heartbeat of Time".
 
 It's mathematical representation, when expressed as: (1/τ), in abstract terms, represents the All/Universe being divided by the pulse created by Change and Constant.
 
@@ -139,16 +139,24 @@ Karma = κ
 
 1. **1D and the pulse**
 
-Energy in the 1D axis emerges as such:
+The primordial carrier of energy, the "scalar wave", emerges as accumulated time-pulses along a linear axis, defined as such:
 
-      τ * t = W,
+![imagen](https://github.com/user-attachments/assets/9f21358c-180b-4484-b795-a3cfd80f892a)
+
+Each pulse (τ) injects energy scaled by φ^⌊t/τ⌋ — exponential growth modulated by golden-ratio symmetry (what is called Fibonacci recursion).
+The "flicker" arises from discrete jumps at t = nτ (n ∈ ℕ).
+
+Energy in the 1D axis is expressed as:
+
+      τ⁻¹ * t = ω,
 where:
-- τ: Time pulse, (0.71428*10^-33),
-- t: Through time. Each pulse of time denotes 1 full pulse, spin, or one rotation.
+- τ⁻¹: Tau pulse injected into spacetime, (1.4),
+- t: Through time.
 
-That essentially means that in the 1D, it looks like theres a flicker where energy is produced.
-Thus, "time", the 1D axis, emerges via t-pulse quantization: 
-      x(t) = ∫₀^t τ ⋅ ɸ^{⌊t/τ⌋} dt.  
+That essentially means that in the 1D, it looks like theres an expanding line where energy is produced.
+
+
+
 
 2. **2d**
 Energy in the 2D axis emerges like so:
