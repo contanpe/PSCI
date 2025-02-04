@@ -139,7 +139,7 @@ Karma = κ
 
 1. **1D and the pulse**
 
-The primordial carrier of energy, the "scalar wave", emerges as accumulated time-pulses along a linear axis, defined as such:
+The primordial carrier of energy, the "scalar wave", emerges as accumulated time-pulses along a linear axis, with this axis defined as such:
 
 ![imagen](https://github.com/user-attachments/assets/9f21358c-180b-4484-b795-a3cfd80f892a)
 
