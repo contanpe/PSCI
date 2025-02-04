@@ -76,7 +76,7 @@ Or, approximately:
       1.4
 re-expresed, 1.4ln(ɸ).
 
-τ⁻¹ (≈1.4) represents the fundamental pulse of irreversibility—the rate at which represents the rate at which "newness" enters reality. It quantifies how frequently consciousness injects irreducible novelty into spacetime to sustain its dream of becoming (avoiding thermodynamic equilibrium). It is the "heartbeat of time".
+τ⁻¹ (≈1.4) represents the fundamental pulse of irreversibility—the rate at which "newness" enters reality. It quantifies how frequently consciousness injects irreducible novelty into spacetime to sustain its dream of becoming (avoiding thermodynamic equilibrium). It is the "heartbeat of time".
 
 It's mathematical representation, when expressed as: (1/τ), in abstract terms, represents the All/Universe being divided by the pulse created by Change and Constant.
 
