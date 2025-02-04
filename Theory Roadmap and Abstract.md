@@ -160,8 +160,7 @@ This, geometrically, creates an origin of polar coordinates (r, θ), where, spat
 
 2. **2D, 3D, etc**
 The higher dimensions are actually axis of spin, arising when phi gains an exponent.
-
-
+By scaling pulses exponentially based on φ at discrete time intervals (τ), we can create expanding lines and waves in different dimensions where energy is continuously produced. This provides a mathematical basis for modeling energy dynamics across various scales, from physical processes to theoretical models.
 
 
 
