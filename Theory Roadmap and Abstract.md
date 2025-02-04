@@ -93,7 +93,7 @@ In 1.4ln(ɸ):
 ![imagen](https://github.com/user-attachments/assets/5d98aa04-3c87-4086-9d30-f75ae7c56a82)
 
 **Entropy Resolution**:  
-Δ ≥ 0 ∀t > 0 → Matches 2nd law of thermodynamics via ɸ-damped oscillations.  
+Δ ≥ 0 ∀t > 0 → Matches 2nd law of thermodynamics via IRREVERSIBILITY.
 
 
 
