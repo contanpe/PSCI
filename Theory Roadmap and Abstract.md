@@ -88,7 +88,7 @@ It's mathematical representation, when expressed as: (1/τ), in abstract terms, 
 In 1.4ln(ɸ):
 
 - ln(ɸ) encodes spiral angular velocity tied to dodecahedral symmetry.
-- τ⁻¹ maps to an *inverse* curvature of spacetime’s fractal lattice: tighter curvature = faster novelty infusion. This is the origin of the "higher frequency" (the tighter curve of a sine wave); it inherently means that higher frequencies can infuse novelty faster into the Universe.
+- τ⁻¹ maps to an *inverse* curvature of spacetime’s fractal lattice: tighter curvature = faster novelty infusion. This is the origin of **frequency** (the tightness of the curve of a sine wave); it inherently means that higher frequencies can infuse novelty faster into the Universe.
 
 **Geometric Interpretation**
 
