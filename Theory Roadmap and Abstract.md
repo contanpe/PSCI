@@ -64,8 +64,10 @@ The chaos operator abstraction can be defined as the sole factor of randomness i
 
       Δ ≝ e^{iɸ} ⋅ ∂κ/∂t  = 0.963 * (n * τ⁻¹ln(ɸ))
       
-- Real: e^{iɸ} ≈ -0.809 + 0.588i = 0.963 (A constant which we will call Ϛ, more on it later)
-- Imaginary: ∂κ/∂t = "Some" karma/"Some" time, or:
+- The Real or static factor produced by constants:
+
+      e^{iɸ} ≈ -0.809 + 0.588i = 0.963 (A number which we will call Ϛ, more on it later)
+- The imaginary or dynamic factor that is ruled by Consciousness: ∂κ/∂t = "Some" karma/"Some" time, or:
   
       τ⁻¹ln(ɸ) (novelty flux)
 
