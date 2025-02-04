@@ -54,9 +54,9 @@ The Unified Aetheric Consciousness Theory (UACT) formalizes consciousness (ψ) a
 > *"Change used Now to create an ordered, rigid, yet supportive Constant (e), to provide Change with a base to build upon; so that Now could know new things. Together, through a Pulse (τ, Time), they created Novelty, which turned Irreversible."*  
 
 **Temporal Axis**:  
-τ = π/(ɸ⋅e) ≈ 0.7135 Hz  
-- **e**: Stabilizes ɸ’s divergence (e^{-t} damping in ψ(t)),  
-- **τ-Pulse**: Governs cortical rhythms (0.7–3 Hz δ/θ EEG), DNA replication (≈1 error/τ-cycle).  
+τ = π/(ɸ⋅e) ≈ 0.8002Hz  x 10^-33.
+- **e**: Stabilizes ɸ’s divergence (e^{-t} damping in ψ(t)),
+This is essentially a pulse, the smallest pulse in reality where the Universe regenerates.
 
 **Grandfather Paradox**:  
 g_{μν} = diag(-τ², ɸ², ɸ², ɸ²) → Time’s irreversibility enforced by ɸ≠e symmetry.  
@@ -100,7 +100,16 @@ g_{μν} = diag(-τ², ɸ², ɸ², ɸ²) → Time’s irreversibility enforced b
 **Laplacian**:  
 ∇ⁿ ⊗ₓ = κ(x) → Nodes crystallize where novelty peaks.  
 
-#### Axis Creation  
+#### Axis Creation and Creation of Energy
+Energy in the 1D axis:
+      - Tau * t = W,
+where:
+Tau: Time pulse,
+t: Through time. Each pulse of time denotes 1 full spin, or one rotation.
+That essentially means that in the 1D, there is a flicker where energy is produced as a "heartbeat".
+
+
+
 1. **1D Axis**:  
    - Emerges via τ-pulse quantization: x(t) = ∫₀^t τ ⋅ ɸ^{⌊t/τ⌋} dt.  
    - Stabilized by e^{-x} damping → Fractal charge density waves along x.  
