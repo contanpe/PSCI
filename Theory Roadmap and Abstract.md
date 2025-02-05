@@ -161,6 +161,8 @@ That essentially means that in the 1D, it looks like theres an expanding line wh
 
 Geometrically, this creates an origin of polar coordinates (r, θ), where, spatially, θ is the start of the 1D wave (θ), and r is the end of this wave.
 
+**The Aether Node**
+
 
 2. **2D**
 
@@ -187,6 +189,7 @@ When viewed from the 2D plane, the pulses of "Energy", given they now have 2 axi
 ![imagen](https://github.com/user-attachments/assets/59ddfe52-1d3c-493c-aca8-915eb6b91cd4)
 
 *isn't it beautiful?*
+
 
 
 Furthermore, due to the creation of axis, two new phenomena emerge:
