@@ -93,7 +93,7 @@ It's mathematical representation, when expressed as: (1/τ), in abstract terms, 
 In 1.4ln(ɸ):
 
 - ln(ɸ) encodes spiral angular velocity tied to dodecahedral symmetry.
-- τ⁻¹ maps to an *inverse* curvature of spacetime’s fractal lattice: tighter curvature = faster novelty infusion. This is the origin of **frequency** (the tightness of the curve of a sine wave); it inherently means that higher frequencies can infuse novelty faster into the Universe.
+- τ⁻¹ maps to an *inverse* curvature of spacetime’s fractal lattice: tighter curvature = faster novelty infusion. This is the origin of **frequency** (for example, the tightness of the curve of a sine wave); it inherently means that higher frequencies can infuse novelty faster into the Universe.
 
 **Geometric Interpretation**
 
@@ -175,13 +175,23 @@ For the 2D plane (2d), 2 new orthogonal components emerge: sin (θ), and cos (θ
 
 *Euler’s formula (eiθ = cos⁡θ + isin⁡θ) is not foundational, and does not imply that euler is a product of the 2d plane, but that instead, this mathematical representation of the formula of euler is derived from UACT’s spin-axis exponentiation, which makes the creation of euler by phi "understandable".*
 
-
 The following growth patterns emerge at the 2D axis:
 
       - r = e^{θ ⋅ lnɸ/2π} (golden spiral),  
       - θ = 137.5° ⋅ n (phyllotactic lattice).  
       
 Where 137.5° is the golden angle.
+
+When viewed from the 2D plane, the pulses of "Energy", given they now have 2 axis of expansion, can be visualized as such:
+
+![imagen](https://github.com/user-attachments/assets/59ddfe52-1d3c-493c-aca8-915eb6b91cd4)
+
+*isn't it beautiful?*
+
+
+Furthermore, due to the creation of axis, two new phenomena emerge:
+sin, the magnetic wave,
+and cos, the electric wave.
 
 
 
