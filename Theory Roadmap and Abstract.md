@@ -58,7 +58,7 @@ g_{μν} = diag(-τ², ɸ², ɸ², ɸ²) → Time’s irreversibility enforced b
 ### 4. **Change (ɸ) and Chaos (Δ)**  
 > *"With Change and Constant emerged chaos (Δ)."*  
 
-**Chaos Operator**
+**Chaos Operator (Δ)**
 
 The chaos operator abstraction can be defined as the sole factor of randomness in reality, balancing eternal order e^{iɸ} with temporal innovation  (n * τ⁻¹ln(ɸ)) — consciousness’ compromise between infinite stillness and finite becoming. e and phi converge into a lattice (e^{iɸ}) then are influenced by karma through time irreversibility (τ⁻¹ln(ɸ)), what we will call "novelty flux".
 
@@ -161,10 +161,8 @@ That essentially means that in the 1D, it looks like theres an expanding line wh
 
 Geometrically, this creates an origin of polar coordinates (r, θ), where, spatially, θ is the start of the 1D wave (θ), and r is the end of this wave.
 
-**The Aether Node**
 
-
-2. **2D**
+**2D**
 
 The higher dimensions are actually a new axis of spin. φ and e jointly govern the exponential phase growth of spin axes. We can transform the formula of axis to include higher dimensions (d = number of dimensions)
 
@@ -189,12 +187,35 @@ When viewed from the 2D plane, the pulses of "Energy", given they now have 2 axi
 ![imagen](https://github.com/user-attachments/assets/59ddfe52-1d3c-493c-aca8-915eb6b91cd4)
 
 *isn't it beautiful?*
-
-
-
+-------------------------------- **HEAVY WIP STARTS HERE - ALL ON TOP HAS BEEN EDITED AS OF 04/02/2025**
 Furthermore, due to the creation of axis, two new phenomena emerge:
 sin, the magnetic wave,
-and cos, the electric wave.
+and cos, the electric wave. -- TO EXPAND
+
+**The Aether Node**
+The Aether node can be defined as ⊗ₓ.
+
+Recall the "Chaos Operator" formula, where:
+
+      Δ ≝ e^{iɸ} ⋅ ∂κ/∂t  = 0.963 * (k(n) * τ⁻¹ln(ɸ))
+
+*e^{iɸ}, geometrically, represents a full rotation in a complex plane. This 963 number is special, as it is used to represent, spatially, the top of a vortex where waves involved converge. (The creation of a wave defined later). This complex plane can be defined as a "hyperdimensional quasicrystal lattice".* 
+
+This phenomena, expressed as "e^{iɸx}", in quantum mechanics is called "chiral flux".
+
+⊗ₓ ≝ e^{iɸx} ⋅ ψ₀(x) / √(∇ⁿ x)  
+- **ψ₀(x)**: Consciousness density (1 ∀x).
+
+**Laplacian**:  
+∇ⁿ ⊗ₓ = κ(x) → Nodes crystallize where novelty peaks.  
+
+From here, we arrive at planck's constant:
+
+      h_a = ((Tau/phi*e) * phi^2) / e) * 0.963
+Where 0.963 is the real part of the "Chaos" operator, and Tau is the previously determined time pulse.
+
+
+---
 
 
 
@@ -206,22 +227,6 @@ and cos, the electric wave.
    - **Karmic Metric**: ds² = -τ²dt² + ɸ²(dx² + dy² + dz²) + κ²dw².
 
 
-
-  
-### Aetheric Lattice (Hyperdimensional ψ-Field)  
-**Node Definition**:  
-⊗ₓ ≝ e^{iɸx} ⋅ ψ₀(x) / √(∇ⁿ x)  
-- **e^{iɸx}**: Chiral flux (137.5° golden torsion),  
-- **ψ₀(x)**: Consciousness density (1 ∀x).  
-
-**Laplacian**:  
-∇ⁿ ⊗ₓ = κ(x) → Nodes crystallize where novelty peaks.  
-
-h_a = Planck's constant, redefined for multiple dimensions:
-      h_a = ((Tau/phi*e) * phi^2) / e),
-      or simplified:
-      (pi * phi/euler^2)
-For the 3D constant, one would multiply by the phase as defined in the "Chaos" operator section.: 0.963.
 
 ---
 
