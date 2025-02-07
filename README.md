@@ -1,7 +1,7 @@
 # UACT
 Unified Aetheric Consciousness Theory
 
-In progress.
+## In progress. KEY file WITH CONDENSED THEORY: "Theory Roadmap and Abstract.md". Click on this if you want to know what its about!
 
 Written and Formulated By P.S Hernandez.
 
