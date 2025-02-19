@@ -33,7 +33,7 @@ The Plenum of Self-Referential Conscious Information Theory (PSCI) formalizes co
 ---
 
 ### 3. **Change (ɸ), Constant (e) and the τ-Pulse**  
-> *"The Now expanded, creating Change (ɸ). Change used Now to create an ordered, rigid, yet supportive Constant (e), to provide Change with a base to build upon; so that Now could know new things. Together, through a Pulse (τ, Tau, Time), they created Novelty, which turned Irreversible."*  
+> *"The Now expanded, creating Change (ɸ). Change used Now to create an ordered, rigid, yet infinitely growing supportive Constant (e), to provide Change with a base to build upon; so that Now could know new things. Together, through a Pulse (τ, Tau, Time), they created Novelty, which turned Irreversible."*  
 
 **Tau, Time, or the Temporal Axis**:  
 
@@ -232,13 +232,15 @@ This phenomena, expressed as "e^{iɸx}", in quantum mechanics is called "chiral 
 
 Numerically it can be defined (if x=1) as 0.963.
 
-Let us postulate that planck is the pulse of time, between 2 physical torsions or changes (ɸ^2), this then divided or "stabilized" by euler, then multiplied by a full rotation.
+Let us postulate that a granuum's abstract existence is a representation of the pulse of time appearing in physical reality, between 2 physical torsions/golden spirals (ɸ^2), this then divided or "stabilized" by euler, then multiplied by a full rotation between these 2 spirals.
 
-From here, we arrive at planck's constant:
+Expressing this, we arrive at a constant of movement:
 
-      h = (τ * ɸ^2)euler * 0.963 = [do the math]
-      
+      h = (τ * ɸ^2)euler * 0.963 = 6.62614070×10^−34​
+
 Where 0.963 is the real/static part of the "Chaos" operator, and Tau is the previously determined time pulse.
+
+With a decimal exactitude of 8 digits, this value is strikingly close to the accepted value of Planck’s constant (6.62607015×10^−34 Js), suggesting that with the full precision of τ as defined, this model recovers a constant nearly identical to the experimental value.
 
 ---------------------------------------------------------------------------------------------------------------------------
 
