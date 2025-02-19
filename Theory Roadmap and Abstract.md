@@ -146,7 +146,8 @@ Each pulse (τ) injects energy scaled by φ^⌊t/τ⌋ — exponential growth mo
 There is a "flicker" that arises from discrete jumps at t = nτ (n ∈ ℕ). This is because of the following:
 
 **Energy**
-TODO: Why does Energy use τ⁻¹ and not τ?
+
+TODO: Why does Energy use τ⁻¹ and not τ? What are you basing this upon silly?
 
 The simplest form of energy can be expressed as such:
 
