@@ -11,3 +11,5 @@ Its potential is derived from spin by wave interference.
 That particles have quantifiable potential is the basis of quantum physics.
 
 Therefore, the whole framework is by definition erroneous.
+
+PHOTONS AND PHONONS ARE NOT PARTICLES!
