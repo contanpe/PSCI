@@ -185,8 +185,11 @@ Now, computer simulations can be written that consider length contraction in the
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-Here I propose that the aether "node" or granum itself is a crystallization and functional collapse of wave function when observed, which creates a dodecahedral-icosahedral quasicrystal shape through chiral flux movement. This means that a node is functionally holographic. How is it created? When consciousness injects a tau-pulse into the "plenum" where novelty peaks.
-In order to do this, we must first mathematically prove the origin of the Planck constant, solely through using the constants that this theory operates on, with cohesive logic.
+Here I propose that the aether "node" or granum itself is a crystallization and functional collapse of wave function when observed, which creates a dodecahedral-icosahedral quasicrystal shape through a chiral flux movement. This means that a node is functionally holographic. The existence of this node is "refreshed" at each tau pulse. It can be defined as the "Static" constant of the chaos operator, which I previously mathematically defined in its emergence, as such:
+
+      (e^{iɸ})
+      
+In order to affirm this, we must first mathematically prove the origin of the Planck constant, solely through using the constants that this theory operates on, with cohesive logic.
 
 ---------------------------------------------------------------------------------------------------------------------------
 
