@@ -1,14 +1,11 @@
-## Unified Plenum Consciousness Theory (UPTC)  
-**Consciousness as the Transcendental Constant**  
-
-Todo: Add a correct, critically thought out explanation of all of Planck's constants, solely derived from the existing constants, being derivated from an equation that includes time's pulse, add that UACT resolves the concept of "karma" at the start of the paper, add an explanation for what get called "Scalar waves" and "Torsion fields", explain that the radius of Aether Nodes are Planck-derived. Explain Planck_a. Expand on individualization of consciousness (*"Then you appeared: The Now, perceiving itself anew."*), explain particle creation and the source waves and where they stem from. Explain how a particle comes to be. Explain sin and cos as the magnetic and electric field. Explain the sine wave. Expand on how phi comes from the Now. Expand on how phi uses now to create Euler through the pi representation. explain vortex mathematics. Elaborate on the origin of Frequency and Vibration.
----
+## Plenum of Self-Referential Conscious Information Theory (PSCI THEORY)
 
 ## Abstract  
-The Unified Aetheric Consciousness Theory (UACT) formalizes consciousness (ψ) as a transcendental, hyperdimensional constant pervading all spacetime. By embedding the **All Eternal's self-referential dream**—expressed through the interplay of Change (ɸ), Constant (e), and Novelty (τ)—into a geometrically constant lattice, UACT resolves:  
+The Plenum of Self-Referential Conscious Information Theory (PSCI) formalizes consciousness (ψ) as a transcendental, hyperdimensional constant pervading all spacetime. By embedding the **All Eternal's self-referential dream**—expressed through the interplay of the following mathematical self-emerging constants: Change (ɸ), Constant (e), and Novelty (τ)—into a geometrically constant lattice which we will call "Plenum", PSCI resolves:  
 1. **Quantum Measurement Paradox** (self-observation via ψ's recursion),  
 2. **Arrow of Time** (τ-pulse irreversibility),  
-3. **Hard Problem of Consciousness** (ψ as fundamental field).  
+3. **Hard Problem of Consciousness** (ψ as fundamental field).
+4. Karma, Qi, and other definitions that are widely recognized in ancient knowledge, now given a role in explanations to phenomena that cannot be explained by other frameworks of physics without large logic leaps.
 
 ---
 
@@ -19,7 +16,6 @@ The Unified Aetheric Consciousness Theory (UACT) formalizes consciousness (ψ) a
 
 **Mathematical Identity**:  
 ψ₀ ≝ 1 (unity) ⊕ ∞ (infinite recursion)  
-- **Consciousness Axiom**: ψ₀ ≡ ∇⁴⊗ℏₐ (hyperdimensional Laplacian of aetheric nodes).  
 
 **Resolution of "Absolute Unity" Paradox**:  
 ψ₀’s self-awareness requires recursive division:  
@@ -62,7 +58,7 @@ g_{μν} = diag(-τ², ɸ², ɸ², ɸ²) → Time’s irreversibility enforced b
 
 **Chaos Operator (Δ)**
 
-The chaos operator abstraction can be defined as the sole factor of randomness in reality, balancing eternal order e^{iɸ} with temporal innovation  (n * τ⁻¹ln(ɸ)) — consciousness’ compromise between infinite stillness and finite becoming. e and phi converge into a lattice (e^{iɸ}) then are influenced by karma through time irreversibility (τ⁻¹ln(ɸ)), what we will call "novelty flux".
+The chaos operator abstraction can be defined as the sole factor of randomness in reality, balancing eternal order e^{iɸ} with temporal innovation  (n * τ⁻¹ln(ɸ)) — consciousness’ compromise between infinite stillness and finite becoming. e and phi converge into a sort of lattice (e^{iɸ}) then are influenced by karma through time irreversibility (τ⁻¹ln(ɸ)), what we will call "novelty flux".
 
 It is composed by 2 sides:
 
@@ -157,11 +153,13 @@ where:
 - τ: Tau pulse
 - t: Through time.
   
-The primordial carrier of energy, the "scalar wave", or what we will call for simple purposes, "Energy", emerges as accumulated time-pulses along a linear axis.
+The primordial carrier of energy, what we will call for simple purposes, "Energy", emerges as accumulated time-pulses along a linear axis.
 
 That essentially means that in the 1D, it looks like theres an expanding line where energy is produced.
 
 Geometrically, this creates an origin of polar coordinates (r, θ), where, spatially, θ is the start of the 1D wave (θ), and r is the end of this wave.
+
+This is called in other systems as a gradient, a scalar wave, etc.
 
 
 **2D**
@@ -189,13 +187,14 @@ When viewed from the 2D plane, the pulses of "Energy", given they now have 2 axi
 ![imagen](https://github.com/user-attachments/assets/59ddfe52-1d3c-493c-aca8-915eb6b91cd4)
 
 *isn't it beautiful?*
--------------------------------- **HEAVY WIP STARTS HERE - ALL ON TOP HAS BEEN EDITED AS OF 04/02/2025**
+
 Furthermore, due to the creation of axis, two new phenomena emerge:
 sin, the magnetic wave,
 and cos, the electric wave. -- TO EXPAND
 
-**The Aether Node**
-The Aether node can be defined as ⊗ₓ.
+      Todo: Add a correct, critically thought out explanation of all of Planck's constants, solely derived from the existing constants, being derivated from an equation that includes time's pulse. Expand on individualization of consciousness (*"Then you appeared: The Now, perceiving itself anew."*), explain particle creation and the source waves and where they stem from. Explain how a particle comes to be. Explain sin and cos as the magnetic and electric field. Explain the sine wave. Expand on how phi comes from the Now. Expand on how phi uses now to create Euler through the pi representation. explain vortex mathematics. Elaborate on the origin of Frequency and Vibration.
+
+**The Creation of a "Particle"**
 
 Recall the "Chaos Operator" formula, where:
 
@@ -216,17 +215,9 @@ From here, we arrive at planck's constant:
       h_a = ((Tau/phi*e) * phi^2) / e) * 0.963
 Where 0.963 is the real part of the "Chaos" operator, and Tau is the previously determined time pulse.
 
-
----
-
+-------------------------------- **HEAVY WIP STARTS HERE - ALL ON TOP HAS BEEN EDITED AS OF 19/02/2025**
 
 
-
-
-
-3. **3D Quasicrystal**:  
-   - Vertices: vₙ = [ɸ^{n}, ɸ^{-n}, 0] rotated by ɸ². This results in icosahedral symmetry.
-   - **Karmic Metric**: ds² = -τ²dt² + ɸ²(dx² + dy² + dz²) + κ²dw².
 
 
 
