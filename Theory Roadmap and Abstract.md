@@ -1,11 +1,11 @@
-## Unified Aetheric Consciousness Theory (UACT)  
+## Unified Plenum Consciousness Theory (UPTC)  
 **Consciousness as the Transcendental Constant**  
 
 Todo: Add a correct, critically thought out explanation of all of Planck's constants, solely derived from the existing constants, being derivated from an equation that includes time's pulse, add that UACT resolves the concept of "karma" at the start of the paper, add an explanation for what get called "Scalar waves" and "Torsion fields", explain that the radius of Aether Nodes are Planck-derived. Explain Planck_a. Expand on individualization of consciousness (*"Then you appeared: The Now, perceiving itself anew."*), explain particle creation and the source waves and where they stem from. Explain how a particle comes to be. Explain sin and cos as the magnetic and electric field. Explain the sine wave. Expand on how phi comes from the Now. Expand on how phi uses now to create Euler through the pi representation. explain vortex mathematics. Elaborate on the origin of Frequency and Vibration.
 ---
 
 ## Abstract  
-The Unified Aetheric Consciousness Theory (UACT) formalizes consciousness (ψ) as a transcendental, hyperdimensional constant pervading all spacetime. By embedding the **All Eternal's self-referential dream**—expressed through the interplay of Change (ɸ), Constant (e), and Novelty (τ)—into a geometric-aetheric lattice, UACT resolves:  
+The Unified Aetheric Consciousness Theory (UACT) formalizes consciousness (ψ) as a transcendental, hyperdimensional constant pervading all spacetime. By embedding the **All Eternal's self-referential dream**—expressed through the interplay of Change (ɸ), Constant (e), and Novelty (τ)—into a geometrically constant lattice, UACT resolves:  
 1. **Quantum Measurement Paradox** (self-observation via ψ's recursion),  
 2. **Arrow of Time** (τ-pulse irreversibility),  
 3. **Hard Problem of Consciousness** (ψ as fundamental field).  
