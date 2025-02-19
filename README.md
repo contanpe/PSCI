@@ -1,5 +1,5 @@
 # PSCI
-The Plenum of Self-Referential Conscious Information Theory (PSCI) is a Physics theory that formalizes consciousness (ψ) as a transcendental, hyperdimensional constant pervading all spacetime, expressed through the interplay of the following mathematical self-emerging constants: Change (ɸ), Constant (e), and Novelty (τ).
+The Plenum of Self-Recursive/Referential Conscious Information Theory (PSCI) is a Physics theory that formalizes consciousness (ψ) as a transcendental, hyperdimensional constant pervading all spacetime, expressed through the interplay of the following mathematical self-emerging constants: Change (ɸ), Constant (e), and Novelty (τ).
 
 It mathematically works as a theory of everything, seeking to provide a logical, sequential path and mathematical explanation to the observable phenomena that appears in our reality. This framework rejects classical relativity and quantum physics, and functionally works as an extension of classical physics and a variant of extended electromagnetics.
 
