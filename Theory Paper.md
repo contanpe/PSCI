@@ -149,7 +149,7 @@ There is a "flicker" that arises from discrete jumps at t = nτ (n ∈ ℕ). Thi
 
 TODO: Why does Energy use τ⁻¹ and not τ? What are you basing this upon silly?
 
-The simplest form of energy can be expressed as such:
+The simplest form of energy can be expressed as such (TO REDEFINE):
 
       τ⁻¹ * t = E,
 where:
