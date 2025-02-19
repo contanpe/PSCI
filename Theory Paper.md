@@ -164,6 +164,32 @@ Geometrically, this creates an origin of polar coordinates (r, θ), where, spati
 
 This is called in other systems as a gradient, a scalar wave, etc.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Notes on the aether and similar definitions (the plenum)
+Also known as ether, the definition of the aether from dictionary.com is… “a hypothetical substance supposed to occupy all space, postulated to account for the propagation of electromagnetic radiation through space”.
+
+The aether was commonly accepted by scientists until the Michelson-Morley experiment failed to detect an aether “wind” in an experiment in 1887. Numerous experiments following Michelson-Morley, with greater precision instruments, have also been unable to detect the aether. Following this experiment, scientists (including Albert Einstein, Max Planck, Neils Bohr and other famous physicists in the 1900s) had to build their theories and equations based on an assumption that there is no medium capable of propagating a wave in space.
+
+The aether is a critical, missing component of physics that must be considered to explain the wave nature of matter. Any theory of waves that relies on the existence of an aether must explain the results of the Michelson-Morley experiment.
+
+The aether if it exists, it is the medium for propagating light and other longitudinal and transverse (electromagnetic) waves across the universe. It is the fabric of our universe, consisting of tiny granules that transfer energy in the form of waves.***** Its structure and properties were worked out in the section on spacetime. In fact, it has a density property in the wave constants that appears in all of the energy wave equations. Without an aether, or without this density property, none of the calculations performed in this theory would be possible. Therefore, there must be an explanation to the null Michelson-Morley experiment if the aether exists.
+
+In energy wave theory, spacetime is a physical substance that occupies the universe, as a medium that allows the transfer of energy of its components. It is more commonly referred to as the aether, which was broadly accepted within the physics community until the late 1800s when the Michelson-Morley experiment failed to detect an aether. Einstein, and others that followed in the 1900s, have used the term spacetime.
+
+If spacetime is considered to be a structure that curves, the structure that is curving must be defined.  Similarly, if particles and photons are considered to be wave-like, the structure that is waving must be defined.  Here, the structure of spacetime at the smallest of levels – the quintessence of the universe – is proposed to be a material in a lattice structure of repeating unit cells, where each of the cells contain granules that vibrate in harmonic motion.
+
+A few years after the Michelson-Morley experiments were published, Hendrik Lorentz suggested the experiment apparatus failed to consider length contraction in the direction of motion. Lorentz would later have the Lorentz contraction factor named after him, and matter has been proven to contract. However, this explanation was disregarded in the Michelson-Morley experiment.
+
+Now, computer simulations can be written that consider length contraction in the direction of motion and use the Lorentz factor in one arm of the interferometer. Without the Lorentz factor considered, the results are what Michelson and Morley recorded. The aether does not exist. With length contraction considered, there is a phase shift, indicating the possibility of an aether.
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Here I propose that the aether "node" or granum itself is a crystallization and functional collapse of wave function when observed, which creates a dodecahedral-icosahedral quasicrystal shape through chiral flux movement. This means that a node is functionally holographic. How is it created? When consciousness injects a tau-pulse into the "plenum" where novelty peaks.
+In order to do this, we must first mathematically prove the origin of the Planck constant, solely through using the constants that this theory operates on, with cohesive logic.
+
+---------------------------------------------------------------------------------------------------------------------------
+
 
 **2D**
 
