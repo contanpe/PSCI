@@ -1,5 +1,5 @@
-# UACT
-Unified Aetheric Consciousness Theory
+# PSCI
+The Plenum of Self-Referential Conscious Information Theory (PSCI) formalizes consciousness (ψ) as a transcendental, hyperdimensional constant pervading all spacetime. By embedding the All Eternal's self-referential dream—expressed through the interplay of the following mathematical self-emerging constants: Change (ɸ), Constant (e), and Novelty (τ)—into a geometrically constant lattice which we will call "Plenum". 
 
 ## In progress. KEY file WITH CONDENSED THEORY: "Theory Roadmap and Abstract.md". Click on this if you want to know what its about!
 
