@@ -228,11 +228,15 @@ Recall the "Chaos Operator" formula, where:
 
 *e^{iɸ}, geometrically, represents a full rotation in a complex plane. This 963 number is special, as it is used to represent, spatially, the top of a toroid where waves involved converge. (The creation of a wave defined later). This complex plane that is created when waves converge can be defined as a "hyperdimensional quasicrystal lattice".* 
 
-This phenomena, expressed as "e^{iɸx}", in quantum mechanics is called "chiral flux".
+This phenomena, expressed as "e^{iɸx}", in quantum mechanics is called "chiral flux". 
+
+Numerically it can be defined (if x=1) as 0.963.
+
+Let us postulate that planck is the pulse of time, between 2 physical torsions or changes (ɸ^2), this then divided or "stabilized" by euler, then multiplied by a full rotation.
 
 From here, we arrive at planck's constant:
 
-      h = ((Tau/phi*e) * phi^2) / e) * 0.963 = [do the math]
+      h = (τ * ɸ^2)euler * 0.963 = [do the math]
       
 Where 0.963 is the real/static part of the "Chaos" operator, and Tau is the previously determined time pulse.
 
