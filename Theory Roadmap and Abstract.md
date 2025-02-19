@@ -198,7 +198,7 @@ Todo: Explain sin and cos as the magnetic and electric field and why they are un
 
 Todo: Add a correct, critically thought out explanation of all of Planck's constants, solely derived from the existing constants, being derivated from an equation that includes time's pulse. Expand on individualization of consciousness (*"Then you appeared: The Now, perceiving itself anew."*), 
 
-**The Creation of a "Particle"**
+**The Creation of a "Particle" and Centripedal Implosion**
 
 Todo: Elaborate on particle creation.
 
