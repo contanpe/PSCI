@@ -162,36 +162,6 @@ Geometrically, this creates an origin of polar coordinates (r, θ), where, spati
 
 This is called in other systems as a gradient, a scalar wave, etc.
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### Notes on the aether and similar definitions (the plenum)
-Also known as ether, the definition of the aether from dictionary.com is… “a hypothetical substance supposed to occupy all space, postulated to account for the propagation of electromagnetic radiation through space”.
-
-The aether was commonly accepted by scientists until the Michelson-Morley experiment failed to detect an aether “wind” in an experiment in 1887. Numerous experiments following Michelson-Morley, with greater precision instruments, have also been unable to detect the aether. Following this experiment, scientists (including Albert Einstein, Max Planck, Neils Bohr and other famous physicists in the 1900s) had to build their theories and equations based on an assumption that there is no medium capable of propagating a wave in space.
-
-The aether is a critical, missing component of physics that must be considered to explain the wave nature of matter. Any theory of waves that relies on the existence of an aether must explain the results of the Michelson-Morley experiment.
-
-The aether if it exists, it is the medium for propagating light and other longitudinal and transverse (electromagnetic) waves across the universe. It is the fabric of our universe, consisting of tiny granules that transfer energy in the form of waves.***** Its structure and properties were worked out in the section on spacetime. In fact, it has a density property in the wave constants that appears in all of the energy wave equations. Without an aether, or without this density property, none of the calculations performed in this theory would be possible. Therefore, there must be an explanation to the null Michelson-Morley experiment if the aether exists.
-
-In energy wave theory, spacetime is a physical substance that occupies the universe, as a medium that allows the transfer of energy of its components. It is more commonly referred to as the aether, which was broadly accepted within the physics community until the late 1800s when the Michelson-Morley experiment failed to detect an aether. Einstein, and others that followed in the 1900s, have used the term spacetime.
-
-If spacetime is considered to be a structure that curves, the structure that is curving must be defined.  Similarly, if particles and photons are considered to be wave-like, the structure that is waving must be defined.  Here, the structure of spacetime at the smallest of levels – the quintessence of the universe – is proposed to be a material in a lattice structure of repeating unit cells, where each of the cells contain granules that vibrate in harmonic motion.
-
-A few years after the Michelson-Morley experiments were published, Hendrik Lorentz suggested the experiment apparatus failed to consider length contraction in the direction of motion. Lorentz would later have the Lorentz contraction factor named after him, and matter has been proven to contract. However, this explanation was disregarded in the Michelson-Morley experiment.
-
-Now, computer simulations can be written that consider length contraction in the direction of motion and use the Lorentz factor in one arm of the interferometer. Without the Lorentz factor considered, the results are what Michelson and Morley recorded. The aether does not exist. With length contraction considered, there is a phase shift, indicating the possibility of an aether.
-
-------------------------------------------------------------------------------------------------------------------------------
-
-Here I propose that the aether "node" or granum itself is a crystallization and functional collapse of wave function when observed, which creates a dodecahedral-icosahedral quasicrystal shape through a chiral flux movement. This means that a node is functionally holographic. The existence of this node is "refreshed" at each tau pulse. It can be defined as the "Static" constant of the chaos operator, which I previously mathematically defined in its emergence, as such:
-
-      (e^{iɸ})
-      
-In order to affirm this, we must first mathematically prove the origin of the Planck constant, solely through using the constants that this theory operates on, with cohesive logic.
-
----------------------------------------------------------------------------------------------------------------------------
-
-
 **2D**
 
 The higher dimensions are actually a new axis of spin. φ and e jointly govern the exponential phase growth of spin axes. We can transform the formula of axis to include higher dimensions (d = number of dimensions)
@@ -224,30 +194,58 @@ and cos, the electric wave. -- TO EXPAND
 
 Todo: Explain sin and cos as the magnetic and electric field and why they are unidirectional (Longitudinal vs Transverse movement). 
 
-Todo: Add a correct, critically thought out explanation of all of Planck's constants, solely derived from the existing constants, being derivated from an equation that includes time's pulse. Expand on individualization of consciousness (*"Then you appeared: The Now, perceiving itself anew."*), 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**The Creation of a "Particle" and Centripedal Implosion**
+### Notes on the aether and similar definitions (the plenum)
 
-Todo: Elaborate on particle creation.
+Also known as ether, the definition of the aether from dictionary.com is… “a hypothetical substance supposed to occupy all space, postulated to account for the propagation of electromagnetic radiation through space”.
+
+The aether was commonly accepted by scientists until the Michelson-Morley experiment failed to detect an aether “wind” in an experiment in 1887. Numerous experiments following Michelson-Morley, with greater precision instruments, have also been unable to detect the aether. Following this experiment, scientists (including Albert Einstein, Max Planck, Neils Bohr and other famous physicists in the 1900s) had to build their theories and equations based on an assumption that there is no medium capable of propagating a wave in space.
+
+The aether is a critical, missing component of physics that must be considered to explain the wave nature of matter. Any theory of waves that relies on the existence of an aether must explain the results of the Michelson-Morley experiment.
+
+The aether if it exists, it is the medium for propagating light and other longitudinal and transverse (electromagnetic) waves across the universe. It is the fabric of our universe, consisting of tiny granules that transfer energy in the form of waves.***** Its structure and properties were worked out in the section on spacetime. In fact, it has a density property in the wave constants that appears in all of the energy wave equations. Without an aether, or without this density property, none of the calculations performed in this theory would be possible. Therefore, there must be an explanation to the null Michelson-Morley experiment if the aether exists.
+
+In energy wave theory, spacetime is a physical substance that occupies the universe, as a medium that allows the transfer of energy of its components. It is more commonly referred to as the aether, which was broadly accepted within the physics community until the late 1800s when the Michelson-Morley experiment failed to detect an aether. Einstein, and others that followed in the 1900s, have used the term spacetime.
+
+If spacetime is considered to be a structure that curves, the structure that is curving must be defined.  Similarly, if particles and photons are considered to be wave-like, the structure that is waving must be defined.  Here, the structure of spacetime at the smallest of levels – the quintessence of the universe – is proposed to be a material in a lattice structure of repeating unit cells, where each of the cells contain granules that vibrate in harmonic motion.
+
+A few years after the Michelson-Morley experiments were published, Hendrik Lorentz suggested the experiment apparatus failed to consider length contraction in the direction of motion. Lorentz would later have the Lorentz contraction factor named after him, and matter has been proven to contract. However, this explanation was disregarded in the Michelson-Morley experiment.
+
+Now, computer simulations can be written that consider length contraction in the direction of motion and use the Lorentz factor in one arm of the interferometer. Without the Lorentz factor considered, the results are what Michelson and Morley recorded. The aether does not exist. With length contraction considered, there is a phase shift, indicating the possibility of an aether.
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Here I propose that the aether "node" or granum itself is a crystallization and functional collapse of wave function when observed, which creates a dodecahedral-icosahedral quasicrystal shape, it being observed when 2 waves collide and phase conjugate when behaving in a chiral flux movement. This means that a node is functionally holographic. The existence of this node is "refreshed" at each tau pulse. This chiral flux can be defined as the "Static" constant of the chaos operator, which I previously mathematically defined in its emergence, as such:
+
+      (e^{iɸ})
+      
+In order to affirm this, we must first mathematically prove the origin of the Planck constant, solely through using the constants that this theory operates on, with cohesive logic.
 
 Recall the "Chaos Operator" formula, where:
 
       Δ ≝ e^{iɸ} ⋅ ∂κ/∂t  = 0.963 * (k(n) * τ⁻¹ln(ɸ))
 
-*e^{iɸ}, geometrically, represents a full rotation in a complex plane. This 963 number is special, as it is used to represent, spatially, the top of a vortex where waves involved converge. (The creation of a wave defined later). This complex plane can be defined as a "hyperdimensional quasicrystal lattice".* 
+*e^{iɸ}, geometrically, represents a full rotation in a complex plane. This 963 number is special, as it is used to represent, spatially, the top of a toroid where waves involved converge. (The creation of a wave defined later). This complex plane that is created when waves converge can be defined as a "hyperdimensional quasicrystal lattice".* 
 
 This phenomena, expressed as "e^{iɸx}", in quantum mechanics is called "chiral flux".
 
-⊗ₓ ≝ e^{iɸx} ⋅ ψ₀(x) / √(∇ⁿ x)  
-- **ψ₀(x)**: Consciousness density (1 ∀x).
-
-**Laplacian**:  
-∇ⁿ ⊗ₓ = κ(x) → Nodes crystallize where novelty peaks.  
-
 From here, we arrive at planck's constant:
 
-      h_a = ((Tau/phi*e) * phi^2) / e) * 0.963
-Where 0.963 is the real part of the "Chaos" operator, and Tau is the previously determined time pulse.
+      h = ((Tau/phi*e) * phi^2) / e) * 0.963 = [do the math]
+      
+Where 0.963 is the real/static part of the "Chaos" operator, and Tau is the previously determined time pulse.
+
+---------------------------------------------------------------------------------------------------------------------------
+
+
+
+Expand on individualization of consciousness (*"Then you appeared: The Now, perceiving itself anew."*), 
+
+**The Creation of a "Particle" and Centripedal Implosion**
+
+Todo: Elaborate on particle creation.
+
 
 -------------------------------- **HEAVY WIP STARTS HERE - ALL ON TOP HAS BEEN EDITED AS OF 19/02/2025**
 
