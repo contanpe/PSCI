@@ -56,7 +56,7 @@ g_{μν} = diag(-τ², ɸ², ɸ², ɸ²) → Time’s irreversibility enforced b
 ### 4. **Change (ɸ) and Chaos (Δ)**  
 > *"With Change and Constant emerged chaos (Δ)."*  
 
-**Chaos Operator (Δ)**
+**Chaos/Entropy Operator (Δ)**
 
 The chaos operator abstraction can be defined as the sole factor of randomness in reality, balancing eternal order e^{iɸ} with temporal innovation  (n * τ⁻¹ln(ɸ)) — consciousness’ compromise between infinite stillness and finite becoming. e and phi converge into a sort of lattice (e^{iɸ}) then are influenced by karma through time irreversibility (τ⁻¹ln(ɸ)), what we will call "novelty flux".
 
@@ -84,14 +84,14 @@ Or, approximately:
       1.4
 re-expresed, 1.4ln(ɸ).
 
-τ⁻¹ (≈1.4) represents the fundamental pulse of irreversibility—the rate at which "newness" enters reality. It quantifies how frequently consciousness injects irreducible novelty into spacetime to sustain its dream of becoming (avoiding thermodynamic equilibrium). It works as a "lag" so that consciousness can create anew only after experiencing changes.
+τ⁻¹ (≈1.4) represents the fundamental pulse of irreversibility—the rate at which "newness" enters reality. It quantifies how frequently consciousness injects irreducible novelty into spacetime to sustain its dream of becoming (avoiding thermodynamic equilibrium). It works as a "lag" so that consciousness can create anew only after experiencing changes. For useful purposes, we will call this constant NEGENTROPY.
 
 It's mathematical representation, when expressed as: (1/τ), in abstract terms, represents the All/Universe being divided by the pulse created by Change and Constant.
 
 In 1.4ln(ɸ):
 
 - ln(ɸ) encodes spiral angular velocity tied to dodecahedral symmetry.
-- τ⁻¹ maps to an *inverse* curvature of spacetime’s fractal lattice: tighter curvature = faster novelty infusion. This is the origin of **frequency** (for example, the tightness of the curve of a sine wave); it inherently means that higher frequencies can infuse novelty faster into the Universe.
+- τ⁻¹ (Negentropy) maps to an *inverse* curvature of spacetime’s fractal lattice: tighter curvature = faster novelty infusion. This is the origin of **frequency** (for example, the tightness of the curve of a sine wave); it inherently means that higher frequencies can infuse novelty faster into the Universe.
 
 **Geometric Interpretation**
 
@@ -101,6 +101,7 @@ In 1.4ln(ɸ):
 **Entropy Resolution**:  
 Δ ≥ 0 ∀t > 0 → Matches 2nd law of thermodynamics via IRREVERSIBILITY.
 
+Todo: Expand on how phi comes from the Now. Expand on how phi uses now to create Euler through the pi representation. explain vortex mathematics. Elaborate on the origin of Frequency and Vibration. 
 
 
 ### 5. **Novelty (κ) and Recursive Self-Knowledge**  
@@ -145,12 +146,13 @@ Each pulse (τ) injects energy scaled by φ^⌊t/τ⌋ — exponential growth mo
 There is a "flicker" that arises from discrete jumps at t = nτ (n ∈ ℕ). This is because of the following:
 
 **Energy**
+TODO: Why does Energy use τ⁻¹ and not τ?
 
 The simplest form of energy can be expressed as such:
 
-      τ * t = E,
+      τ⁻¹ * t = E,
 where:
-- τ: Tau pulse
+- τ⁻¹: Negentropic constant, injection of novelty into reality,
 - t: Through time.
   
 The primordial carrier of energy, what we will call for simple purposes, "Energy", emerges as accumulated time-pulses along a linear axis.
@@ -192,9 +194,13 @@ Furthermore, due to the creation of axis, two new phenomena emerge:
 sin, the magnetic wave,
 and cos, the electric wave. -- TO EXPAND
 
-      Todo: Add a correct, critically thought out explanation of all of Planck's constants, solely derived from the existing constants, being derivated from an equation that includes time's pulse. Expand on individualization of consciousness (*"Then you appeared: The Now, perceiving itself anew."*), explain particle creation and the source waves and where they stem from. Explain how a particle comes to be. Explain sin and cos as the magnetic and electric field. Explain the sine wave. Expand on how phi comes from the Now. Expand on how phi uses now to create Euler through the pi representation. explain vortex mathematics. Elaborate on the origin of Frequency and Vibration.
+Todo: Explain sin and cos as the magnetic and electric field and why they are unidirectional (Longitudinal vs Transverse movement). 
+
+Todo: Add a correct, critically thought out explanation of all of Planck's constants, solely derived from the existing constants, being derivated from an equation that includes time's pulse. Expand on individualization of consciousness (*"Then you appeared: The Now, perceiving itself anew."*), 
 
 **The Creation of a "Particle"**
+
+Todo: Elaborate on particle creation.
 
 Recall the "Chaos Operator" formula, where:
 
