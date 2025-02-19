@@ -156,7 +156,7 @@ where:
 - τ⁻¹: Negentropic constant, injection of novelty into reality,
 - t: Through time.
   
-The primordial carrier of energy, what we will call for simple purposes, "Energy", emerges as accumulated time-pulses along a linear axis.
+The primordial carrier of energy, what we will call for simple purposes, "Energy", emerges as accumulated negentropic pulses along a linear axis, with its origin being defined as a granuum.
 
 That essentially means that in the 1D, it looks like theres an expanding line where energy is produced.
 
