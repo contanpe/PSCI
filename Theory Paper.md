@@ -168,7 +168,7 @@ Todo: Expand on how phi comes from the Now. Expand on how phi uses now to create
 
 #### Explanation of Wave-Particle Duality
 
-In PSCI theory, the particle-wave duality can be understood through the interaction between consciousness (ψ) and the granuum (Δ). The key relationship is:
+In PSCI theory, the particle-wave duality can be understood through the interaction between consciousness (ψ) and the plenum (Δ). The key relationship is:
 Δ ≝ e^{iɸ} ⋅ ∂κ/∂t = 1 * (k(n) * τ⁻¹ln(ɸ))
 
 This equation reveals that the granuum has two fundamental aspects:
