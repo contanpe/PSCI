@@ -56,13 +56,11 @@ g_{μν} = diag(-τ², ɸ², ɸ², ɸ²) → Time’s irreversibility enforced b
 
 **Energy**
   
-The primordial thing, what we will call for simple purposes, uh, energy, emerges as accumulated pulses along a linear axis. It is simply the tau pulse, through time, in an axis. The rate and places at which Energy in space travels is defined by "novelty flux", explained later.
+The primordial thing, what we will call for simple purposes, uh, energy, emerges as accumulated pulses along a linear axis. It is simply the tau pulse, through time, in an axis. The rate and places in which Energy appears and travels is defined by the "Plenum (Δ), explained later.
 
 That essentially means that in the 1D, it looks like theres an expanding line where energy is produced.
 
 Geometrically, this creates an origin of polar coordinates (r, θ), where, spatially, θ is the start of the 1D wave (θ), and r is the end of this wave.
-
-This is called in other systems as a gradient, a scalar wave, etc.
 
 1. **1D and the pulse**
 
