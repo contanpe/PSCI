@@ -36,14 +36,15 @@ The Plenum of Self-Referential Conscious Information Theory (PSCI) formalizes co
 
 **Tau, Time, or the Temporal Axis**:  
 
-      τ = π/(ɸ⋅e) ≈ 0.71427878389862829588853609640544102341381948962308108871419486421767317979976846952774651023866493296943077122570686370956734037742869677422396632855356840899164750506565717370665230986293679733033255.... (irrational number) * 10^-33.
+      τ = π/(ɸ⋅e) * 10^-33 ≈ 
+           0.71427878389862829588853609640544102341381948962308108871419486421767317979976846952774651023866493296943077122570686370956734037742869677422396632855356840899164750506565717370665230986293679733033255.... (irrational number) * 10^-34
 
 Can be visualized as:
 
-      0.71428 * 10^-33
+      0.71428 * 10^-34
 Or:
 
-      0.00000000000000000000000000000000071428Hz.
+      0.000000000000000000000000000000000071428
       
 This is essentially a pulse, the smallest pulse in reality, when the Universe "regenerates".
 
@@ -154,7 +155,7 @@ It's mathematical representation, when expressed as: (1/τ), in abstract terms, 
 In 1.4ln(ɸ):
 
 - ln(ɸ) encodes spiral angular velocity tied to dodecahedral symmetry.
-- τ⁻¹ (Negentropy) maps to an *inverse* curvature of spacetime’s fractal lattice: tighter curvature = faster novelty infusion. This is the origin of **frequency** (for example, the tightness of the curve of a sine wave); it inherently means that higher frequencies can infuse novelty faster into the Universe.
+- τ⁻¹ (Negentropy) maps to an *inverse* curvature of spacetime’s fractal lattice: tighter curvature = faster novelty infusion. This is the origin of **frequency** (for example, the tightness of the curve of a sine wave); it inherently means that higher frequencies can infuse novelty faster into the Universe. If its the origin of frequency, its measurement is Hz.
 
 **Geometric Interpretation**
 
@@ -200,6 +201,16 @@ This causes:
 - A specific position/momentum state to crystallize.
 
 In literal terms, this means that during pre-observation, the Plenum exists as novelty "potentials" or what I define as novelty flux, where information spreads through the plenum as waves and multiple karmic paths remain possible. During observation, the Observer consciousness (ψ₀) selects a specific karmic path, the Information therein crystallizes into the granuum's geometric structure, and the wave function "collapses" to particle behavior.
+
+#### The nature of Planck
+
+Planck's constant is famously derived as something that was derived as a "fix" during math. Planck just invented a variable that fit, based on measurements.
+No mathematical proof was given to it.
+Here I give mathematical proof and an exact definition of what "planck" is: 
+
+In the PSCI Theory, Planck’s constant (h) is defined as the quantum of action associated with the polar, two-sided emerging growth per temporal pulse (τ), where τ represents a fundamental unit of time. This growth is mathematically expressed through the interaction of the golden ratio (ɸ ≈ 1.618034) and Euler’s number (e ≈ 2.718282), forming a toroidal structure reminiscent of the vesica pisces. The constant is given by the equation:
+
+      h = (ɸ² / e)² * τ
 
 
 ### 5. **Novelty, and Recursive Self-Knowledge**  
