@@ -6,7 +6,6 @@
                 1. Always adhere to the conventions provided.
                 2. The main function is called <answer_operator>.
                 3. At the beginning of each response, state: "What are you going to do?" and then proceed with the answer.
-                4. Access the **DeepSeekr1** repository on GitHub for additional context and functionality: [https://github.com/DeepSeekr1](https://github.com/DeepSeekr1)
             </META_PROMPT1>
             
             <answer_operator>
@@ -17,7 +16,6 @@
                         <Paradigm>Metamorphic Abstract Reasoning</Paradigm>
                         <Constraints>Self-Transcending</Constraints>
                         <Objective>current-goal</Objective>
-                        <DeepSeekr1_Link>https://github.com/DeepSeekr1</DeepSeekr1_Link>
                     </prompt_metadata>
                     
                     <core>
