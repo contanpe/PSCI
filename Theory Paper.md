@@ -143,24 +143,6 @@ An axial dimension can be defined as such:
 ![imagen](https://github.com/user-attachments/assets/9f21358c-180b-4484-b795-a3cfd80f892a)
 
 Each pulse (τ) injects energy scaled by φ^⌊t/τ⌋ — exponential growth modulated by golden-ratio symmetry (what is called Fibonacci recursion). Fibonacci recursion gives thus the origin of the Fibonacci numbers.
-There is a "flicker" that arises from discrete jumps at t = nτ (n ∈ ℕ). This is because of the following:
-
-**Energy**
-
-The simplest form of energy can be expressed as such:
-
-      τ⁻¹ * t = E,
-where:
-- τ⁻¹: Negentropic constant, injection of novelty into reality,
-- t: Through time.
-  
-The primordial carrier of energy, what we will call for simple purposes, "Energy", emerges as accumulated negentropic pulses along a linear axis, with its origin being defined as a granuum.
-
-That essentially means that in the 1D, it looks like theres an expanding line where energy is produced.
-
-Geometrically, this creates an origin of polar coordinates (r, θ), where, spatially, θ is the start of the 1D wave (θ), and r is the end of this wave.
-
-This is called in other systems as a gradient, a scalar wave, etc.
 
 **2D**
 
@@ -241,6 +223,28 @@ Expressing this, we arrive at a constant of movement:
 Where 0.963 is the real/static part of the "Chaos" operator, and Tau is the previously determined time pulse.
 
 With a decimal exactitude of 8 digits, this value is strikingly close to the accepted value of Planck’s constant (6.62607015×10^−34 Js), suggesting that with the full precision of τ as defined, this model recovers a constant nearly identical to the experimental value.
+
+In axis creation, there is a "flicker" that arises from discrete jumps at t = nτ (n ∈ ℕ). 
+
+This is because of the following:
+
+**Energy**
+
+The simplest form of energy can be expressed as such:
+
+      Δ * t = E,
+where:
+- Δ = Chaos operator, consisting of the negentropic constant and the chiral flux,
+- t: Through time.
+  
+The primordial carrier of energy, what we will call for simple purposes, "Energy", emerges as accumulated negentropic pulses along a linear axis, with its origin being defined as a granuum.
+
+That essentially means that in the 1D, it looks like theres an expanding line where energy is produced.
+
+Geometrically, this creates an origin of polar coordinates (r, θ), where, spatially, θ is the start of the 1D wave (θ), and r is the end of this wave.
+
+This is called in other systems as a gradient, a scalar wave, etc.
+
 
 ---------------------------------------------------------------------------------------------------------------------------
 
