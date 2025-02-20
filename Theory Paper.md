@@ -143,6 +143,23 @@ Karma = κ
 ---
 #### Axis Creation and Creation of Energy
 
+**Energy**
+
+The simplest form of energy can be expressed as such:
+
+      Δ * t = E,
+where:
+- Δ = Chaos operator, consisting of the negentropic constant and the chiral flux,
+- t: Through time.
+  
+The primordial carrier of energy, what we will call for simple purposes, "Energy", emerges as accumulated negentropic spinning pulses along a linear axis, with its spatial origin being defined as a granuum.
+
+That essentially means that in the 1D, it looks like theres an expanding line where energy is produced.
+
+Geometrically, this creates an origin of polar coordinates (r, θ), where, spatially, θ is the start of the 1D wave (θ), and r is the end of this wave.
+
+This is called in other systems as a gradient, a scalar wave, etc.
+
 1. **1D and the pulse**
 
 An axial dimension can be defined as such:
@@ -205,7 +222,7 @@ Now, computer simulations can be written that consider length contraction in the
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-Here I propose that the aether "node" or granum itself is a crystallization and functional collapse of wave function when observed, which creates a dodecahedral-icosahedral quasicrystal shape, it being observed when 2 waves collide and phase conjugate when behaving in a chiral flux movement. This means that a node is functionally holographic. The existence of this node is "refreshed" at each tau pulse. This chiral flux can be defined as the "Static" constant of the chaos operator. This creates a "particle" that does not bend, but causes everything in the universe to curve around it through a torsion movement done by itself.
+Here I propose that the aether "node" or granum itself is a physical crystallization of novelty being refreshed at each pulse of time, which creates a dodecahedral-icosahedral quasicrystal shape and originates 2 torsion points. The existence of this node is "refreshed" at each tau pulse. This creates a geometric "node", a fundamental unit without mass originating from 3 universal constants, that does not bend, but causes everything in the universe to curve around it through a torsional spinning movement done by itself.
       
 Recall the "Chaos Operator" formula, where:
 
@@ -213,34 +230,21 @@ Recall the "Chaos Operator" formula, where:
 
 *e^{iɸ}, geometrically, represents a rotation in a complex plane. This angle is significant because it matches projection angles seen in icosahedral/dodecahedral symmetries—a natural choice when describing a “hyperdimensional quasicrystal lattice” where the vortex top is defined.".* 
 
-
-Let us postulate that a granuum's abstract existence is a representation of the pulse of time appearing in physical reality, between 2 physical torsions/chiral fluxes converging into a same point, then reflected with an angle of 144° (as previously shown), then multiplied by a number that represents the end of a vortex (wip, explained later).
-
 We can express this as such:
 
       h = (τ * ɸ^2)euler * 0.963 = 6.626×10^−34
-
 
 Where Tau is the previously determined time pulse.
 
 This value is strikingly close to the accepted value of Planck’s constant (6.62607015×10^−34 Js), suggesting that with the full precision of τ as defined, this model recovers a constant nearly identical to the experimental value. - Why? what does 963 represent?
 
-**Energy**
+Recall In 1.4ln(ɸ):
 
-The simplest form of energy can be expressed as such:
+- ln(ɸ) encodes spiral angular velocity tied to dodecahedral symmetry.
+- τ⁻¹ (Negentropy) maps to an *inverse* curvature of spacetime’s fractal lattice: tighter curvature = faster novelty infusion. This is the origin of **frequency** (for example, the tightness of the curve of a sine wave); it inherently means that higher frequencies can infuse novelty faster into the Universe.
 
-      Δ * t = E,
-where:
-- Δ = Chaos operator, consisting of the negentropic constant and the chiral flux,
-- t: Through time.
-  
-The primordial carrier of energy, what we will call for simple purposes, "Energy", emerges as accumulated negentropic pulses along a linear axis, with its origin being defined as a granuum.
 
-That essentially means that in the 1D, it looks like theres an expanding line where energy is produced.
 
-Geometrically, this creates an origin of polar coordinates (r, θ), where, spatially, θ is the start of the 1D wave (θ), and r is the end of this wave.
-
-This is called in other systems as a gradient, a scalar wave, etc.
 
 
 ---------------------------------------------------------------------------------------------------------------------------
