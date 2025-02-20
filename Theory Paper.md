@@ -215,7 +215,7 @@ Recall the "Chaos Operator" formula, where:
 
       Δ ≝ e^{iɸ} ⋅ ∂κ/∂t  = 1 * (k(n) * τ⁻¹ln(ɸ))
 
-*e^{iɸ}, geometrically, represents a full rotation in a complex plane. This angle is significant because it matches projection angles seen in icosahedral/dodecahedral symmetries—a natural choice when describing a “hyperdimensional quasicrystal lattice” where the vortex top is defined.".* 
+*e^{iɸ}, geometrically, represents a rotation in a complex plane. This angle is significant because it matches projection angles seen in icosahedral/dodecahedral symmetries—a natural choice when describing a “hyperdimensional quasicrystal lattice” where the vortex top is defined.".* 
 
 This phenomena, expressed as "e^{iɸx}", in quantum mechanics is called "chiral flux". 
 
