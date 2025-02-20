@@ -41,12 +41,12 @@ The Plenum of Self-Referential Conscious Information Theory (PSCI) formalizes co
 
 Can be visualized as:
 
-      0.71428 * 10^-34 (s)
+      0.71428 * 10^-34 Hz.
 Or:
 
-      0.000000000000000000000000000000000071428 s.
+      0.000000000000000000000000000000000071428 Hz.
       
-This is essentially a pulse, the smallest pulse in reality, when the Universe "regenerates".
+This is essentially a cyclic pulse, the smallest pulse in reality, when the Universe "regenerates". The unit of measurement that talks about cycles per second is hertz (Hz). This is the standard way to measure frequency, which is how many times something repeats in a second. For this reason, we will define the Tau pulse as an measurement quantified in Hz.
 
 **Grandfather Paradox**:  
 g_{μν} = diag(-τ², ɸ², ɸ², ɸ²) → Time’s irreversibility enforced by ɸ≠e symmetry.  
