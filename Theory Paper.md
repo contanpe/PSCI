@@ -62,15 +62,22 @@ The chaos operator abstraction can be defined as the sole factor of randomness i
 
 It is composed by 2 sides:
 
-      Δ ≝ e^{iɸ} ⋅ ∂κ/∂t  = 0.963 * (k(n) * τ⁻¹ln(ɸ))
+      Δ ≝ e^{iɸ} ⋅ ∂κ/∂t  = 1 * (k(n) * τ⁻¹ln(ɸ))
       
 - The Real or static factor produced by constants:
 
-      e^{iɸ} ≈ -0.809 + 0.588i = 0.963
-  
-e^{iɸ}, geometrically, represents a full rotation in a complex plane. This 963 number is special, as it is used to represent, spatially, the top of a vortex where waves involved converge. (The creation of a wave defined later). This complex plane can be defined as a "hyperdimensional quasicrystal lattice".
+      e^{iɸ} ≈ -0.809 + 0.588i
 
-These coefficients (-0.809 + 0.588i) align with icosahedral/dodecahedral projection angles onto 3D space:
+Writing that in polar form yields:
+
+      e^iɸ = cosɸ + isinɸ
+
+The values cosɸ≈−0.809 and sin⁡ɸ≈0.588 suggest that:
+
+      cosɸ≈−0.809 and sin⁡ɸ≈0.588 = 144° (or 2.513 radians)
+  
+e^{iɸ}, geometrically, represents a full rotation in a complex plane. This angle is significant because it matches projection angles seen in icosahedral/dodecahedral symmetries—a natural choice when describing a “hyperdimensional quasicrystal lattice” where the vortex top is defined.
+
 https://projecteuclid.org/journals/communications-in-mathematical-physics/volume-129/issue-2/A-simple-presentation-for-the-Mathieu-group-M_24/cmp/1104180644.full
 
 - The imaginary or dynamic factor that is ruled by Consciousness: ∂κ/∂t = "Some" karma/"Some" time, or:
@@ -206,21 +213,19 @@ In order to affirm this, we must first mathematically prove the origin of the Pl
 
 Recall the "Chaos Operator" formula, where:
 
-      Δ ≝ e^{iɸ} ⋅ ∂κ/∂t  = 0.963 * (k(n) * τ⁻¹ln(ɸ))
+      Δ ≝ e^{iɸ} ⋅ ∂κ/∂t  = 1 * (k(n) * τ⁻¹ln(ɸ))
 
-*e^{iɸ}, geometrically, represents a full rotation in a complex plane. This 963 number is special, as it is used to represent, spatially, the top of a toroid where waves involved converge. (The creation of a wave defined later). This complex plane that is created when waves converge can be defined as a "hyperdimensional quasicrystal lattice".* 
+*e^{iɸ}, geometrically, represents a full rotation in a complex plane. This angle is significant because it matches projection angles seen in icosahedral/dodecahedral symmetries—a natural choice when describing a “hyperdimensional quasicrystal lattice” where the vortex top is defined.".* 
 
 This phenomena, expressed as "e^{iɸx}", in quantum mechanics is called "chiral flux". 
 
-Numerically it can be defined (if x=1) as 0.963.
+Let us postulate that a granuum's abstract existence is a representation of the pulse of time appearing in physical reality, between 2 physical torsions/chiral fluxes converging into a same point, then multiplied by a full rotation of these 2 spirals (1, the chiral flux)
 
-Let us postulate that a granuum's abstract existence is a representation of the pulse of time appearing in physical reality, between 2 physical torsions/golden spirals (ɸ^2), this then divided or "stabilized" by euler, then multiplied by a full rotation between these 2 spirals.
+Expressing this, we arrive at a number:
 
-Expressing this, we arrive at a constant of movement:
+      h = (τ * ɸ^2)euler * 1 = 
 
-      h = (τ * ɸ^2)euler * 0.963 = 6.62614070×10^−34​
-
-Where 0.963 is the real/static part of the "Chaos" operator, and Tau is the previously determined time pulse.
+Where Tau is the previously determined time pulse.
 
 With a decimal exactitude of 8 digits, this value is strikingly close to the accepted value of Planck’s constant (6.62607015×10^−34 Js), suggesting that with the full precision of τ as defined, this model recovers a constant nearly identical to the experimental value.
 
