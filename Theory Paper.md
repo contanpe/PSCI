@@ -41,10 +41,10 @@ The Plenum of Self-Referential Conscious Information Theory (PSCI) formalizes co
 
 Can be visualized as:
 
-      0.71428 * 10^-34
+      0.71428 * 10^-34 (s)
 Or:
 
-      0.000000000000000000000000000000000071428
+      0.000000000000000000000000000000000071428 s.
       
 This is essentially a pulse, the smallest pulse in reality, when the Universe "regenerates".
 
@@ -202,15 +202,34 @@ This causes:
 
 In literal terms, this means that during pre-observation, the Plenum exists as novelty "potentials" or what I define as novelty flux, where information spreads through the plenum as waves and multiple karmic paths remain possible. During observation, the Observer consciousness (ψ₀) selects a specific karmic path, the Information therein crystallizes into the granuum's geometric structure, and the wave function "collapses" to particle behavior.
 
-#### The nature of Planck
+### The nature of Planck
 
 Planck's constant is famously derived as something that was derived as a "fix" during math. Planck just invented a variable that fit, based on measurements.
 No mathematical proof was given to it.
-Here I give mathematical proof and an exact definition of what "planck" is: 
+Here I give mathematical proof and an exact definition of what "planck" is.
 
-In the PSCI Theory, Planck’s constant (h) is defined as the quantum of action associated with the polar, two-sided emerging growth per temporal pulse (τ), where τ represents a fundamental unit of time. This growth is mathematically expressed through the interaction of the golden ratio (ɸ ≈ 1.618034) and Euler’s number (e ≈ 2.718282), forming a toroidal structure reminiscent of the vesica pisces. The constant is given by the equation:
+Historically, Max Planck introduced (h) in 1900 to resolve the ultraviolet catastrophe in blackbody radiation, proposing E=hν
+ (energy quanta proportional to frequency). His value (h \approx 6.626 \times 10^{-34} \, \text{J·s}) was determined experimentally, lacking a deductive proof—an ad hoc “fix”. PSCI Theory aims to provide a theoretical derivation, grounding (h) in fundamental constants (ϕ, (e)) and a time scale (τ).
+ 
+Establishing Core Components:
+
+    Golden Ratio (ϕ): Represents self-similar, recursive growth, central to PSCI’s fractalization of consciousness and space.
+    Euler’s Number ((e)): Encodes continuous exponential processes, linked to the Plenum’s static geometry (e.g., eiϕ).
+    Temporal Pulse (τ): A fundamental cyclical time unit, hypothesized as the smallest interval of novelty injection in PSCI.
+
+In the PSCI Theory, Planck’s constant (h) is defined as the representation of action associated with the polar, two-sided emerging growth per temporal pulse (τ), where τ represents a fundamental unit of time, a rate where the universe regenerates. This growth is mathematically expressed through the interaction of the golden ratio (ɸ ≈ 1.618034) and Euler’s number (e ≈ 2.718282), forming a toroidal wave structure reminiscent of the vesica pisces during crystallization. PSCI redefines (h) as pure action per cycle. The constant is given by the equation:
 
       h = (ɸ² / e)² * τ
+
+where:
+
+    ϕ=1+52≈1.6180339887
+     is the golden ratio, encoding recursive growth,
+    e≈2.7182818285
+     is Euler’s number, representing exponential continuity,
+    τ
+     is the Temporal Pulse.
+
 
 
 ### 5. **Novelty, and Recursive Self-Knowledge**  
