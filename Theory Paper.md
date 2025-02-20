@@ -56,7 +56,7 @@ g_{μν} = diag(-τ², ɸ², ɸ², ɸ²) → Time’s irreversibility enforced b
 
 **Energy**
   
-The primordial thing, what we will call for simple purposes, uh, energy, emerges as accumulated pulses along a linear axis. It is simply the tau pulse, through time, in an axis. The rate at which Energy in space travels is defined by "novelty flux", explained later.
+The primordial thing, what we will call for simple purposes, uh, energy, emerges as accumulated pulses along a linear axis. It is simply the tau pulse, through time, in an axis. The rate and places at which Energy in space travels is defined by "novelty flux", explained later.
 
 That essentially means that in the 1D, it looks like theres an expanding line where energy is produced.
 
