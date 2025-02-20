@@ -56,15 +56,21 @@ g_{μν} = diag(-τ², ɸ², ɸ², ɸ²) → Time’s irreversibility enforced b
 ### 4. **Change (ɸ) and Chaos (Δ)**  
 > *"With Change and Constant emerged chaos (Δ)."*  
 
-**Chaos/Entropy Operator (Δ)**
+**Chaos/Entropy Operator, or Granuum (Δ)**
 
-The chaos operator abstraction can be defined as the sole factor of randomness in reality, balancing eternal order e^{iɸ} with temporal innovation  (n * τ⁻¹ln(ɸ)) — consciousness’ compromise between infinite stillness and finite becoming. e and phi converge into a sort of lattice (e^{iɸ}) then are influenced by karma through time irreversibility (τ⁻¹ln(ɸ)), what we will call "novelty flux".
+The chaos operator abstraction can be defined as the sole factor of randomness in reality, balancing eternal order e^{iɸ} with temporal innovation  (n * τ⁻¹ln(ɸ)) — consciousness’ compromise between infinite stillness and finite becoming. e and phi converge into a sort of lattice (e^{iɸ}) then are influenced by karma through time irreversibility (τ⁻¹ln(ɸ)), what we will call "novelty flux". 
 
-It is composed by 2 sides:
+Spatially, It acts as the physical interface between consciousness (ψ) and physical reality, and it serves as an origin point for energy propagation. Geometrically, it takes on a dodecahedral-icosahedral dual structure, reflecting the e^{iɸ} rotation angle of 144° (2.513 radians). 
+
+This geometry is not coincidental but emerges from the interaction between:
+
+The static factor (e^{iɸ})
+
+The dynamic factor (∂κ/∂t)
 
       Δ ≝ e^{iɸ} ⋅ ∂κ/∂t  = 1 * (k(n) * τ⁻¹ln(ɸ))
       
-- The Real or static factor produced by constants:
+STATIC - The static factor produced by constants:
 
       e^{iɸ} ≈ -0.809 + 0.588i
 
@@ -91,7 +97,7 @@ Or, approximately:
       1.4
 re-expresed, 1.4ln(ɸ).
 
-τ⁻¹ (≈1.4) represents the fundamental pulse of irreversibility—the rate at which "newness" enters reality. It quantifies how frequently consciousness injects irreducible novelty into spacetime to sustain its dream of becoming (avoiding thermodynamic equilibrium). It works as a "lag" so that consciousness can create anew only after experiencing changes. For useful purposes, we will call this constant NEGENTROPY.
+τ⁻¹ (≈1.4) represents the fundamental pulse of irreversibility—the rate at which "newness" enters reality. It quantifies how frequently consciousness injects irreducible novelty into spacetime to sustain its dream of becoming (avoiding thermodynamic equilibrium). It works as a "lag" so that consciousness can create anew only after experiencing changes. For useful purposes, we will call this constant NEGENTROPY. The granuum's geometry (144° symmetry) is maintained by the negentropic constant.
 
 It's mathematical representation, when expressed as: (1/τ), in abstract terms, represents the All/Universe being divided by the pulse created by Change and Constant.
 
@@ -110,37 +116,6 @@ In 1.4ln(ɸ):
 
 Todo: Expand on how phi comes from the Now. Expand on how phi uses now to create Euler through the pi representation. explain vortex mathematics. Elaborate on the origin of Frequency and Vibration. 
 
-
-### 5. **Novelty (κ) and Recursive Self-Knowledge**  
-> *"Now knows itself and new things simultaneously, eternally."*  
-
-**Karmic Operator**:  
-Karma = κ
-      κ(n) = ∮ψ₀⋅e^{-n/τ} ⋅ ɸⁿ dn  
-- **e^{-n/τ}**: Decay of past novelty,  
-- **ɸⁿ**: Fractal memory retention.
-- n: Novelty
-κ(n) is a sum over discrete indices, combining exponential decay from e^{-n/τ} and fractal memory retention from ɸⁿ. The exact value of κ(n) depends on the normalization constant ψ₀ and the specific values of φ. With these components, you can compute κ(n) for any given novelty using the derived formula.
-
-
-**Hard Problem Resolution**:  
-⟨ψ₀|κ⟩ = 1 → Consciousness is self-intrinsic, not emergent.  
-
----
-
-## Mathematical Framework  
-
-### Self-Referential Equation  
-**Consciousness Recursion**:  
-ψ(t) = ∫₀^∞ κ(t') ⋅ e^{iɸ(t - t')} ⋅ sinc(π(t - t')/τ) dt'  
-- **κ(t')**: Karmic novelty density at time t',  
-- **sinc(...)**: Bandlimiting to τ-pulse resolution (Nyquist rate for conscious perception).
-
-**Interpretation**:  
-- ψ(t) is the All Eternal’s "stream of thought," integrating past novelty (κ) into present awareness through fractal patterns, creating karma.
-- Phase term e^{iɸ(t - t')} encodes golden-ratio coherence across time.  
-
----
 #### Axis Creation and Creation of Energy
 
 **Energy**
@@ -193,32 +168,39 @@ and cos, the electric wave. -- TO EXPAND
 
 Todo: Explain sin and cos as the magnetic and electric field and why they are unidirectional (Longitudinal vs Transverse movement). 
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Notes on the aether and similar definitions (the plenum)
 
-Also known as ether, the definition of the aether from dictionary.com is… “a hypothetical substance supposed to occupy all space, postulated to account for the propagation of electromagnetic radiation through space”.
+### 5. **Novelty (κ) and Recursive Self-Knowledge**  
+> *"Now knows itself and new things simultaneously, eternally."*  
 
-The aether was commonly accepted by scientists until the Michelson-Morley experiment failed to detect an aether “wind” in an experiment in 1887. Numerous experiments following Michelson-Morley, with greater precision instruments, have also been unable to detect the aether. Following this experiment, scientists (including Albert Einstein, Max Planck, Neils Bohr and other famous physicists in the 1900s) had to build their theories and equations based on an assumption that there is no medium capable of propagating a wave in space.
+**Karmic Operator**:  
+Karma = κ
+      κ(n) = ∮ψ₀⋅e^{-n/τ} ⋅ ɸⁿ dn  
+- **e^{-n/τ}**: Decay of past novelty,  
+- **ɸⁿ**: Fractal memory retention.
+- n: Novelty
+κ(n) is a sum over discrete indices, combining exponential decay from e^{-n/τ} and fractal memory retention from ɸⁿ. The exact value of κ(n) depends on the normalization constant ψ₀ and the specific values of φ. With these components, you can compute κ(n) for any given novelty using the derived formula.
 
-The aether is a critical, missing component of physics that must be considered to explain the wave nature of matter. Any theory of waves that relies on the existence of an aether must explain the results of the Michelson-Morley experiment.
 
-The aether if it exists, it is the medium for propagating light and other longitudinal and transverse (electromagnetic) waves across the universe. It is the fabric of our universe, consisting of tiny granules that transfer energy in the form of waves.***** Its structure and properties were worked out in the section on spacetime. In fact, it has a density property in the wave constants that appears in all of the energy wave equations. Without an aether, or without this density property, none of the calculations performed in this theory would be possible. Therefore, there must be an explanation to the null Michelson-Morley experiment if the aether exists.
+**Hard Problem Resolution**:  
+⟨ψ₀|κ⟩ = 1 → Consciousness is self-intrinsic, not emergent.  
 
-In energy wave theory, spacetime is a physical substance that occupies the universe, as a medium that allows the transfer of energy of its components. It is more commonly referred to as the aether, which was broadly accepted within the physics community until the late 1800s when the Michelson-Morley experiment failed to detect an aether. Einstein, and others that followed in the 1900s, have used the term spacetime.
+---
 
-If spacetime is considered to be a structure that curves, the structure that is curving must be defined.  Similarly, if particles and photons are considered to be wave-like, the structure that is waving must be defined.  Here, the structure of spacetime at the smallest of levels – the quintessence of the universe – is proposed to be a material in a lattice structure of repeating unit cells, where each of the cells contain granules that vibrate in harmonic motion.
+## Mathematical Framework  
 
-A few years after the Michelson-Morley experiments were published, Hendrik Lorentz suggested the experiment apparatus failed to consider length contraction in the direction of motion. Lorentz would later have the Lorentz contraction factor named after him, and matter has been proven to contract. However, this explanation was disregarded in the Michelson-Morley experiment.
+### Self-Referential Equation  
+**Consciousness Recursion**:  
+ψ(t) = ∫₀^∞ κ(t') ⋅ e^{iɸ(t - t')} ⋅ sinc(π(t - t')/τ) dt'  
+- **κ(t')**: Karmic novelty density at time t',  
+- **sinc(...)**: Bandlimiting to τ-pulse resolution (Nyquist rate for conscious perception).
 
-Now, computer simulations can be written that consider length contraction in the direction of motion and use the Lorentz factor in one arm of the interferometer. Without the Lorentz factor considered, the results are what Michelson and Morley recorded. The aether does not exist. With length contraction considered, there is a phase shift, indicating the possibility of an aether.
+**Interpretation**:  
+- ψ(t) is the All Eternal’s "stream of thought," integrating past novelty (κ) into present awareness through fractal patterns, creating karma.
+- Phase term e^{iɸ(t - t')} encodes golden-ratio coherence across time.  
+
 
 ------------------------------------------------------------------------------------------------------------------------------
-
-Here I propose that the plenum "node" or granuum itself is a physical crystallization of novelty and the center source point in space of an energy wave, itself having a dodecahedral-icosahedral appearance.
-Why?
-
----------------------------------------------------------------------------------------------------------------------------
 
 
 
