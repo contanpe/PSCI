@@ -132,7 +132,7 @@ The values cosɸ≈−0.809 and sin⁡ɸ≈0.588 suggest that:
 
       cosɸ≈−0.809 and sin⁡ɸ≈0.588 = 144° (or 2.513 radians)
   
-e^{iɸ}, geometrically, represents a rotation in a complex plane. This angle is significant because it matches projection angles seen in icosahedral/dodecahedral symmetries—a natural choice when describing a “hyperdimensional quasicrystal lattice” where the vortex top is defined.
+e^{iɸ}, geometrically, represents a rotation in a complex plane. This angle is significant because it matches projection angles seen in icosahedral/dodecahedral symmetries—a natural choice when describing a “hyperdimensional quasicrystal lattice” where the vortex top is defined. This also implies that EULER IS CREATED AS THE STATIC PART OF THE PLENUM. tada!
 
 https://projecteuclid.org/journals/communications-in-mathematical-physics/volume-129/issue-2/A-simple-presentation-for-the-Mathieu-group-M_24/cmp/1104180644.full
 
