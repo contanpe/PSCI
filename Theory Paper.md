@@ -219,11 +219,11 @@ Recall the "Chaos Operator" formula, where:
 
 This phenomena, expressed as "e^{iɸx}", in quantum mechanics is called "chiral flux". 
 
-Let us postulate that a granuum's abstract existence is a representation of the pulse of time appearing in physical reality, between 2 physical torsions/chiral fluxes converging into a same point, then multiplied by a full rotation of these 2 spirals (1, the chiral flux)
+Let us postulate that a granuum's abstract existence is a representation of the pulse of time appearing in physical reality, between 2 physical torsions/chiral fluxes converging into a same point, then multiplied by a number that represents the end of a vortex (wip)
 
 Expressing this, we arrive at a number:
 
-      h = (τ * ɸ^2)euler * 1 = 
+      h = (τ * ɸ^2)euler * 0.963 = 6.6248314942527×10^−34
 
 Where Tau is the previously determined time pulse.
 
