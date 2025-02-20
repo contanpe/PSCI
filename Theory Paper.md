@@ -110,7 +110,7 @@ Todo: Explain sin and cos as the magnetic and electric field and why they are un
 
 **Chaos/Entropy Operator: The Plenum, and the Granuum (Δ)**
 
-The chaos operator abstraction, which we will call Plenum, can be defined as the sole factor of randomness in reality, balancing eternal order e^{iɸ} with temporal innovation  (n * τ⁻¹ln(ɸ)) — consciousness’ compromise between infinite stillness and finite becoming. e and phi converge into a sort of lattice (e^{iɸ}) then are influenced by karma through time irreversibility (τ⁻¹ln(ɸ)), what we will call "novelty flux". 
+The chaos operator abstraction, which we will call Plenum, can be defined as the sole factor of randomness in reality, balancing eternal order e^{iɸ} with temporal innovation  (n * τ⁻¹ln(ɸ)) — consciousness’ compromise between infinite stillness and finite becoming. e and phi converge into a sort of lattice (e^{iɸ}) then are influenced by karma through time irreversibility (τ⁻¹ln(ɸ)), what we will call "novelty flux". This flux can be visualized as a standing wave. 
 
 Spatially, It acts as the physical interface between consciousness (ψ) and physical reality, and it serves as an origin point for energy propagation. Geometrically, when observed, it takes on a dodecahedral-icosahedral dual structure, reflecting the e^{iɸ} rotation angle of 144° (2.513 radians). 
 
