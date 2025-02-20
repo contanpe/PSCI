@@ -36,17 +36,14 @@ The Plenum of Self-Referential Conscious Information Theory (PSCI) formalizes co
 
 **Tau, Time, or the Temporal Axis**:  
 
-      τ = π/(ɸ⋅e) * 10^-33 ≈ 
-           0.71427878389862829588853609640544102341381948962308108871419486421767317979976846952774651023866493296943077122570686370956734037742869677422396632855356840899164750506565717370665230986293679733033255.... (irrational number) * 10^-34
+      τ = π/(ɸ⋅e) * 10^33 ≈ 
+           0.71427878389862829588853609640544102341381948962308108871419486421767317979976846952774651023866493296943077122570686370956734037742869677422396632855356840899164750506565717370665230986293679733033255.... (irrational number) * 10^33
 
 Can be visualized as:
 
-      0.71428 * 10^-34 Hz.
-Or:
-
-      0.000000000000000000000000000000000071428 Hz.
+      71428 * 10^34 Hz.
       
-This is essentially a cyclic pulse, the smallest pulse in reality, when the Universe "regenerates". The unit of measurement that talks about cycles per second is hertz (Hz). This is the standard way to measure frequency, which is how many times something repeats in a second. For this reason, we will define the Tau pulse as an measurement quantified in Hz.
+This is essentially a cyclic pulse, the smallest pulse in reality, when the Universe "regenerates". 7.1428×10−34 s
 
 **Grandfather Paradox**:  
 g_{μν} = diag(-τ², ɸ², ɸ², ɸ²) → Time’s irreversibility enforced by ɸ≠e symmetry.  
@@ -156,6 +153,10 @@ In 1.4ln(ɸ):
 
 - ln(ɸ) encodes spiral angular velocity tied to dodecahedral symmetry.
 - τ⁻¹ (Negentropy) maps to an *inverse* curvature of spacetime’s fractal lattice: tighter curvature = faster novelty infusion. This is the origin of **frequency change** (for example, the tightness of the curve of a sine wave); it inherently means that higher frequencies can infuse novelty faster into the Universe.
+
+The unit of measurement that talks about cycles per second is hertz (Hz). This is the standard way to measure frequency, which is how many times something repeats in a second. Therefore, we can derive the Hz frequency that divides consciousness fundamentally...
+
+    f= 1/τ ≈ 1.4×10^33 Hz.
 
 **Geometric Interpretation**
 
