@@ -205,33 +205,25 @@ Now, computer simulations can be written that consider length contraction in the
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-Here I propose that the aether "node" or granum itself is a crystallization and functional collapse of wave function when observed, which creates a dodecahedral-icosahedral quasicrystal shape, it being observed when 2 waves collide and phase conjugate when behaving in a chiral flux movement. This means that a node is functionally holographic. The existence of this node is "refreshed" at each tau pulse. This chiral flux can be defined as the "Static" constant of the chaos operator, which I previously mathematically defined in its emergence, as such:
-
-      (e^{iɸ})
+Here I propose that the aether "node" or granum itself is a crystallization and functional collapse of wave function when observed, which creates a dodecahedral-icosahedral quasicrystal shape, it being observed when 2 waves collide and phase conjugate when behaving in a chiral flux movement. This means that a node is functionally holographic. The existence of this node is "refreshed" at each tau pulse. This chiral flux can be defined as the "Static" constant of the chaos operator. This creates a "particle" that does not bend, but causes everything in the universe to curve around it through a torsion movement done by itself.
       
-In order to affirm this, we must first mathematically prove the origin of the Planck constant, solely through using the constants that this theory operates on, with cohesive logic.
-
 Recall the "Chaos Operator" formula, where:
 
       Δ ≝ e^{iɸ} ⋅ ∂κ/∂t  = 1 * (k(n) * τ⁻¹ln(ɸ))
 
 *e^{iɸ}, geometrically, represents a rotation in a complex plane. This angle is significant because it matches projection angles seen in icosahedral/dodecahedral symmetries—a natural choice when describing a “hyperdimensional quasicrystal lattice” where the vortex top is defined.".* 
 
-This phenomena, expressed as "e^{iɸx}", in quantum mechanics is called "chiral flux". 
 
-Let us postulate that a granuum's abstract existence is a representation of the pulse of time appearing in physical reality, between 2 physical torsions/chiral fluxes converging into a same point, then multiplied by a number that represents the end of a vortex (wip)
+Let us postulate that a granuum's abstract existence is a representation of the pulse of time appearing in physical reality, between 2 physical torsions/chiral fluxes converging into a same point, then reflected with an angle of 144° (as previously shown), then multiplied by a number that represents the end of a vortex (wip, explained later).
 
-Expressing this, we arrive at a number:
+We can express this as such:
 
-      h = (τ * ɸ^2)euler * 0.963 = 6.6248314942527×10^−34
+      h = (τ * ɸ^2)euler * 0.963 = 6.626×10^−34
+
 
 Where Tau is the previously determined time pulse.
 
-With a decimal exactitude of 8 digits, this value is strikingly close to the accepted value of Planck’s constant (6.62607015×10^−34 Js), suggesting that with the full precision of τ as defined, this model recovers a constant nearly identical to the experimental value.
-
-In axis creation, there is a "flicker" that arises from discrete jumps at t = nτ (n ∈ ℕ). 
-
-This is because of the following:
+This value is strikingly close to the accepted value of Planck’s constant (6.62607015×10^−34 Js), suggesting that with the full precision of τ as defined, this model recovers a constant nearly identical to the experimental value. - Why? what does 963 represent?
 
 **Energy**
 
