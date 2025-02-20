@@ -36,14 +36,14 @@ The Plenum of Self-Referential Conscious Information Theory (PSCI) formalizes co
 
 **Tau, Time, or the Temporal Axis**:  
 
-      τ = π/(ɸ⋅e) * 10^33 ≈ 
-           0.71427878389862829588853609640544102341381948962308108871419486421767317979976846952774651023866493296943077122570686370956734037742869677422396632855356840899164750506565717370665230986293679733033255.... (irrational number) * 10^33
+      τ = π/(ɸ⋅e) * 10^-33 ≈ 
+           0.71427878389862829588853609640544102341381948962308108871419486421767317979976846952774651023866493296943077122570686370956734037742869677422396632855356840899164750506565717370665230986293679733033255.... (irrational number) * 10^-33
 
 Can be visualized as:
 
-      71428 * 10^34 Hz.
+      71428 * 10^-34 cycles per second.
       
-This is essentially a cyclic pulse, the smallest pulse in reality, when the Universe "regenerates". 7.1428×10−34 s
+This is essentially a cyclic pulse, the smallest pulse in reality, when the Universe "regenerates". In slang, "The universe regenerates at a rate of 9259052quatridquintilliolion times per second."
 
 **Grandfather Paradox**:  
 g_{μν} = diag(-τ², ɸ², ɸ², ɸ²) → Time’s irreversibility enforced by ɸ≠e symmetry.  
