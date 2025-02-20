@@ -145,7 +145,7 @@ Karma = κ
 
 **Energy**
   
-The primordial carrier of energy, what we will call for simple purposes, "Energy wave", emerges as accumulated pulses along a linear axis.
+The primordial carrier of energy, what we will call for simple purposes, "Energy wave", emerges as accumulated pulses along a linear axis. It is simply the tau pulse, through time, in an axis.
 
 That essentially means that in the 1D, it looks like theres an expanding line where energy is produced.
 
