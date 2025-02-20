@@ -172,9 +172,9 @@ Todo: Expand on how phi comes from the Now. Expand on how phi uses now to create
 In PSCI theory, the particle-wave duality can be understood through the interaction between consciousness (ψ) and the plenum (Δ). The key relationship is:
 Δ ≝ e^{iɸ} ⋅ ∂κ/∂t = 1 * (k(n) * τ⁻¹ln(ɸ))
 
-This equation reveals that the granuum has two fundamental aspects:
+This equation reveals that the plenum has two fundamental aspects:
 
-- Static factor (e^{iɸ}): The "particle-like" state
+- Static factor (e^{iɸ}): The "particle-like" state (granuum)
 - Dynamic factor (k(n) * τ⁻¹ln(ɸ)): The "wave-like" state
 
 When not observed, energy exists in what PSCI defines as an "unresolved" state where:
