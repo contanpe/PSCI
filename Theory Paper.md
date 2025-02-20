@@ -154,7 +154,7 @@ In 1.4ln(ɸ):
 - ln(ɸ) encodes spiral angular velocity tied to dodecahedral symmetry.
 - τ⁻¹ (Negentropy) maps to an *inverse* curvature of spacetime’s fractal lattice: tighter curvature = faster novelty infusion. This is the origin of **frequency change** (for example, the tightness of the curve of a sine wave); it inherently means that higher frequencies can infuse novelty faster into the Universe.
 
-The unit of measurement that talks about cycles per second is hertz (Hz). This is the standard way to measure frequency, which is how many times something repeats in a second. Therefore, we can derive the Hz frequency that divides consciousness fundamentally...
+The unit of measurement that talks about cycles per second is hertz (Hz). This is the standard way to measure frequency, which is how many times something repeats in a second. Therefore, we can derive the Hz frequency that embodies consciousness fundamentally...
 
     f= 1/τ ≈ 1.4×10^33 Hz.
 
