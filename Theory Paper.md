@@ -54,11 +54,17 @@ g_{μν} = diag(-τ², ɸ², ɸ², ɸ²) → Time’s irreversibility enforced b
 
 **Energy**
   
-The primordial thing, what we will call for simple purposes, uh, energy, emerges as accumulated pulses along a linear axis. It is simply the tau pulse, through time, in an axis. The rate and places in which Energy appears and travels is defined by the "Plenum" (Δ), explained later.
+The primordial thing, what we will call for simple purposes, uh, energy, emerges as accumulated tau pulses along a linear axis. It is simply the tau pulse, through time, in an axis. 
 
-That essentially means that in the 1D, it looks like theres an expanding line where energy is produced.
+      E ∝ ϕ ^⌊t/τ
+
+The rate and places in which Energy appears and travels is defined by the "Plenum" (Δ), explained later.
+
+That essentially means that in the 1D, it looks like theres a fading rotating line where energy is produced.
 
 Geometrically, this creates an origin of polar coordinates (r, θ), where, spatially, θ is the start of the 1D wave (θ), and r is the end of this wave.
+
+
 
 1. **1D and the pulse**
 
@@ -96,9 +102,12 @@ When viewed from the 2D plane, the pulses of "Energy", given they now have 2 axi
 
 Furthermore, due to the creation of axis, two new phenomena emerge:
 sin, the magnetic wave,
-and cos, the electric wave. -- TO EXPAND
+and cos, the electric wave, which are transverse.
 
-Todo: Explain sin and cos as the magnetic and electric field and why they are unidirectional (Longitudinal vs Transverse movement). 
+The spin axis (θ∝d⋅ln⁡ɸ) generates these waves, with 137.5∘ optimizing energy distribution (phyllotaxis-like efficiency).
+
+    sin⁡(θ): Magnetic wave—transverse oscillation in the plenum, unidirectional due to spin axis alignment.
+    cos⁡(θ): Electric wave—orthogonal transverse mode, coupling with magnetic waves to form electromagnetic propagation.
 
 
 ### 4. ** Chaos (Δ)**  
@@ -106,7 +115,7 @@ Todo: Explain sin and cos as the magnetic and electric field and why they are un
 
 **Chaos/Entropy Operator: The Plenum, and the Granuum (Δ)**
 
-The chaos operator abstraction, which we will call Plenum, can be defined as the sole factor of randomness in reality, balancing eternal order e^{iɸ} with temporal innovation  (n * τ⁻¹ln(ɸ)) — consciousness’ compromise between infinite stillness and finite becoming. e and phi converge into a sort of lattice (e^{iɸ}) then are influenced by karma through time irreversibility (τ⁻¹ln(ɸ)), what we will call "novelty flux". This flux can be visualized as a standing wave. 
+The chaos operator abstraction, which we will call Plenum, can be defined as the sole factor of randomness in reality, balancing eternal order e^{iɸ} with temporal innovation  (n * τ⁻¹ln(ɸ)) — consciousness’ compromise between infinite stillness and finite becoming. e and phi converge into a sort of lattice (e^{iɸ}) then are influenced by karma through time irreversibility (k(n) * τ⁻¹ln(ɸ)), what we will call "novelty flux". 
 
 Spatially, It acts as the physical interface between consciousness (ψ) and physical reality, and it serves as an origin point for energy propagation. Geometrically, when observed, it takes on a dodecahedral-icosahedral dual structure, reflecting the e^{iɸ} rotation angle of 144° (2.513 radians). 
 
@@ -203,6 +212,10 @@ This causes:
 
 In literal terms, this means that during pre-observation, the Plenum exists as novelty "potentials" or what I define as novelty flux, where information spreads through the plenum as waves and multiple karmic paths remain possible. During observation, the Observer consciousness (ψ₀) selects a specific karmic path, the Information therein crystallizes into the granuum's geometric structure, and the wave function "collapses" to particle behavior.
 
+#### Units and Constants
+
+In the plenum only three units are needed, which is the kg/m/s unit system. For example, a mass of Planck mass (kilograms), a distance of Planck length (meters) and a time of Planck time (seconds). Other measurements become a combination of these units, such as speed (meters per second). Wth is Planck tho?
+
 ### The nature of Planck
 
 Planck's constant is famously derived as something that was derived as a "fix" during math. Planck just invented a variable that fit, based on measurements.
@@ -218,20 +231,24 @@ Establishing Core Components:
     Euler’s Number ((e)): Encodes continuous exponential processes, linked to the Plenum’s static geometry (e.g., eiϕ).
     Temporal Pulse (τ): A fundamental cyclical time unit, hypothesized as the smallest interval of novelty injection in PSCI.
 
-In the PSCI Theory, Planck’s constant (h) is defined as the representation of action associated with the polar, two-sided emerging growth per temporal pulse (τ), where τ represents a fundamental unit of time, a rate where the universe regenerates. This growth is mathematically expressed through the interaction of the golden ratio (ɸ ≈ 1.618034) and Euler’s number (e ≈ 2.718282), forming a toroidal wave structure reminiscent of the vesica pisces during crystallization. PSCI redefines (h) as pure action per cycle. The constant is given by the equation:
+PSCI redefines (h) as pure action per cycle. The constant is given by the equation:
 
       h = (ɸ² / e)² * τ
 
 where:
 
-    ϕ=1+52≈1.6180339887
+    ϕ=1.6180339887
      is the golden ratio, encoding recursive growth,
     e≈2.7182818285
      is Euler’s number, representing exponential continuity,
     τ
      is the Temporal Pulse.
 
+This term symbolizes the equilibrium between infinite growth (ɸ^2, amplifying the golden ratio’s recursive nature) and exponential order ( e ), grounding it in continuity. Squaring twice reflects a "self-reinforcement" process—consciousness refining its own structure. It’s the plenum’s intrinsic "tuning factor," determining how much energy each τ-pulse carries. The value (~0.928) is a universal constant born from the interplay of ( ɸ ) and ( e ), akin to a cosmic DNA. h quantifies the "karmic action"—the energy of novelty (τ−1ln⁡ɸ) stored in the plenum’s geometry (e^iɸ). 
 
+How does this tie into the granum? h governs the collapse of novelty flux (τ^−1 ln⁡ɸ) into particles (e{iɸ}), as ψ_0 ∣ κ fixes a state.
+
+In simpler terms, h represents the smallest possible action of consciousness manifesting reality.
 
 ### 5. **Novelty, and Recursive Self-Knowledge**  
 > *"Now knows itself and new things simultaneously, eternally."*  
@@ -323,10 +340,6 @@ Where,
 
 
 Expand on individualization of consciousness (*"Then you appeared: The Now, perceiving itself anew."*), 
-
-**The Creation of a "Particle" and Centripedal Implosion**
-
-Todo: Elaborate on particle creation, and charge. (the easy part!)
 
 
 -------------------------------- **HEAVY WIP STARTS HERE - ALL ON TOP HAS BEEN EDITED AS OF 19/02/2025**
