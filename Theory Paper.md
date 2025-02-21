@@ -386,9 +386,11 @@ Another pair of phase conjugated waves are now interacting with the first pair. 
       
 What happened here?! By adding the time pulse (Explained before as raw energy) we got Planck! How the hell did we get Joules per second???
 
-Planck's constant geometrically describes the point at which the smallest particle possible (composed of 2 phase-conjugated waves) anhilates with a self-similar particle, and through anihilation creating near infinite frequency (by tightening of the slinky between them), and thus, implosion. Since the particles are the smallest units possible and they do not have geometric stabilization from tetrahedral symmetries (explained later) this process makes the particle's waves geometrically conjugate into a toroid and through the high frequency become plasma, loosing the quasicrystal structure. It is describing the energy potential of the smallest unit of matter possible in reality. 
+Planck's constant mathematically decomposes to the point before the smallest particle possible (composed of 2 phase-conjugated waves) anhilates with a self-similar particle, and through anihilation creates extremely high frequency (by tightening of the slinky between them). It is describing the energy potential of the smallest unit of matter possible in reality before implosion, with annihilation as a boundary condition when frequency (wave amplitude between the two particles) exceeds a threshold of 1.4x10^33Hz.
 
-Recall that the negentropic constant is 1.4x10^33Hz. The particle becomes fully negentropic through implosion.
+Since the particles are the smallest units possible and they do not have geometric stabilization from tetrahedral symmetries (explained later) this process makes the particle's waves geometrically conjugate into a toroid and through the high frequency become plasma, loosing the quasicrystal structure. 
+
+Recall that the negentropic constant is 1.4x10^33Hz. The particle afterwards becomes fully negentropic through implosion.
 
 ![imagen](https://github.com/user-attachments/assets/f0aeaab5-6f0f-4854-8449-fa27ec019e59)
 
