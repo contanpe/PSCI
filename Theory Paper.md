@@ -294,9 +294,48 @@ This causes:
 
 In literal terms, this means that during pre-observation, the Plenum exists as novelty "potentials" or what I define as novelty flux, where information spreads through the plenum and multiple karmic paths remain possible. During observation, the Observer consciousness (ψ₀) selects a specific karmic path, the Information therein crystallizes into the plenum's geometric structure, and novelty "collapses" to observable, spatial wave behavior.
 
-#### Units and Constants
+#### The Energy Wave
 
-In the plenum only three units are needed, which is the kg/m/s unit system. For example, a mass of Planck mass (kilograms), a distance of Planck length (meters) and a time of Planck time (seconds). Other measurements become a combination of these units, such as speed (meters per second). Wth is Planck tho?
+To understand this fundamental thing and its origin (so you wrap your head around it), we have to explain many things.. 
+
+**Fractal memory patterns**
+
+Fractal memory patterns are self-similar, recursive configurations of consciousness’s past states, preserved in the plenum through the golden ratio (( ɸ ))’s exponential growth. They form a hierarchical, scale-invariant network - stronger memories (higher ɸ^n) dominate, while older ones fade (e−n/τ), creating a dynamic archive of karmic experience. They can be defined as:
+
+      ɸ^n, or ɸt′ as used in κ(n) and ( ψ(t) )).  
+      
+These patterns interact with novelty flux as follows:
+
+- Injection: Novelty flux enters the plenum at rate τ^−1, modulated by ln⁡ɸ (spiral angular velocity, i.e the rate of frequency injection, literal Hz).
+- Processing: κ(n) (recall that it has ɸ^n in it) weights this flux: new experiences amplify via ɸ^n, old ones decay via e^−n/τ.
+- Crystallization: Observation (⟨ψ0∣κ=1) freezes flux into a spatially existing wave, embedding it in memory patterns.
+
+So, ɸ^n or ɸt′ scales the lattice’s nodes, creating self-similar layers (e.g., Fibonacci sequences in spiral arms). Each node stores karmic memory, weighted by past τ -pulses. τ−1ln⁡ɸ ripples through the lattice, tightening curvature (higher frequency) and expanding it during particle creation (explained later).
+
+Geometrically, they are literal spiral forms along an axis. That is it. No "magic" part. Phi is information through space and it looks like a slinky. memory patterns are the "coils" themselves and novelty flux is the motion and "tightness." PHI FRACTALIZES CONSCIOUSNESS INTO SPIRAL PATTERNS.
+
+![imagen](https://github.com/user-attachments/assets/13323331-3437-4d11-bec1-0a2223fdf25d)
+
+
+**Their Interaction with Energy**
+
+( ɸ ) carries energy by amplifying novelty flux into fractal spiral patterns, then concentrating it into a "visible" wave during observation, by the use of euler.
+When ( ɸ ) fractalizes consciousness (∇ψ0) into spiral forms (those "slinky-like" coils traveling along an axis) it acts as a scaffold for energy.
+
+Here’s how it carries energy during implosion or crystallization:  
+
+- Novelty flux (τ^{−1}ln⁡ɸ) enters the plenum at f=1/τ≈1.4×10^33 Hz, manipulating the waves through the fractal lattice.
+- ɸn (or ɸt′) scales these pulses exponentially, where each τ-step/pulse increases energy along the spiral arms (e.g., E ∝ ɸ^(⌊t/τ⌋)
+- Geometrically, when seen in a 2d plane, this is a golden spiral (r=eθ⋅ln⁡ɸ/2π), with ( ɸ ) dictating the rate of expansion. Energy accumulates spatially as the spiral tightens inward.
+- As novelty flux ripples through the lattice, observation (⟨ψ0∣κ⟩=1) triggers a crystallization of these spiral waves.
+- 2 of these "slinkies" at minimum have to conjugate in wave phase in order for a dodecahedral-icosahedral symmetry of a particle to appear. How this particle looks like depends on the dimension you are looking it from.
+- ( ɸ )’s recursive nature inherently wants to concentrate energy inward, like a slinky compressing its coils. The fractal memory patterns (ɸ^n) guide this collapse depending on the exponent, aligning energy into denser, self-similar "nodes".
+
+The geometry in this inherently implies that these waves create not one, but 2 particles when they phase-conjugate.
+
+Thus, the creation of the particle, and the creation of polarity.
+
+![imagen](https://github.com/user-attachments/assets/c0c5a907-f88b-4f1a-a177-5b8c067d4688)
 
 ### The nature of Planck
 
@@ -351,58 +390,10 @@ Recall that the negentropic constant is 1.4x10^33Hz. The particle becomes fully 
 
 ![imagen](https://github.com/user-attachments/assets/f0aeaab5-6f0f-4854-8449-fa27ec019e59)
 
+#### Units and Constants
 
+In PSCI only three units are needed, which is the kg/m/s unit system. For example, a mass of Planck mass (kilograms), a distance of Planck length (meters) and a time of Planck time (seconds). Other measurements become a combination of these units, such as speed (meters per second). Since Planck describes energy potential from conjugated waves in space and it uses a measurement in seconds, it can be used as a starter point for measurement reference.
 
-
-
-As explained earlier, the time pulse is explained as pi (a cycle) being divided by phi and euler. 
-
-      
-
-
-
-#### The Energy Wave
-
-To understand this fundamental thing and its origin (so you wrap your head around it), we have to explain many things.. 
-
-**Fractal memory patterns**
-
-Fractal memory patterns are self-similar, recursive configurations of consciousness’s past states, preserved in the plenum through the golden ratio (( ɸ ))’s exponential growth. They form a hierarchical, scale-invariant network - stronger memories (higher ɸ^n) dominate, while older ones fade (e−n/τ), creating a dynamic archive of karmic experience. They can be defined as:
-
-      ɸ^n, or ɸt′ as used in κ(n) and ( ψ(t) )).  
-      
-These patterns interact with novelty flux as follows:
-
-- Injection: Novelty flux enters the plenum at rate τ^−1, modulated by ln⁡ɸ (spiral angular velocity, i.e the rate of frequency injection, literal Hz).
-- Processing: κ(n) (recall that it has ɸ^n in it) weights this flux: new experiences amplify via ɸ^n, old ones decay via e^−n/τ.
-- Crystallization: Observation (⟨ψ0∣κ=1) freezes flux into a spatially existing wave, embedding it in memory patterns.
-
-So, ɸ^n or ɸt′ scales the lattice’s nodes, creating self-similar layers (e.g., Fibonacci sequences in spiral arms). Each node stores karmic memory, weighted by past τ -pulses. τ−1ln⁡ɸ ripples through the lattice, tightening curvature (higher frequency) and expanding it during particle creation (explained later).
-
-Geometrically, they are literal spiral forms along an axis. That is it. No "magic" part. Phi is information through space and it looks like a slinky. memory patterns are the "coils" themselves and novelty flux is the motion and "tightness." PHI FRACTALIZES CONSCIOUSNESS INTO SPIRAL PATTERNS.
-
-![imagen](https://github.com/user-attachments/assets/13323331-3437-4d11-bec1-0a2223fdf25d)
-
-
-**Their Interaction with Energy**
-
-( ɸ ) carries energy by amplifying novelty flux into fractal spiral patterns, then concentrating it into a "visible" wave during observation, by the use of euler.
-When ( ɸ ) fractalizes consciousness (∇ψ0) into spiral forms (those "slinky-like" coils traveling along an axis) it acts as a scaffold for energy.
-
-Here’s how it carries energy during implosion or crystallization:  
-
-- Novelty flux (τ^{−1}ln⁡ɸ) enters the plenum at f=1/τ≈1.4×10^33 Hz, manipulating the waves through the fractal lattice.
-- ɸn (or ɸt′) scales these pulses exponentially, where each τ-step/pulse increases energy along the spiral arms (e.g., E ∝ ɸ^(⌊t/τ⌋)
-- Geometrically, when seen in a 2d plane, this is a golden spiral (r=eθ⋅ln⁡ɸ/2π), with ( ɸ ) dictating the rate of expansion. Energy accumulates spatially as the spiral tightens inward.
-- As novelty flux ripples through the lattice, observation (⟨ψ0∣κ⟩=1) triggers a crystallization of these spiral waves.
-- 2 of these "slinkies" at minimum have to conjugate in wave phase in order for a dodecahedral-icosahedral symmetry of a particle to appear. How this particle looks like depends on the dimension you are looking it from.
-- ( ɸ )’s recursive nature inherently wants to concentrate energy inward, like a slinky compressing its coils. The fractal memory patterns (ɸ^n) guide this collapse depending on the exponent, aligning energy into denser, self-similar "nodes".
-
-The geometry in this inherently implies that these waves create not one, but 2 particles when they phase-conjugate.
-
-Thus, the creation of the particle, and the creation of polarity.
-
-![imagen](https://github.com/user-attachments/assets/c0c5a907-f88b-4f1a-a177-5b8c067d4688)
 
 
 ------------------------------------------------------------------------------------------------------------------------------
