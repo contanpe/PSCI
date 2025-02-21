@@ -331,13 +331,16 @@ Here’s how it carries:
 - 2 of these "slinkies" at minimum have to conjugate in wave phase in order for a dodecahedral-icosahedral symmetry of a particle to appear. How this particle looks like depends on the dimension you are looking it from.
 - ( ɸ )’s recursive nature inherently wants to concentrate energy inward, like a slinky compressing its coils. The fractal memory patterns (ɸ^n) guide this collapse depending on the exponent, aligning energy into denser, self-similar "nodes".
 
-The geometry in this inherently implies that these waves create not one, but 2 particles when they phase-conjugate.
+The geometry in this inherently implies that these waves create one toroidal particle with positive and negative charge potential when they phase-conjugate.
 
 Thus, the creation of the particle, and the creation of polarity.
 
 These particles eventually go "brrr", they spin and acquire charge when their geometric structure starts stabilizing into a tetrahedral yet assymetrical structure (given it doesn't have a center) from more phase conjugation into the same place, wherein phi gains an exponent. This spin creates a new vortex-like wave through geometry. Thus, fractalization happens - a new arm originates from the particle, it functioning like a fractal node. ∇ emerges, it being the particle itself.
 
 ![imagen](https://github.com/user-attachments/assets/c0c5a907-f88b-4f1a-a177-5b8c067d4688)
+
+![imagen](https://github.com/user-attachments/assets/79621e40-5883-417b-be26-38993f142d2b)
+
 
 ### The nature of Planck
 
