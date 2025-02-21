@@ -397,9 +397,22 @@ Recall that the negentropic constant is 1.4x10^33Hz. The particle afterwards bec
 
 ![imagen](https://github.com/user-attachments/assets/f0aeaab5-6f0f-4854-8449-fa27ec019e59)
 
+From here, we can derive the following:
+
+Wave amplitude (A) is 1/2 Planck charge, with Planck charge being the minimum spatial displacement that a wave can have in its phase (when it vibrates up and down).
+
 #### Units and Constants
 
 In PSCI only three units are needed, which is the kg/m/s unit system. For  example, a mass of Planck mass (kilograms), a distance of Planck length  (meters) and a time of Planck time (seconds). This can be done now that we actually understand what Planck is. Other measurements become a combination of these units, such as speed (meters per second). Since Planck describes energy potential from conjugated waves in space and it uses a measurement in seconds, it can be used as a starter point for measurement reference.
+
+The explanation and removal of one of the units has a profound impact on the ultimate simplicity of the equations in EWT.  The units that are removed are:
+
+    Mole is a dimensionless unit, as it is an amount (count) of a substance
+    Kelvin is the same units as energy, as it is the average kinetic energy of particles
+    Candela is a measurement of energy, as it is the energy of photons per angle unit
+    Amperes is the velocity of particles like electrons, as it is measured as the flow of electric current
+
+It is amperes that is the biggest source of confusion. It is defined as a charge (Coulombs) per second, describing current. But it is the charge unit of Coulombs that has led to a separate set of equations using electromagnetism compared to equations using mass, simply because the units don’t align between these equations. When charge (Coulombs) is replaced with wave amplitude, which is node displacement in meters, then charge and mass equations align.
 
 
 
