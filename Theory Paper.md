@@ -317,7 +317,7 @@ Here’s how it carries:
 
 - Novelty flux (τ^{−1}ln⁡ɸ) enters the plenum at f=1/τ≈1.4×10^33 Hz, manipulating the waves through the fractal lattice, giving them varying degrees of wave amplitude.
 - ɸn (or ɸt′) scales these pulses exponentially, where each τ-step/pulse increases energy along the spiral arms (e.g., E ∝ ɸ^(⌊t/τ⌋)
-- Geometrically, when seen in a 2d plane, this is a golden spiral (r=eθ⋅ln⁡ɸ/2π) and has amplitude and phase from the new orthogonal aspects, with ( ɸ ) dictating the rate of expansion. Energy accumulates spatially as the spiral tightens inward.
+- Geometrically, when seen in a 2d plane, this is a golden spiral (r=eθ⋅ln⁡ɸ/2π) and has amplitude and phase from the new orthogonal aspects, with ( ɸ ) dictating the rate of expansion. Energy accumulates spatially as the spiral tightens inward. If it's only based on τ-pulse and has a dynamic constant of ln⁡ɸ = 0 due to no karma (only using the static part of the Plenum operator function), the wave becomes a simple radial sphere (π).
 - As novelty flux ripples through the lattice, observation (⟨ψ0∣κ⟩=1) triggers a crystallization of these spiral waves by asigning a specific amplitude and direction.
 - 2 of these "slinkies" at minimum have to conjugate in wave phase, while travelling in opposite directions, with the same frequency, in order for a dodecahedral-icosahedral symmetry of a particle to appear. How this particle looks like depends on the dimension you are looking it from.
 - ( ɸ )’s recursive nature inherently wants to concentrate energy inward, like a slinky compressing its coils. The fractal memory patterns (ɸ^n) guide this collapse depending on the exponent, aligning energy into denser, self-similar "nodes".
