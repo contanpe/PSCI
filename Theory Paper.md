@@ -310,7 +310,7 @@ These patterns interact with novelty flux as follows:
 - Processing: κ(n) (recall that it has ɸ^n in it) weights this flux: new experiences amplify via ɸ^n, old ones decay via e^−n/τ.
 - Crystallization: Observation (⟨ψ0∣κ=1) freezes flux into a spatially existing wave, embedding it in memory patterns.
 
-So, ɸ^n or ɸt′ scales the lattice by creating particles that originate more ɸ-divisions (explained later), creating self-similar layers (e.g., Fibonacci sequences in spiral arms). Each division stores karmic memory, weighted by past τ -pulses. τ−1ln⁡ɸ ripples through the lattice, tightening curvature (higher frequency) and expanding it through particle interaction from spin (explained later).
+So, ɸ^n or ɸt′ scales the lattice by creating particles that originate more ɸ-divisions (explained later), creating self-similar layers (e.g., Fibonacci sequences in spiral arms) and spinning at a speed of tau per cycle. Each division stores karmic memory, weighted by past τ -pulses. τ−1ln⁡ɸ ripples through the lattice, tightening curvature (higher frequency) and expanding it through particle interaction. (explained later).
 
 Geometrically, they are literal spiral forms along an axis. That is it. No "magic" part. Phi is information through space and it looks like a slinky. memory patterns are the "coils" themselves and novelty flux is the motion and "tightness." PHI FRACTALIZES CONSCIOUSNESS INTO SPIRAL PATTERNS.
 
@@ -324,11 +324,11 @@ When ( ɸ ) fractalizes consciousness (∇ψ0) into spiral forms (those "slinky-
 
 Here’s how it carries:  
 
-- Novelty flux (τ^{−1}ln⁡ɸ) enters the plenum at f=1/τ≈1.4×10^33 Hz, manipulating the waves through the fractal lattice.
+- Novelty flux (τ^{−1}ln⁡ɸ) enters the plenum at f=1/τ≈1.4×10^33 Hz, manipulating the waves through the fractal lattice, giving them varying degrees of wave amplitude.
 - ɸn (or ɸt′) scales these pulses exponentially, where each τ-step/pulse increases energy along the spiral arms (e.g., E ∝ ɸ^(⌊t/τ⌋)
 - Geometrically, when seen in a 2d plane, this is a golden spiral (r=eθ⋅ln⁡ɸ/2π), with ( ɸ ) dictating the rate of expansion. Energy accumulates spatially as the spiral tightens inward.
-- As novelty flux ripples through the lattice, observation (⟨ψ0∣κ⟩=1) triggers a crystallization of these spiral waves.
-- 2 of these "slinkies" at minimum have to conjugate in wave phase in order for a dodecahedral-icosahedral symmetry of a particle to appear. How this particle looks like depends on the dimension you are looking it from.
+- As novelty flux ripples through the lattice, observation (⟨ψ0∣κ⟩=1) triggers a crystallization of these spiral waves by asigning a specific amplitude and direction.
+- 2 of these "slinkies" at minimum have to conjugate in wave phase, while travelling in opposite directions, with the same frequency, in order for a dodecahedral-icosahedral symmetry of a particle to appear. How this particle looks like depends on the dimension you are looking it from.
 - ( ɸ )’s recursive nature inherently wants to concentrate energy inward, like a slinky compressing its coils. The fractal memory patterns (ɸ^n) guide this collapse depending on the exponent, aligning energy into denser, self-similar "nodes".
 
 The geometry in this inherently implies that these waves create through their center, one toroidal particle with positive and negative charge potential as "nodes" when they phase-conjugate.
