@@ -394,7 +394,7 @@ Recall that the negentropic constant is 1.4x10^33Hz. The particle becomes fully 
 
 #### Units and Constants
 
-In PSCI only three units are needed, which is the kg/m/s unit system. For example, a mass of Planck mass (kilograms), a distance of Planck length (meters) and a time of Planck time (seconds). Other measurements become a combination of these units, such as speed (meters per second). Since Planck describes energy potential from conjugated waves in space and it uses a measurement in seconds, it can be used as a starter point for measurement reference.
+In PSCI only three units are needed, which is the kg/m/s unit system. For  example, a mass of Planck mass (kilograms), a distance of Planck length  (meters) and a time of Planck time (seconds). This can be done now that we actually understand what Planck is. Other measurements become a combination of these units, such as speed (meters per second). Since Planck describes energy potential from conjugated waves in space and it uses a measurement in seconds, it can be used as a starter point for measurement reference.
 
 
 
