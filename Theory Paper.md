@@ -310,7 +310,7 @@ These patterns interact with novelty flux as follows:
 - Processing: κ(n) (recall that it has ɸ^n in it) weights this flux: new experiences amplify via ɸ^n, old ones decay via e^−n/τ.
 - Crystallization: Observation (⟨ψ0∣κ=1) freezes flux into a spatially existing wave, embedding it in memory patterns.
 
-So, ɸ^n or ɸt′ scales the lattice’s nodes, creating self-similar layers (e.g., Fibonacci sequences in spiral arms). Each node stores karmic memory, weighted by past τ -pulses. τ−1ln⁡ɸ ripples through the lattice, tightening curvature (higher frequency) and expanding it during particle creation (explained later).
+So, ɸ^n or ɸt′ scales the lattice by creating particles that originate more ɸ-divisions (explained later), creating self-similar layers (e.g., Fibonacci sequences in spiral arms). Each division stores karmic memory, weighted by past τ -pulses. τ−1ln⁡ɸ ripples through the lattice, tightening curvature (higher frequency) and expanding it through particle interaction from spin (explained later).
 
 Geometrically, they are literal spiral forms along an axis. That is it. No "magic" part. Phi is information through space and it looks like a slinky. memory patterns are the "coils" themselves and novelty flux is the motion and "tightness." PHI FRACTALIZES CONSCIOUSNESS INTO SPIRAL PATTERNS.
 
@@ -322,7 +322,7 @@ Geometrically, they are literal spiral forms along an axis. That is it. No "magi
 ( ɸ ) carries energy by amplifying novelty flux into fractal spiral patterns, then concentrating it into a "visible" wave during observation, by the use of euler.
 When ( ɸ ) fractalizes consciousness (∇ψ0) into spiral forms (those "slinky-like" coils traveling along an axis) it acts as a scaffold for energy.
 
-Here’s how it carries energy during implosion or crystallization:  
+Here’s how it carries:  
 
 - Novelty flux (τ^{−1}ln⁡ɸ) enters the plenum at f=1/τ≈1.4×10^33 Hz, manipulating the waves through the fractal lattice.
 - ɸn (or ɸt′) scales these pulses exponentially, where each τ-step/pulse increases energy along the spiral arms (e.g., E ∝ ɸ^(⌊t/τ⌋)
@@ -334,6 +334,8 @@ Here’s how it carries energy during implosion or crystallization:
 The geometry in this inherently implies that these waves create not one, but 2 particles when they phase-conjugate.
 
 Thus, the creation of the particle, and the creation of polarity.
+
+These particles eventually go "brrr", they spin and acquire charge when their geometric structure starts stabilizing into a tetrahedral yet assymetrical structure (given it doesn't have a center) from more phase conjugation into the same place, wherein phi gains an exponent. This spin creates a new vortex-like wave through geometry. Thus, fractalization happens - a new arm originates from the particle, it functioning like a fractal node. ∇ emerges, it being the particle itself.
 
 ![imagen](https://github.com/user-attachments/assets/c0c5a907-f88b-4f1a-a177-5b8c067d4688)
 
