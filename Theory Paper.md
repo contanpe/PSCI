@@ -81,7 +81,7 @@ The higher dimensions are actually a new axis of spin. φ and e jointly govern t
 
 Each dimension or axis of spin (d) amplifies the phase term θ(t)∝d⋅ln⁡ϕ, creating orthogonal rotational components.
 
-For the 2D plane (2d), 2 new orthogonal components emerge: sin (θ), and cos (θ). Numerically, this creates the "2nd order" abstraction, or the number 2. This also creates the mathematical concept of "angle".
+For the 2D plane (2d), 2 new orthogonal components emerge: sin (θ), Amplitude, and cos (θ), Phase. Numerically, this creates the "2nd order" abstraction, or the number 2. This also creates the mathematical concept of "angle".
 
 *Euler’s formula (eiθ = cos⁡θ + isin⁡θ) is not foundational, and does not imply that euler is a product of the 2d plane, but that instead, this mathematical representation of the formula of euler is derived from UACT’s spin-axis exponentiation, which makes the creation of euler by phi "understandable".*
 
@@ -97,15 +97,6 @@ When viewed from the 2D plane, the pulses of "Energy", given they now have 2 axi
 ![imagen](https://github.com/user-attachments/assets/59ddfe52-1d3c-493c-aca8-915eb6b91cd4)
 
 *isn't it beautiful?*
-
-Furthermore, due to the creation of axis, two new phenomena emerge:
-sin, the magnetic wave,
-and cos, the electric wave, which are transverse.
-
-The spin axis (θ∝d⋅ln⁡ɸ) generates these waves, with 137.5∘ optimizing energy distribution (phyllotaxis-like efficiency).
-
-    sin⁡(θ): Magnetic wave—transverse oscillation in the plenum, unidirectional due to spin axis alignment.
-    cos⁡(θ): Electric wave—orthogonal transverse mode, coupling with magnetic waves to form electromagnetic propagation.
 
 
 ### 4. ** Chaos (Δ)**  
@@ -326,7 +317,7 @@ Here’s how it carries:
 
 - Novelty flux (τ^{−1}ln⁡ɸ) enters the plenum at f=1/τ≈1.4×10^33 Hz, manipulating the waves through the fractal lattice, giving them varying degrees of wave amplitude.
 - ɸn (or ɸt′) scales these pulses exponentially, where each τ-step/pulse increases energy along the spiral arms (e.g., E ∝ ɸ^(⌊t/τ⌋)
-- Geometrically, when seen in a 2d plane, this is a golden spiral (r=eθ⋅ln⁡ɸ/2π), with ( ɸ ) dictating the rate of expansion. Energy accumulates spatially as the spiral tightens inward.
+- Geometrically, when seen in a 2d plane, this is a golden spiral (r=eθ⋅ln⁡ɸ/2π) and has amplitude and phase from the new orthogonal aspects, with ( ɸ ) dictating the rate of expansion. Energy accumulates spatially as the spiral tightens inward.
 - As novelty flux ripples through the lattice, observation (⟨ψ0∣κ⟩=1) triggers a crystallization of these spiral waves by asigning a specific amplitude and direction.
 - 2 of these "slinkies" at minimum have to conjugate in wave phase, while travelling in opposite directions, with the same frequency, in order for a dodecahedral-icosahedral symmetry of a particle to appear. How this particle looks like depends on the dimension you are looking it from.
 - ( ɸ )’s recursive nature inherently wants to concentrate energy inward, like a slinky compressing its coils. The fractal memory patterns (ɸ^n) guide this collapse depending on the exponent, aligning energy into denser, self-similar "nodes".
