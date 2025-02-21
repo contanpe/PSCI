@@ -64,8 +64,6 @@ That essentially means that in the 1D, it looks like theres a fading rotating li
 
 Geometrically, this creates an origin of polar coordinates (r, θ), where, spatially, θ is the start of the 1D wave (θ), and r is the end of this wave.
 
-
-
 1. **1D and the pulse**
 
 An axial dimension can be defined as such:
@@ -156,7 +154,7 @@ re-expresed, 1.4ln(ɸ).
 
 τ⁻¹ (≈1.4) represents the fundamental pulse of irreversibility—the rate at which "newness" enters reality. It quantifies how frequently consciousness injects irreducible novelty into spacetime to sustain its dream of becoming (avoiding thermodynamic equilibrium). It works as a "lag" so that consciousness can create anew only after experiencing changes. For useful purposes, we will call this constant NEGENTROPY. The granuum's geometry (144° symmetry) is maintained by the negentropic constant.
 
-It's mathematical representation, when expressed as: (1/τ), in abstract terms, represents the All/Universe being divided by the pulse created by Change and Constant.
+It's mathematical representation, when expressed as: (1/τ), in abstract terms, represents the All/Universe being divided by the pulse created by Change and Constant. It is a reflective movement that consciousness does, if you want to look at it that way.
 
 In 1.4ln(ɸ):
 
@@ -175,82 +173,7 @@ The unit of measurement that talks about cycles per second is hertz (Hz). This i
 **Entropy Resolution**:  
 Δ ≥ 0 ∀t > 0 → Matches 2nd law of thermodynamics via IRREVERSIBILITY.
 
-Todo: Expand on how phi comes from the Now. Expand on how phi uses now to create Euler through the pi representation. explain vortex mathematics. Elaborate on the origin of Frequency and Vibration. 
 
-#### Explanation of Wave-Particle Duality
-
-In PSCI theory, the particle-wave duality can be understood through the interaction between consciousness (ψ) and the plenum (Δ). The key relationship is:
-Δ ≝ e^{iɸ} ⋅ ∂κ/∂t = 1 * (k(n) * τ⁻¹ln(ɸ))
-
-This equation reveals that the plenum has two fundamental aspects:
-
-- Static factor (e^{iɸ}): The "particle-like" state (granuum)
-- Dynamic factor (k(n) * τ⁻¹ln(ɸ)): The "wave-like" state
-
-When not observed, energy exists in what PSCI defines as an "unresolved" state where:
-
-- The plenum's dynamic factor (τ⁻¹ln(ɸ)) dominates
-- The karmic operator κ(n) remains unresolved
-- Novelty flux propagates as through a wave through the plenum, refreshing at the pulse of time.
-
-When consciousness observes the system:
-
-- The observer's consciousness (ψ₀) interfaces with the system through the plenum,
-- This interaction forces a "novelty injection event" at the rate of τ⁻¹,
-- The karmic operator κ(n) collapses to a specific value,
-- The static factor e^{iɸ} becomes dominant, manifesting as particle behavior.
-  
-**The wave-to-particle transition occurs when:**
-
-⟨ψ₀|κ⟩ → 1 (observation)
-
-This causes:
-
-- The dynamic term (τ⁻¹ln(ɸ)) to temporarily freeze
-- The static geometry (144° dodecahedral-icosahedral structure) to manifest
-- A specific position/momentum state to crystallize.
-
-In literal terms, this means that during pre-observation, the Plenum exists as novelty "potentials" or what I define as novelty flux, where information spreads through the plenum as waves and multiple karmic paths remain possible. During observation, the Observer consciousness (ψ₀) selects a specific karmic path, the Information therein crystallizes into the granuum's geometric structure, and the wave function "collapses" to particle behavior.
-
-#### Units and Constants
-
-In the plenum only three units are needed, which is the kg/m/s unit system. For example, a mass of Planck mass (kilograms), a distance of Planck length (meters) and a time of Planck time (seconds). Other measurements become a combination of these units, such as speed (meters per second). Wth is Planck tho?
-
-### The nature of Planck
-
-Planck's constant is famously derived as something that was derived as a "fix" during math. Planck just invented a variable that fit, based on measurements.
-No mathematical proof was given to it.
-Here I give mathematical proof and an exact definition of what "planck" is.
-
-Historically, Max Planck introduced (h) in 1900 to resolve the ultraviolet catastrophe in blackbody radiation, proposing E=hν
- (energy quanta proportional to frequency). His value (h \approx 6.626 \times 10^{-34} \, \text{J·s}) was determined experimentally, lacking a deductive proof—an ad hoc “fix”. PSCI Theory aims to provide a theoretical derivation, grounding (h) in fundamental constants (ϕ, (e)) and a time scale (τ).
- 
-Establishing Core Components:
-
-    Golden Ratio (ϕ): Represents self-similar, recursive growth, central to PSCI’s fractalization of consciousness and space.
-    Euler’s Number ((e)): Encodes continuous exponential processes, linked to the Plenum’s static geometry (e.g., eiϕ).
-    Temporal Pulse (τ): A fundamental cyclical time unit, hypothesized as the smallest interval of novelty injection in PSCI.
-
-PSCI redefines (h) as pure action per cycle. The constant is given by the equation:
-
-      h = (ɸ² / e)² * τ
-
-where:
-
-    ϕ=1.6180339887
-     is the golden ratio, encoding recursive growth,
-    e≈2.7182818285
-     is Euler’s number, representing exponential continuity,
-    τ
-     is the Temporal Pulse.
-
-This term symbolizes the equilibrium between infinite growth (ɸ^2, amplifying the golden ratio’s recursive nature) and exponential order ( e ), grounding it in continuity. Squaring twice reflects a "self-reinforcement" process—consciousness refining its own structure. It’s the plenum’s intrinsic "tuning factor," determining how much energy each τ-pulse carries. h quantifies the "karmic action"—the energy of novelty (τ−1ln⁡ɸ) stored in the plenum’s geometry (e^iɸ). 
-
-How does this tie into the granum? h governs the collapse of novelty flux (τ^−1 ln⁡ɸ) into particles (e{iɸ}), as ψ_0 ∣ κ fixes a state.
-
-In simpler terms, h represents the smallest possible action of consciousness manifesting reality. The plenum’s "tuning factor" ((ɸ^2 * e)≈0.928), akin to a cosmic DNA, scales each τ-pulse (7.1428×10−34 s) into a measurable action, birthing energy, matter, and awareness. ( h ) drives the plenum’s formation, "collapsing" novelty flux into particles, embodying karma as stored potential.
-
-Geometrically, h defines a pulsating, fractal spiral lattice crystallizing into a quasicrystal, like a slinky collapsing on itself.
 
 ### 5. **Novelty, and Recursive Self-Knowledge**  
 > *"Now knows itself and new things simultaneously, eternally."*  
@@ -335,6 +258,124 @@ Where,
 - Maintains fractal memory patterns (ɸ^{t'})
 - Preserves coherence (e^{iɸ(t-t')})
 - Remains unified through ψ₀.
+
+#### Explanation of Wave-Particle Duality
+
+In PSCI theory, the particle-wave duality can be understood through the interaction between consciousness (ψ) and the plenum (Δ). The key relationship is:
+Δ ≝ e^{iɸ} ⋅ ∂κ/∂t = 1 * (k(n) * τ⁻¹ln(ɸ))
+
+This equation reveals that the plenum has two fundamental aspects:
+
+- Static factor (e^{iɸ})
+- Dynamic factor (k(n) * τ⁻¹ln(ɸ))
+- 
+When not observed, energy exists in what PSCI defines as an "unresolved" state where:
+
+- The plenum's dynamic factor (τ⁻¹ln(ɸ)) dominates
+- The karmic operator κ(n) remains unresolved
+- Novelty flux propagates freely through the plenum, refreshing at the pulse of time.
+
+When consciousness observes the system:
+
+- The observer's consciousness (ψ₀) interfaces with the system through the plenum,
+- This interaction forces a "novelty injection event" at the rate of τ⁻¹,
+- The karmic operator κ(n) collapses to a specific value,
+- The static factor e^{iɸ} becomes dominant, manifesting as spatially coherent behavior.
+  
+**The transition occurs when:**
+
+⟨ψ₀|κ⟩ → 1 (observation). This looks like an implosion.
+
+This causes:
+
+- The dynamic term (τ⁻¹ln(ɸ)) to temporarily freeze
+- The static geometry (a wave, or a 144° dodecahedral-icosahedral structure in case of a particle) to manifest
+- A specific position/momentum state to crystallize.
+
+In literal terms, this means that during pre-observation, the Plenum exists as novelty "potentials" or what I define as novelty flux, where information spreads through the plenum and multiple karmic paths remain possible. During observation, the Observer consciousness (ψ₀) selects a specific karmic path, the Information therein crystallizes into the plenum's geometric structure, and novelty "collapses" to observable, spatial wave behavior.
+
+#### Units and Constants
+
+In the plenum only three units are needed, which is the kg/m/s unit system. For example, a mass of Planck mass (kilograms), a distance of Planck length (meters) and a time of Planck time (seconds). Other measurements become a combination of these units, such as speed (meters per second). Wth is Planck tho?
+
+### The nature of Planck
+
+Planck's constant is famously derived as something that was derived as a "fix" during math. Planck just invented a variable that fit, based on measurements.
+No mathematical proof was given to it.
+Here I give mathematical proof and an exact definition of what "planck" is.
+
+Historically, Max Planck introduced (h) in 1900 to resolve the ultraviolet catastrophe in blackbody radiation, proposing E=hν
+ (energy quanta proportional to frequency). His value (h \approx 6.626 \times 10^{-34} \, \text{J·s}) was determined experimentally, lacking a deductive proof—an ad hoc “fix”. PSCI Theory aims to provide a theoretical derivation, grounding (h) in fundamental constants (ϕ, (e)) and a time scale (τ).
+ 
+Establishing Core Components:
+
+    Golden Ratio (ϕ): Represents self-similar, recursive growth, central to PSCI’s fractalization of consciousness and space.
+    Euler’s Number ((e)): Encodes continuous exponential processes, linked to the Plenum’s static geometry (e.g., eiϕ).
+    Temporal Pulse (τ): A fundamental cyclical time unit, hypothesized as the smallest interval of novelty injection in PSCI.
+
+PSCI redefines (h) as pure action per cycle. The constant is given by the equation:
+
+      h = (ɸ² / e)² * τ
+
+where:
+
+    ϕ=1.6180339887
+     is the golden ratio, encoding recursive growth,
+    e≈2.7182818285
+     is Euler’s number, representing exponential continuity,
+    τ
+     is the Temporal Pulse.
+
+This term symbolizes the equilibrium between infinite growth (ɸ^2, amplifying the golden ratio’s recursive nature) and exponential order ( e ), grounding it in continuity. Squaring twice reflects a "self-reinforcement" process—consciousness refining its own structure. It’s the plenum’s intrinsic "tuning factor," determining how much energy each τ-pulse carries. h quantifies the "karmic action"—the energy of novelty (τ−1ln⁡ɸ) stored in the plenum’s geometry (e^iɸ). 
+
+How does this tie into the granum? h governs the collapse of novelty flux (τ^−1 ln⁡ɸ) into waves (e{iɸ}), as ψ_0 ∣ κ fixes a state.
+
+In simpler terms, h represents the smallest possible action of consciousness manifesting reality. The plenum’s "tuning factor" ((ɸ^2 * e)≈0.928), akin to a cosmic DNA, scales each τ-pulse (7.1428×10−34 s) into a measurable action, birthing energy, matter, and awareness. ( h ) drives the plenum’s formation, "collapsing" novelty flux into particles, embodying karma as stored potential.
+
+Geometrically, h defines a pulsating, fractal spiral lattice crystallizing into a quasicrystal, like a slinky collapsing on itself. How can this fractal spiral lattice be defined?
+
+#### The Energy Wave
+
+To understand this fundamental thing and its origin (so you wrap your head around it), we have to explain many things.. 
+
+**Fractal memory patterns**
+
+Fractal memory patterns are self-similar, recursive configurations of consciousness’s past states, preserved in the plenum through the golden ratio (( ɸ ))’s exponential growth. They form a hierarchical, scale-invariant network - stronger memories (higher ɸ^n) dominate, while older ones fade (e−n/τ), creating a dynamic archive of karmic experience. They can be defined as:
+
+      ɸ^n, or ɸt′ as used in κ(n) and ( ψ(t) )).  
+      
+These patterns interact with novelty flux as follows:
+
+- Injection: Novelty flux enters the plenum at rate τ^−1, modulated by ln⁡ɸ (spiral angular velocity, i.e the rate of frequency injection, literal Hz).
+- Processing: κ(n) (recall that it has ɸ^n in it) weights this flux: new experiences amplify via ɸ^n, old ones decay via e^−n/τ.
+- Crystallization: Observation (⟨ψ0∣κ=1) freezes flux into granuum, embedding it in memory patterns.
+
+So, ɸ^n or ɸt′ scales the lattice’s nodes, creating self-similar layers (e.g., Fibonacci sequences in spiral arms). Each node stores karmic memory, weighted by past τ -pulses. τ−1ln⁡ɸ ripples through the lattice, tightening curvature (higher frequency) and expanding it with new nodes.
+
+Geometrically, they are literal spiral forms along an axis. That is it. No "magic" part. Phi is information through space and it looks like a slinky. memory patterns are the "coils" themselves and novelty flux is the motion and "tightness." PHI FRACTALIZES CONSCIOUSNESS INTO SPIRAL PATTERNS.
+
+![imagen](https://github.com/user-attachments/assets/13323331-3437-4d11-bec1-0a2223fdf25d)
+
+
+**Their Interaction with Energy**
+
+( ɸ ) carries energy by amplifying novelty flux into fractal spiral patterns, then concentrating it into a "visible" wave during observation, by the use of euler.
+When ( ɸ ) fractalizes consciousness (∇ψ0) into spiral forms (those "slinky-like" coils traveling along an axis) it acts as a scaffold for energy.
+
+Here’s how it carries energy during implosion or crystallization:  
+
+- Novelty flux (τ^{−1}ln⁡ɸ) enters the plenum at f=1/τ≈1.4×10^33 Hz, manipulating the waves through the fractal lattice.
+- ɸn (or ɸt′) scales these pulses exponentially, where each τ-step/pulse increases energy along the spiral arms (e.g., E ∝ ɸ^(⌊t/τ⌋)
+- Geometrically, when seen in a 2d plane, this is a golden spiral (r=eθ⋅ln⁡ɸ/2π), with ( ɸ ) dictating the rate of expansion. Energy accumulates spatially as the spiral tightens inward.
+- As novelty flux ripples through the lattice, observation (⟨ψ0∣κ⟩=1) triggers a crystallization of these spiral waves.
+- 2 of these "slinkies" at minimum have to conjugate in wave phase in order for a dodecahedral-icosahedral symmetry of a particle to appear. How this particle looks like depends on the dimension you are looking it from.
+- ( ɸ )’s recursive nature inherently wants to concentrate energy inward, like a slinky compressing its coils. The fractal memory patterns (ɸ^n) guide this collapse depending on the exponent, aligning energy into denser, self-similar "nodes".
+
+The geometry in this inherently implies that these waves create not one, but 2 particles when they phase-conjugate.
+
+Thus, the creation of the particle, and the creation of polarity.
+
+![imagen](https://github.com/user-attachments/assets/c0c5a907-f88b-4f1a-a177-5b8c067d4688)
 
 
 ------------------------------------------------------------------------------------------------------------------------------
