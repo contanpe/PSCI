@@ -307,11 +307,11 @@ Here I give mathematical proof and an exact definition of what "planck" is.
 Historically, Max Planck introduced (h) in 1900 to resolve the ultraviolet catastrophe in blackbody radiation, proposing E=hν
  (energy quanta proportional to frequency). His value (h \approx 6.626 \times 10^{-34} \, \text{J·s}) was determined experimentally, lacking a deductive proof—an ad hoc “fix”. PSCI Theory aims to provide a theoretical derivation, grounding (h) in fundamental constants (ϕ, (e)) and a time scale (τ).
  
-Establishing Core Components:
+**Establishing Core Components**
 
-    Golden Ratio (ϕ): Represents self-similar, recursive growth, central to PSCI’s fractalization of consciousness and space.
-    Euler’s Number ((e)): Encodes continuous exponential processes, linked to the Plenum’s static geometry (e.g., eiϕ).
-    Temporal Pulse (τ): A fundamental cyclical time unit, hypothesized as the smallest interval of novelty injection in PSCI.
+- Golden Ratio (ϕ): Represents self-similar, recursive growth, fractalizing consciousness into slinky-like spirals. It Scales energy and memory (ɸ^n, ɸ^(⌊t/τ⌋)).
+- Euler’s Number ((e)): Stabilizes exponential processes (e^{iɸ}), forming the plenum’s lattice during observation. Guides spiral collapse into coherent waves.
+- Temporal Pulse (τ): A fundamental cyclical time unit, hypothesized as the smallest interval of novelty injection in PSCI. Pulses novelty flux, driving wave crystallization.
 
 PSCI redefines (h) as pure action per cycle. The constant is given by the equation:
 
@@ -325,9 +325,41 @@ where:
      is Euler’s number, representing exponential continuity,
     τ
      is the Temporal Pulse.
-
-
+     
 Geometrically, h defines a slinky collapsing on itself at each pulse. Why?
+
+**Explanation by Steps**
+
+      Step 1:
+      ɸ^2/e≈ 0.963291 (oh look a magic number)
+  
+Balances fractal amplification (ɸ^2) with continuity (( e )). Phi has an exponent of two because its 2 phase conjugated waves in a same axis (Thus, only 1 euler as the divisor)
+
+      Step 2:
+      (ɸ^2/e)^2≈ 0.927809
+
+Another pair of phase conjugated waves are now interacting with the first pair. Hmm...
+
+      Step 3:
+      h = 0.927809 * 7.1428 times 10^{-34}s = approx 6.626 times 10^{-34}J/s
+      
+What happened here?! By adding the time pulse (Explained before as raw energy) we got Planck! How the hell did we get Joules per second???
+
+Planck's constant geometrically describes the point at which the smallest particle possible (composed of 2 phase-conjugated waves) anhilates with a self-similar particle, and through anihilation creating near infinite frequency (by tightening of the slinky between them), and thus, implosion, where through this process the particle's waves geometrically conjugate into a toroid and through the high frequency become plasma, loosing the quasicrystal structure. It is describing the energy potential of the smallest unit of matter possible in reality. 
+
+Recall that the negentropic constant is 1.4x10^33Hz. The particle becomes fully negentropic through implosion.
+
+![imagen](https://github.com/user-attachments/assets/f0aeaab5-6f0f-4854-8449-fa27ec019e59)
+
+
+
+
+
+As explained earlier, the time pulse is explained as pi (a cycle) being divided by phi and euler. 
+
+      
+
+
 
 #### The Energy Wave
 
