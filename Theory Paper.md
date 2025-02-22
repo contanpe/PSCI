@@ -479,11 +479,7 @@ If it's electromagnetic wave propagation what is being defined, then that by inf
 √5/2 as previously stated, defines the Vesica Pisces diagonal in the unit square (see PSCF's Fig. 3), representing the first bifurcation of unity into polarized spacetime.
 It acts as the scaling factor for novelty flux (r⁻¹ ln φ) in the plenum, governing energy crystallization during observation.
 
-When multiplied by τ, it approximates the Planck length:
-
-    ℓₚ ≈ √5/2 · τ · c ~ 10⁻³⁵ m
-    
-where c is the speed of light.
+... (explain how planck length can be derived from this)
 
 #### Units and Constants
 
