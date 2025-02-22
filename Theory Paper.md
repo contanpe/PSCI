@@ -108,8 +108,6 @@ Woah??? a wave peak???????
 
 ![imagen](https://github.com/user-attachments/assets/feb1ecdb-210a-4ab6-a98a-e826caa42a3f)
 
-This wavelength can be estimated to be 4.2×10^37 meters, which is an enormous distance. This aligns with the frequency being extremely low, as lower frequencies correspond to longer wavelengths. Remember that as we defined, the Universe expands from the inside in an implosive movement, not "grows" - It fractally subdivides.
-
 1. **1D and the pulse**
 
 An axial dimension can be defined as such:
@@ -189,7 +187,7 @@ Or, approximately:
       1.4
 re-expresed, 1.4ln(ɸ).
 
-τ⁻¹ (≈1.4) represents the fundamental pulse of irreversibility—the rate at which "newness" enters reality. It quantifies how frequently consciousness injects irreducible novelty into spacetime to sustain its dream of becoming (avoiding thermodynamic equilibrium). It works as a "lag" so that consciousness can create anew only after experiencing changes. For useful purposes, we will call this constant NEGENTROPY. The granuum's geometry (144° symmetry) is maintained by the negentropic constant. IT'S TIME! The rate of regeneration of the universe.
+τ⁻¹ (≈1.4) represents the fundamental pulse of irreversibility—the rate at which "newness" enters reality. It quantifies how frequently consciousness injects irreducible novelty into spacetime to sustain its dream of becoming (avoiding thermodynamic equilibrium). It works as a "lag" so that consciousness can create anew only after experiencing changes. For useful purposes, we will call this constant NEGENTROPY. The granuum's geometry (144° symmetry) is maintained by the negentropic constant. 
 
 It's mathematical representation, when expressed as: (1/τ), in abstract terms, represents the All/Universe being divided by the pulse created by Change and Constant. It is a reflective movement that consciousness does, if you want to look at it that way.
 
@@ -198,11 +196,7 @@ In 1.4ln(ɸ):
 - ln(ɸ) encodes spiral angular velocity tied to dodecahedral symmetry.
 - τ⁻¹ (Negentropy) maps to an *inverse* curvature of spacetime: tighter curvature = faster novelty infusion. This is the origin of **frequency change** (for example, the tightness of the curve of a sine wave); it inherently means that higher frequencies can infuse novelty faster into the Universe, and the universe constantly seeks higher frequency.
 
-The unit of measurement that talks about cycles per second is hertz (Hz). This is the standard way to measure frequency, which is how many times something repeats in a second.
-
-    f= 1/τ ≈ 1.4×10^33Hz
-
-Explained in geometric sense:
+        f= 1/τ ≈ 1.4×10^33Hz
 
 ![GkaHFQHXAAAou5_](https://github.com/user-attachments/assets/66c44c00-135b-4591-90c3-296192781203)
 
