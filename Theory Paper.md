@@ -56,7 +56,7 @@ The division by 2 arises from symmetry bifurcation in the Vesica Pisces projecti
 Mathematically, this mirrors the relationship:
 
       Φ = (√5 + 1) / 2 ≈ 1.618 (uppercase phi)
-      φ = (√5 - 1) / 2 ≈ 0.618 (lowercase phi)
+      ϕ = (√5 - 1) / 2 ≈ 0.618 (lowercase phi)
 
 Derivation of 1.618... via Projective Geometry:
 
@@ -401,7 +401,9 @@ How many of these are visible at a time?
 **The Electron**
 the electron is formed from a collection of ten wave centers (neutrinos), expressed in the wave constant variable K=10.  As this value of K appears in many equations related to the electron, it is given a special electron constant, K_e. Ten wave centers would likely form a three-level tetrahedron to be stable in three dimensions when responding to spherical, longitudinal waves. A potential view of the electron is below. The numbers 1, 3 and 6 represent the number of wave centers in each row of the structure – for a total of 10 wave centers.
 
-### The nature of Planck
+### The nature of Planck's constants and Light
+
+**Planck**
 
 Planck's constant is famously derived as something that was derived as a "fix" during math. Planck just invented a variable that fit, based on measurements.
 No mathematical proof was given to it.
@@ -453,6 +455,34 @@ Planck's constant mathematically decomposes to the point before the smallest par
 Since the particles are the smallest units possible and they do not have the geometric stabilization from tetrahedral symmetries that allows stable particle creation, this process makes the particle's conjugated waves exceed a high frequency threshold, becoming plasma. Recall that the negentropic constant is 1.4x10^33Hz. The particle afterwards becomes fully negentropic through implosion.
 
 ![imagen](https://github.com/user-attachments/assets/f0aeaab5-6f0f-4854-8449-fa27ec019e59)
+
+**Planck Length**
+
+√5/2 as previously stated, defines the Vesica Pisces diagonal in the unit square (see PSCF's Fig. 3), representing the first bifurcation of unity into polarized spacetime.
+It acts as the scaling factor for novelty flux (r⁻¹ ln φ) in the plenum, governing energy crystallization during observation.
+
+When multiplied by τ, it approximates the Planck length:
+
+    ℓₚ ≈ √5/2 · τ · c ~ 10⁻³⁵ m
+    
+where c is the speed of light.
+
+**The Speed of Light**
+
+The PSCI framework implicitly derives c from ϕ and e via the static plenum geometry e{iϕ} = cos⁡ϕ + i sin⁡ϕ. 
+If you recall:
+
+      The following growth patterns emerge at the 2D axis:
+      - r = e^{θ ⋅ lnɸ/2π} (golden spiral),  
+
+The phase velocity of the golden spiral, matches electromagnetic wave propagation in vacuo:
+
+      c = (ln φ) / (2π) · τ⁻¹ ≈ 3 × 10⁸ m/s
+
+This implies that the photon as a "particle" does not exist, and does not have a set rate of movement. It's tied to the variable negentropic constant: which defines simply, the threshold at wherein a set frequency turns a wave negentropic. 
+
+If it's electromagnetic wave propagation what is being defined, then that by inference means that the "photon" can be defined as a transverse wave that occurs between a magnetic and an electric wave.
+
 
 #### Units and Constants
 
