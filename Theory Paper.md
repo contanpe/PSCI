@@ -74,11 +74,11 @@ This quite literally means the universe birthed itself.
 **Tau, the Temporal Axis**
 
       τ = π/(φ⋅e) * 10^-33 ≈ 
-           0.71427878389862829588853609640544102341381948962308108871419486421767317979976846952774651023866493296943077122570686370956734037742869677422396632855356840899164750506565717370665230986293679733033255.... (irrational number) * 10^-33 s
+           0.71427878389862829588853609640544102341381948962308108871419486421767317979976846952774651023866493296943077122570686370956734037742869677422396632855356840899164750506565717370665230986293679733033255.... (irrational number) * 10^33 Hz
 
 Can be visualized as:
 
-      71428 * 10^-34 s
+      71428 * 10^34 Hz, or 71428 * 10^-34 s
       
 This is essentially the rate at which the Universe "regenerates". This is EXTREMELY fast.
 
@@ -452,7 +452,7 @@ Another pair of this amplification,
       
 What happened here?! By adding the time pulse (Explained before as raw energy) we got Planck! How the hell did we get Joules per second???
 
-(explain what planck's constant geometrically describes)
+Planck's constant was formulated as part of Max Planck's successful effort to produce a mathematical expression that accurately predicted the observed spectral distribution of thermal radiation from a closed furnace (black-body radiation).[7] This mathematical expression is now known as Planck's law. 
 
 ![imagen](https://github.com/user-attachments/assets/f0aeaab5-6f0f-4854-8449-fa27ec019e59)
 
