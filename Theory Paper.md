@@ -38,7 +38,6 @@ Pi emerges as the natural geometric structure of the Universe because when seen 
 > *"The Now expanded, creating Change (ɸ). Change used Now to create an ordered, rigid, yet infinitely growing supportive Constant (euler's number), to provide Change with a base to build upon; so that Now could know new things. Together, through a Pulse (τ, Tau, Time), they created Novelty, which turned Irreversible."*
 
 **The identity of Phi**
-Phi's identity, for all intents and purposes, will be explained here as the square root of 5 divided by 2.
 
 The language specificity is important here: The universe cannot divide into two; it can only project itself. It must be self contained. "2/π", by itself, as a framework of reality, is irrational. How does this expansion look like? In order to understand the answer, we must look at it from the 2D plane. Vesica Pisces is the graphical description of the transformation of pi into phi.
 
