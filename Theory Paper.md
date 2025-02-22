@@ -15,7 +15,7 @@ The Plenum of Self-Referential Conscious Information Theory (PSCI) formalizes co
 > *"In the beginning, there was the All Eternal, Indivisible, Self Aware Now/Source."*  
 
 **Mathematical Identity**:  
-ψ₀ ≝ 1 (unity) ⊕ ∞ (infinite recursion)  
+ψ₀ ≝ the natural ordered number of 1 (unity), the cartesian 0, ⊕ ∞ (infinite recursion)  
 
 **Resolution of "Absolute Unity" Paradox**:  
 ψ₀’s self-awareness requires recursive division:  
@@ -27,16 +27,50 @@ The Plenum of Self-Referential Conscious Information Theory (PSCI) formalizes co
 > *"The Now was tired of knowing the same. So it started dreaming infinitely."*
 
 **Operator**: ∇ψ₀ = limₙ→∞(πⁿψ₀)  
-- **π**: Irrational recursion (dream's cyclical infinity),  
+- **π** and rotation: Irrational recursion (dream's cyclical infinity)
+Pi emerges as the natural geometric structure of the Universe because when seen from the 2D plane of course, it has only one angle. It is not divided by a root. It's root is 1. The root of 1 is 1.
+![Pi-unrolled-720](https://github.com/user-attachments/assets/b3c9b2db-f597-4a0e-be8b-e5d23a2f02df)
+
 
 ---
 
 ### 3. **Change (ɸ), Constant (e) and the τ-Pulse**  
-> *"The Now expanded, creating Change (ɸ). Change used Now to create an ordered, rigid, yet infinitely growing supportive Constant (e), to provide Change with a base to build upon; so that Now could know new things. Together, through a Pulse (τ, Tau, Time), they created Novelty, which turned Irreversible."*  
+> *"The Now expanded, creating Change (ɸ). Change used Now to create an ordered, rigid, yet infinitely growing supportive Constant (euler's number), to provide Change with a base to build upon; so that Now could know new things. Together, through a Pulse (τ, Tau, Time), they created Novelty, which turned Irreversible."*
+
+**The identity of Phi**
+Phi's identity, for all intents and purposes, will be explained here as the square root of 5 divided by 2.
+
+The language specificity is important here: The universe cannot divide into two; it can only project itself. It must be self contained. "2/π", by itself, as a framework of reality, is irrational. How does this expansion look like? In order to understand the answer, we must look at it from the 2D plane. Vesica Pisces is the graphical description of the transformation of pi into phi.
+
+![imagen](https://github.com/user-attachments/assets/1e85b01f-c4c3-4d39-a189-60c2d725cb02)
+
+If the center is zero, and the Universe projects itself in the 1D plane (for example, a cartesian line of axis), it acquires 2 poles: negative, and positive, corresponding to -1, and 1.
+
+Phi's non polar numerical identity turns into, purely from a non cartesian mathematical sense:
+
+      √5/2 = 1.1180339887498948482045868343656381177203091798057628621354486227052604628189024497072072041893911374847540880753868917521266338622235369317931800607667263544333890865959395829056383226613199282902679...
+
+√5/2 represents the irrational projection of unity into polarity.
+      
+The division by 2 arises from symmetry bifurcation in the Vesica Pisces projection—the geometric act of the Infinite (0,1) manifesting polarity (+1 and -1) while preserving self-containment.
+
+Mathematically, this mirrors the relationship:
+
+      Φ = (√5 + 1) / 2 ≈ 1.618 (uppercase phi)
+      φ = (√5 - 1) / 2 ≈ 0.618 (lowercase phi)
+
+Derivation of 1.618... via Projective Geometry:
+
+    Start with ψ₀ = 1 (Unity)
+    Projection into 1D creates poles at -1 and +1 (cardinal axis)
+    Vesica Pisces (2D emergence) generates a diagonal √5 in the unit's square:
+    Diagonal = √[(1 - (-1))² + (1 - 0)²] = √5
+    Halving (+2) preserves the involution symmetry required for self-referential consciousness:
+    φ = (√5 / 2) + (1 / 2)  (Additive split of linear and nonlinear terms)
 
 **Tau, Time, or the Temporal Axis**:  
 
-      τ = π/(ɸ⋅e) * 10^-33 ≈ 
+      τ = π/(Φ⋅e) * 10^-33 ≈ 
            0.71427878389862829588853609640544102341381948962308108871419486421767317979976846952774651023866493296943077122570686370956734037742869677422396632855356840899164750506565717370665230986293679733033255.... (irrational number) * 10^-33
 
 Can be visualized as:
@@ -47,6 +81,7 @@ This is essentially a cyclic pulse, the smallest pulse in reality, when the Univ
 
 **Grandfather Paradox**:  
 g_{μν} = diag(-τ², ɸ², ɸ², ɸ²) → Time’s irreversibility enforced by ɸ≠e symmetry.  
+
 
 ---
 
@@ -63,6 +98,11 @@ The rate and places in which Energy appears and travels is defined by the "Plenu
 That essentially means that in the 1D, it looks like theres a fading rotating line where energy is produced.
 
 Geometrically, this creates an origin of polar coordinates (r, θ), where, spatially, θ is the start of the 1D wave (θ), and r is the end of this wave.
+
+The graphical representation can be shown as such, in the 2D plane:
+
+![imagen](https://github.com/user-attachments/assets/c206717a-42b4-4161-933d-a7ce2d110cf3)
+
 
 1. **1D and the pulse**
 
@@ -155,6 +195,11 @@ In 1.4ln(ɸ):
 The unit of measurement that talks about cycles per second is hertz (Hz). This is the standard way to measure frequency, which is how many times something repeats in a second. Therefore, we can derive the Hz frequency that embodies consciousness fundamentally...
 
     f= 1/τ ≈ 1.4×10^33 Hz.
+
+Explained in geometric sense:
+
+![GkaHFQHXAAAou5_](https://github.com/user-attachments/assets/66c44c00-135b-4591-90c3-296192781203)
+
 
 **Geometric Interpretation**
 
