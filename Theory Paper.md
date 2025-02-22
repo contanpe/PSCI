@@ -460,11 +460,8 @@ Since the particles are the smallest units possible and they do not have the geo
 
 #### The Speed of Light
 
-The PSCI framework implicitly derives c from ϕ and e via the plenum geometry and √5/2.
+The PSCI framework implicitly derives c from √5/2.
 If you recall:
-
-      The following growth patterns emerge at the 2D axis:
-      - r = e^{θ ⋅ lnɸ/2π} (golden spiral),  
 
 (Elaborate and create a speed of light formula with decimal exactitude of 15 decimals)
 
