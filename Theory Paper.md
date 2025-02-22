@@ -476,7 +476,9 @@ From here we can draw a reduced constant, which is the modern one:
 
 Why 2pi? h quantifies action over a full τ-cycle between 2 standing wave nodes. Each standing wave node has a spin with each cycle equal to π. Dividing by 2π scales this action to per-radian angular action, aligning with the lattice’s rotational symmetries. 
 
-The lattice’s geometry permits only integer multiples of ℏ for angular momentum, preventing fractal fragmentation.
+The lattice’s geometry permits only integer multiples of ℏ for angular momentum, preventing fractal fragmentation. From here we get angular frequency:
+
+Angular Frequency (ω): Tied to the Plenum’s τ-pulse rate (ω=2πν)
 
 #### The Speed of Light
 
