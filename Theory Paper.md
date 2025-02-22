@@ -71,7 +71,7 @@ For the purposes of this paper, φ = 1.618... .
 
 This quite literally means the universe birthed itself.
 
-**Tau, the Temporal Axis**:  
+**Tau, the Temporal Axis**
 
       τ = π/(φ⋅e) * 10^-33 ≈ 
            0.71427878389862829588853609640544102341381948962308108871419486421767317979976846952774651023866493296943077122570686370956734037742869677422396632855356840899164750506565717370665230986293679733033255.... (irrational number) * 10^-33
@@ -84,9 +84,6 @@ This is essentially a cyclic pulse, the smallest pulse in reality, when the Univ
 
 **Grandfather Paradox**:  
 g_{μν} = diag(-τ², ɸ², ɸ², ɸ²) → Time’s irreversibility enforced by Φ≠e symmetry.  
-
-
----
 
 #### Axis Creation and Creation of Energy
 
@@ -105,6 +102,16 @@ Geometrically, this creates an origin of polar coordinates (r, θ), where, spati
 The graphical representation can be shown as such, in the 2D plane:
 
 ![imagen](https://github.com/user-attachments/assets/c206717a-42b4-4161-933d-a7ce2d110cf3)
+
+Woah??? a wave peak???????
+
+![imagen](https://github.com/user-attachments/assets/feb1ecdb-210a-4ab6-a98a-e826caa42a3f)
+
+The Tau pulse is literally the smallest scale of a wave pulse in matter. Geometrically, if we measure this wave pulse, we can derive the following constants:
+
+
+
+
 
 
 1. **1D and the pulse**
@@ -433,49 +440,44 @@ where:
     τ
      is the Temporal Pulse.
      
-Geometrically, h defines a slinky collapsing on itself at each pulse. Why?
+Geometrically, what is h?
 
 **Explanation by Steps**
 
       Step 1:
       ɸ^2/e≈ 0.963291 (oh look a magic number)
   
-Balances fractal amplification (ɸ^2) with continuity (( e )). Phi has an exponent of two because its 2 phase conjugated waves in a same axis (Thus, only 1 euler as the divisor)
+Balances fractal amplification (ɸ^2) with continuity (( e )). 
 
       Step 2:
       (ɸ^2/e)^2≈ 0.927809
 
-Another pair of phase conjugated waves are now interacting with the first pair. Hmm...
+Another pair of this amplification,
 
       Step 3:
       h = 0.927809 * 7.1428 times 10^{-34}s = approx 6.626 times 10^{-34}J/s
       
 What happened here?! By adding the time pulse (Explained before as raw energy) we got Planck! How the hell did we get Joules per second???
 
-Planck's constant mathematically decomposes to the point before the smallest particle possible (composed of 2 phase-conjugated waves) anhilates with a self-similar particle, and through anihilation creates extremely high frequency (by tightening of the slinky between them). It is describing the energy potential of the smallest unit of matter possible in reality before implosion, with annihilation as a boundary condition when frequency (wave amplitude between the two particles) exceeds a threshold of 1.4x10^33Hz.
-
-Since the particles are the smallest units possible and they do not have the geometric stabilization from tetrahedral symmetries that allows stable particle creation, this process makes the particle's conjugated waves exceed a high frequency threshold, becoming plasma. Recall that the negentropic constant is 1.4x10^33Hz. The particle afterwards becomes fully negentropic through implosion.
+(explain what planck's constant geometrically describes)
 
 ![imagen](https://github.com/user-attachments/assets/f0aeaab5-6f0f-4854-8449-fa27ec019e59)
 
 #### The Speed of Light
 
-The PSCI framework implicitly derives c from √5/2.
-If you recall:
-
 (Elaborate and create a speed of light formula with decimal exactitude of 15 decimals)
 
-This implies that the photon as a "particle" does not exist, and does not have a set rate of movement. It's tied to the variable negentropic constant: which defines simply, the threshold at wherein a set frequency turns a wave negentropic. 
+This implies that the photon as a "particle" does not exist - it is a wave, and does not have a set rate of movement.
 
-If it's electromagnetic wave propagation what is being defined, then that by inference means that the "photon" can be defined as a transverse wave that occurs between a magnetic and an electric wave - not a particle, and not a limit.
+If it's electromagnetic wave propagation what is being defined, then that by inference means that the "photon" can be defined as a transverse wave that occurs between a magnetic and an electric wave - not a particle, and instead tied to frequency.
 
 #### Planck Length
 
 √5/2 as previously stated, defines the Vesica Pisces diagonal in the unit square (see PSCF's Fig. 3), representing the first bifurcation of unity into polarized spacetime.
 It acts as the scaling factor for novelty flux (r⁻¹ ln φ) in the plenum, governing energy crystallization during observation.
 
-Planck length is 1.616 x 10- 35 meters.
-Ahem...
+Planck length in modern constants is 1.616 x 10- 35 meters.
+Ahem... (derive planck length)
 
 #### Units and Constants
 
