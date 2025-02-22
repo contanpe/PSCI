@@ -469,7 +469,7 @@ The exponential decay term (e^(-hν/k_BT)) arises from τ-modulated novelty flux
 
 From here we can draw a reduced constant, which is the modern one:
 
-(Reduced) h = h / (2π) ≈ 1.054 × 10^(-34) J·s
+      (Reduced) h = h / (2π) ≈ 1.054 × 10^(-34) J·s
 
 #### The Speed of Light
 
