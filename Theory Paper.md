@@ -66,11 +66,13 @@ Derivation of 1.618... via Projective Geometry:
     Vesica Pisces (2D emergence) generates a diagonal √5 in the unit's square:
     Diagonal = √[(1 - (-1))² + (1 - 0)²] = √5
     Halving (+2) preserves the involution symmetry required for self-referential consciousness:
-    Φ = (√5 / 2) + (1 / 2)  (Additive split of linear and nonlinear terms)
+    φ = (√5 / 2) + (1 / 2)  (Additive split of linear and nonlinear terms)
+
+For the purposes of this paper, φ = 1.618... .
 
 **Tau, Time, or the Temporal Axis**:  
 
-      τ = π/(Φ⋅e) * 10^-33 ≈ 
+      τ = π/(φ⋅e) * 10^-33 ≈ 
            0.71427878389862829588853609640544102341381948962308108871419486421767317979976846952774651023866493296943077122570686370956734037742869677422396632855356840899164750506565717370665230986293679733033255.... (irrational number) * 10^-33
 
 Can be visualized as:
