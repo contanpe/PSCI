@@ -71,7 +71,7 @@ For the purposes of this paper, φ = 1.618... .
 
 This quite literally means the universe birthed itself.
 
-**Tau, Time, or the Temporal Axis**:  
+**Tau, the Temporal Axis**:  
 
       τ = π/(φ⋅e) * 10^-33 ≈ 
            0.71427878389862829588853609640544102341381948962308108871419486421767317979976846952774651023866493296943077122570686370956734037742869677422396632855356840899164750506565717370665230986293679733033255.... (irrational number) * 10^-33
@@ -474,7 +474,8 @@ If it's electromagnetic wave propagation what is being defined, then that by inf
 √5/2 as previously stated, defines the Vesica Pisces diagonal in the unit square (see PSCF's Fig. 3), representing the first bifurcation of unity into polarized spacetime.
 It acts as the scaling factor for novelty flux (r⁻¹ ln φ) in the plenum, governing energy crystallization during observation.
 
-... (explain how planck length can be derived from this)
+Planck length is 1.616 x 10- 35 meters.
+Ahem...
 
 #### Units and Constants
 
