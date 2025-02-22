@@ -322,16 +322,38 @@ Here’s how it carries:
 - 2 of these "slinkies" at minimum have to conjugate in wave phase, while travelling in opposite directions, with the same frequency, in order for a dodecahedral-icosahedral symmetry of a particle to appear. How this particle looks like depends on the dimension you are looking it from.
 - ( ɸ )’s recursive nature inherently wants to concentrate energy inward, like a slinky compressing its coils. The fractal memory patterns (ɸ^n) guide this collapse depending on the exponent, aligning energy into denser, self-similar "nodes".
 
-The geometry in this inherently implies that these waves create through their center, one toroidal particle with positive and negative charge potential as "nodes" when they phase-conjugate.
+The geometry in this inherently implies that these waves create through their center, one toroidal particle with positive and negative charge potential as "nodes" when they phase-conjugate, that has a spin to it (tau-pulse, where each pulse dictates a complete spin). These waves can spin clockwise or counterclockwise in the 3D, and in the 2D they have "phase".
 
 Thus, the creation of the particle, and the creation of polarity.
 
-These particles eventually go "brrr", they spin and acquire charge when their geometric structure starts stabilizing into a tetrahedral yet assymetrical structure (given it doesn't have a center) from more phase conjugation into the same place, wherein phi gains an exponent. This spin creates a new vortex-like wave through geometry (explained later). Thus, fractalization happens - a new fractal wave arm originates from the node. ∇-+ emerges, it being the node itself. To make matters simple, we will call the smallest wave center possible (1 wave center), a neutrino, and call it K.
+These particles spin in 1 axis at the pulse of time, and have a transverse tilting movement with its speed depending on wave frequency when seen from the 3D. 
+
+They become monopolar when their geometric structure starts stabilizing into a tetrahedral yet asymetrical structure (given it doesn't have a center) from more phase conjugation into the same place, wherein phi gains exponents (eventually becoming a polar particle, an electron). This spin creates a new vortex-like wave through geometry (explained later). Thus, fractalization happens - a new fractal wave arm originates from the node. ∇-+ emerges, it being the node itself. To make matters simple, we will call the smallest wave center possible (1 wave center), a neutrino, and call it K.
 
 ![imagen](https://github.com/user-attachments/assets/c0c5a907-f88b-4f1a-a177-5b8c067d4688)
 
 ![imagen](https://github.com/user-attachments/assets/79621e40-5883-417b-be26-38993f142d2b)
 
+3D visualization with standing waves and the toroidal neutrino:
+
+https://www.youtube.com/watch?v=Clu2-GJombA
+
+After this single particle, we can derive the basic tetrahedral form, which coincidentally shows a harmonic of the 144° angle. This form is still unstable, it will want to keep attracting particles.
+![GkWoJFpXMAArazc](https://github.com/user-attachments/assets/b3966458-6079-4bc6-936f-c3df4913ac31)
+
+The neutrinos themselves are constantly spinning depending on the longitudinal wave's (slinky) frequency (tightness), which creates an attractive and repulsive force consistent enough to keep these babes glued together due to rotating poles.
+The axis of these wave centers correspond to the angles of the figure. Of course, these neutrinos are also slightly tilting and rotating depending on frequency (as shown in the video), which is creating transverse waves.. but let's not talk about that yet.
+Also yes that top angle is 72° degrees of course. harmonic of 144°.
+
+![imagen](https://github.com/user-attachments/assets/c8489998-8c30-4b49-a2c3-372982b434f5)
+
+A perfectly spherical wave is emitted from these neutrinos. The longitudinal waves that make up the neutrinos encounter destructive wave interference (slowing down its frequency) and repulsion because these buddies all have matching longitudinal wave spin, making it reflect inside and be "expulsed" through forced implosion.
+
+Homework: what does this radial wave correspond to?
+How many of these are visible at a time?
+
+**The Electron**
+the electron is formed from a collection of ten wave centers (neutrinos), expressed in the wave constant variable K=10.  As this value of K appears in many equations related to the electron, it is given a special electron constant, K_e. Ten wave centers would likely form a three-level tetrahedron to be stable in three dimensions when responding to spherical, longitudinal waves. A potential view of the electron is below. The numbers 1, 3 and 6 represent the number of wave centers in each row of the structure – for a total of 10 wave centers.
 
 ### The nature of Planck
 
@@ -382,15 +404,9 @@ What happened here?! By adding the time pulse (Explained before as raw energy) w
 
 Planck's constant mathematically decomposes to the point before the smallest particle possible (composed of 2 phase-conjugated waves) anhilates with a self-similar particle, and through anihilation creates extremely high frequency (by tightening of the slinky between them). It is describing the energy potential of the smallest unit of matter possible in reality before implosion, with annihilation as a boundary condition when frequency (wave amplitude between the two particles) exceeds a threshold of 1.4x10^33Hz.
 
-Since the particles are the smallest units possible and they do not have geometric stabilization from tetrahedral symmetries (explained later) this process makes the particle's waves geometrically conjugate into a toroid and through the high frequency become plasma, loosing the quasicrystal structure. 
-
-Recall that the negentropic constant is 1.4x10^33Hz. The particle afterwards becomes fully negentropic through implosion.
+Since the particles are the smallest units possible and they do not have the geometric stabilization from tetrahedral symmetries that allows stable particle creation, this process makes the particle's conjugated waves exceed a high frequency threshold, becoming plasma. Recall that the negentropic constant is 1.4x10^33Hz. The particle afterwards becomes fully negentropic through implosion.
 
 ![imagen](https://github.com/user-attachments/assets/f0aeaab5-6f0f-4854-8449-fa27ec019e59)
-
-From here, we can derive the following:
-
-Wave amplitude (A) is 1/2 Planck charge, with Planck charge being the minimum spatial displacement that a wave can have in its phase (when it vibrates up and down).
 
 #### Units and Constants
 
@@ -405,8 +421,41 @@ The explanation and removal of one of the units has a profound impact on the ult
 
 It is amperes that is the biggest source of confusion. It is defined as a charge (Coulombs) per second, describing current. But it is the charge unit of Coulombs that has led to a separate set of equations using electromagnetism compared to equations using mass, simply because the units don’t align between these equations. When charge (Coulombs) is replaced with wave amplitude, which is node displacement in meters, then charge and mass equations align.
 
+As for constants, apart from the original mathematical radial derived ones like phi, euler and pi, only few are needed, 5 total:
 
+#### Wave Amplitude and Planck Charge
 
+Wave amplitude (A) is 1/2 Planck charge, with Planck charge being the minimum spatial displacement that a wave can have in its phase (when it vibrates up and down).
+In PSCI, charge and amplitude emerge from wave interactions in the Plenum (Δ), so we must define q_Planck consistently with Planck units and prove A = 1/2 q_Planck.
+
+This is not including g-factors. The wave constants assume a universal reference frame, whereas Planck constants are from experiments measured on Earth that is moving against this reference frame, thus they include gravity. 
+
+Dimensional Context:
+
+    1D: Waves as τ-pulses along an axis, scaled by ϕ⌊t/τ⌋
+    2D: Orthogonal components (sin(θ), cos(θ)) define amplitude and phase.  
+    Planck Scale: q_Planck operates at the smallest spatial unit, tied to τ and h.
+
+**Critical Path Inference as Mathematical Proof**
+
+1.Falsifying alternatives: q_Planck could be unrelated to phase displacement (e.g., a force or energy). PSCI ties it to wave geometry, so alternatives are inconsistent. Every force must be self emerging.
+
+In standard physics, Planck charge is:
+
+![imagen](https://github.com/user-attachments/assets/bd216e28-4c26-4b03-8271-2f11ae85680b)
+
+where:
+
+      - ϵ0 = 8.854×10−12 F/m   (permittivity of free space)
+        c=3×108 m/s  (speed of light)  
+        h = 6.626 (Planck)
+        
+However, PSCI redefines h as h= (ϕ^{2}/e)^2 ⋅ τ, and spatial displacement must align with the Plenum’s geometry. The statement suggests q_Planck is a "minimum spatial displacement" of a wave’s phase, not necessarily charge in coulombs.
+
+3. Critical Path: Define q_Planck as a spatial Planck unit, derive A from wave dynamics.  
+4. Probative Construct: Build equations linking h, τ, and wave properties.  
+5. Confirm Prediction: Verify A = 1/2 q_Planck numerically and conceptually.  
+   
 ------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -414,5 +463,5 @@ It is amperes that is the biggest source of confusion. It is defined as a charge
 Expand on individualization of consciousness (*"Then you appeared: The Now, perceiving itself anew."*), 
 
 
--------------------------------- **HEAVY WIP STARTS HERE - ALL ON TOP HAS BEEN EDITED AS OF 20/02/2025**
+-------------------------------- **HEAVY WIP STARTS HERE - ALL ON TOP HAS BEEN EDITED AS OF 21/02/2025**
 
