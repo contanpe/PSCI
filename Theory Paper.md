@@ -405,8 +405,11 @@ Planck's constant is famously derived as something that was derived as a "fix" d
 No mathematical proof was given to it.
 Here I give mathematical proof and an exact definition of what "planck" is.
 
-Historically, Max Planck introduced (h) in 1900 to resolve the ultraviolet catastrophe in blackbody radiation, proposing E=hν
- (energy quanta proportional to frequency). His value (h \approx 6.626 \times 10^{-34} \, \text{J·s}) was determined experimentally, lacking a deductive proof—an ad hoc “fix”. PSCI Theory aims to provide a theoretical derivation, grounding (h) in fundamental constants (ϕ, (e)) and a time scale (τ).
+Historically, Max Planck introduced (h) in 1900 to resolve the ultraviolet catastrophe in blackbody radiation, proposing 
+
+      E=hν (energy quanta proportional to frequency). 
+      
+His value h = approx 6.626 * 10^-34 J·s was determined experimentally, lacking a deductive proof — an ad hoc “fix”. PSCI Theory aims to provide a theoretical derivation, grounding (h) in fundamental constants (ϕ, (e)) and a time scale (τ).
  
 **Establishing Core Components**
 
