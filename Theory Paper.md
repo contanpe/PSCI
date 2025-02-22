@@ -107,13 +107,6 @@ Woah??? a wave peak???????
 
 ![imagen](https://github.com/user-attachments/assets/feb1ecdb-210a-4ab6-a98a-e826caa42a3f)
 
-The Tau pulse is literally the smallest scale of a wave pulse in matter. Geometrically, if we measure this wave pulse, we can derive the following constants:
-
-
-
-
-
-
 1. **1D and the pulse**
 
 An axial dimension can be defined as such:
