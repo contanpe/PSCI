@@ -472,7 +472,11 @@ The exponential decay term (e^(-hν/kτ)) arises from τ-modulated novelty flux,
 
 From here we can draw a reduced constant, which is the modern one:
 
-      (Reduced) h = h / (2π) ≈ 1.054 × 10^(-34) J·s
+      (Reduced) ℏ = h / (2π) ≈ 1.054 × 10^(-34) J·s
+
+Why 2pi? h quantifies action over a full τ-cycle between 2 standing wave nodes. Each standing wave node has a spin with each cycle equal to π. Dividing by 2π scales this action to per-radian angular action, aligning with the lattice’s rotational symmetries. 
+
+The lattice’s geometry permits only integer multiples of ℏ for angular momentum, preventing fractal fragmentation.
 
 #### The Speed of Light
 
