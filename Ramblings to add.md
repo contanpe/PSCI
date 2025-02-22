@@ -1,4 +1,20 @@
-The aether doesn't have granums.. It has standing waves.
+The aether doesn't have granums.. It has standing waves. the granums aere the particles
+
+
+AAAA
+
+Okay
+so
+phi * euler = 4.398272389447946395971987029292885, 
+And phi * euler make 1 wave in the planck constant. WHAT?
+Also they represent the time pulse. so...
+
+((√5 + 1) /2) × e = 4.398272389447946395971987029292885, of course this divided by pi gives the mythical 1.4000135...
+
+1.118
+
+
+for wave amplitude: 
 
 On time:
 
