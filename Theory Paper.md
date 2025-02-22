@@ -463,10 +463,10 @@ Standing Wave Requirements: Energy modes in blackbody cavities are constrained b
 τ-Pulse Cutoff: High-frequency particles (ν > τ⁻¹) exceed the Plenum's novelty-injection rate, causing destructive interference in the particle itself and causing implosion. 
 This limits energy density per particle: 
 
-      u(ν) ∝ ᵥ³ / (e^(hν/kT) - 1)
+      u(ν) ∝ ᵥ³ / (e^(hν/kτ) - 1)
 
 This means that if two standing wave nodes collide, since they do not have self-stable geometry, they simply implode and destroy eachother, liberating energy. A particle to achieve some degree of stability requires a minimal neutrino amount of 3.
-The exponential decay term (e^(-hν/k_BT)) arises from τ-modulated novelty flux, preventing divergence. Lower-frequency modes align more often with ϕ^n fractal memory patterns, amplifying their survival probability (Planck distribution’s peak).
+The exponential decay term (e^(-hν/kτ)) arises from τ-modulated novelty flux, preventing divergence. Lower-frequency modes align more often with ϕ^n fractal memory patterns, amplifying their survival probability (Planck distribution’s peak).
 
 ![imagen](https://github.com/user-attachments/assets/f0aeaab5-6f0f-4854-8449-fa27ec019e59)
 
