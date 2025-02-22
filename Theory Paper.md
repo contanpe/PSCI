@@ -399,7 +399,7 @@ the electron is formed from a collection of ten wave centers (neutrinos), expres
 
 ### The nature of Planck's constants and Light
 
-#### Planck
+#### Planck and an alternative solution to the blackbody radiation problem
 
 Planck's constant is famously derived as something that was derived as a "fix" during math. Planck just invented a variable that fit, based on measurements.
 No mathematical proof was given to it.
@@ -414,7 +414,7 @@ Historically, Max Planck introduced (h) in 1900 to resolve the ultraviolet catas
 - Euler’s Number ((e)): Stabilizes exponential processes (e^{iɸ}), forming the plenum’s lattice during observation. Guides spiral collapse into coherent waves.
 - Temporal Pulse (τ): A fundamental cyclical time unit, hypothesized as the smallest interval of novelty injection in PSCI. Pulses novelty flux, driving wave crystallization.
 
-PSCI redefines (h) as pure action per cycle. The constant is given by the equation:
+PSCI redefines Planck's constant as pure action per cycle. The constant is given by the equation:
 
       h = (ɸ² / e)² * τ
 
@@ -444,11 +444,32 @@ Another pair of this amplification,
       Step 3:
       h = 0.927809 * 7.1428 times 10^{-34}s = approx 6.626 times 10^{-34}J/s
       
-What happened here?! By adding the time pulse (Explained before as raw energy) we got Planck! How the hell did we get Joules per second???
+What happened here?! By adding the time pulse (Explained before as raw energy per second, or frequency) we got Planck! How the hell did we get Joules per second???
 
-Planck's constant was formulated as part of Max Planck's successful effort to produce a mathematical expression that accurately predicted the observed spectral distribution of thermal radiation from a closed furnace (black-body radiation).[7] This mathematical expression is now known as Planck's law. 
+Planck's constant was formulated as part of Max Planck's successful effort to produce a mathematical expression that accurately predicted the observed spectral distribution of thermal radiation from a closed furnace (black-body radiation).[7] This mathematical expression is now known as Planck's law. Pre-Planck physics assumed energy exchange between matter and radiation was continuous, leading to the ultraviolet catastrophe (infinite energy at high frequencies).
+
+#### PSCI Resolution:
+
+The Plenum’s fractal-eulerian geometry (ϕ, e) and τ-pulse impose discrete action thresholds:
+
+Standing Wave Requirements: Energy modes in blackbody cavities are constrained by the Plenum’s icosahedral-dodecahedral lattice geometrical requirement (static term e{iϕ}). Only standing waves matching the lattice’s 144° symmetry survive.
+
+      E_n = n * h * ν = n * (e^2 / ε_0) * τ * ν
+      where n is an integer (discrete fractal recursion level, novelty).
+
+τ-Pulse Cutoff: High-frequency particles (ν > τ⁻¹) exceed the Plenum's novelty-injection rate, causing destructive interference in the particle itself and causing implosion. 
+This limits energy density per particle: 
+
+      u(ν) ∝ ᵥ³ / (e^(hν/kT) - 1)
+
+This means that if two standing wave nodes collide, since they do not have self-stable geometry, they simply implode and destroy eachother, liberating energy. A particle to achieve some degree of stability requires a minimal neutrino amount of 3.
+The exponential decay term (e^(-hν/k_BT)) arises from τ-modulated novelty flux, preventing divergence. Lower-frequency modes align more often with ϕ^n fractal memory patterns, amplifying their survival probability (Planck distribution’s peak).
 
 ![imagen](https://github.com/user-attachments/assets/f0aeaab5-6f0f-4854-8449-fa27ec019e59)
+
+From here we can draw a reduced constant, which is the modern one:
+
+(Reduced) h = h / (2π) ≈ 1.054 × 10^(-34) J·s
 
 #### The Speed of Light
 
