@@ -405,7 +405,7 @@ the electron is formed from a collection of ten wave centers (neutrinos), expres
 
 ### The nature of Planck's constants and Light
 
-**Planck**
+#### Planck
 
 Planck's constant is famously derived as something that was derived as a "fix" during math. Planck just invented a variable that fit, based on measurements.
 No mathematical proof was given to it.
@@ -458,18 +458,7 @@ Since the particles are the smallest units possible and they do not have the geo
 
 ![imagen](https://github.com/user-attachments/assets/f0aeaab5-6f0f-4854-8449-fa27ec019e59)
 
-**Planck Length**
-
-√5/2 as previously stated, defines the Vesica Pisces diagonal in the unit square (see PSCF's Fig. 3), representing the first bifurcation of unity into polarized spacetime.
-It acts as the scaling factor for novelty flux (r⁻¹ ln φ) in the plenum, governing energy crystallization during observation.
-
-When multiplied by τ, it approximates the Planck length:
-
-    ℓₚ ≈ √5/2 · τ · c ~ 10⁻³⁵ m
-    
-where c is the speed of light.
-
-**The Speed of Light**
+#### The Speed of Light
 
 The PSCI framework implicitly derives c from ϕ and e via the static plenum geometry e{iϕ} = cos⁡ϕ + i sin⁡ϕ. 
 If you recall:
@@ -483,8 +472,18 @@ The phase velocity of the golden spiral, matches electromagnetic wave propagatio
 
 This implies that the photon as a "particle" does not exist, and does not have a set rate of movement. It's tied to the variable negentropic constant: which defines simply, the threshold at wherein a set frequency turns a wave negentropic. 
 
-If it's electromagnetic wave propagation what is being defined, then that by inference means that the "photon" can be defined as a transverse wave that occurs between a magnetic and an electric wave.
+If it's electromagnetic wave propagation what is being defined, then that by inference means that the "photon" can be defined as a transverse wave that occurs between a magnetic and an electric wave - not a particle, and not a limit.
 
+#### Planck Length
+
+√5/2 as previously stated, defines the Vesica Pisces diagonal in the unit square (see PSCF's Fig. 3), representing the first bifurcation of unity into polarized spacetime.
+It acts as the scaling factor for novelty flux (r⁻¹ ln φ) in the plenum, governing energy crystallization during observation.
+
+When multiplied by τ, it approximates the Planck length:
+
+    ℓₚ ≈ √5/2 · τ · c ~ 10⁻³⁵ m
+    
+where c is the speed of light.
 
 #### Units and Constants
 
