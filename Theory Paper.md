@@ -74,13 +74,14 @@ This quite literally means the universe birthed itself.
 **Tau, the Temporal Axis**
 
       τ = π/(φ⋅e) * 10^-33 ≈ 
-           0.71427878389862829588853609640544102341381948962308108871419486421767317979976846952774651023866493296943077122570686370956734037742869677422396632855356840899164750506565717370665230986293679733033255.... (irrational number) * 10^-33
+           0.71427878389862829588853609640544102341381948962308108871419486421767317979976846952774651023866493296943077122570686370956734037742869677422396632855356840899164750506565717370665230986293679733033255.... (irrational number) * 10^-33 s
 
 Can be visualized as:
 
-      71428 * 10^-34 cycles per second.
+      71428 * 10^-34 s
       
-This is essentially a cyclic pulse, the smallest pulse in reality, when the Universe "regenerates". In slang, "The universe regenerates at a rate of 9259052quatridquintilliolion times per second."
+This is essentially the rate at which the Universe "regenerates". This is EXTREMELY fast.
+
 
 **Grandfather Paradox**:  
 g_{μν} = diag(-τ², ɸ², ɸ², ɸ²) → Time’s irreversibility enforced by Φ≠e symmetry.  
@@ -99,13 +100,15 @@ That essentially means that in the 1D, it looks like theres a fading rotating li
 
 Geometrically, this creates an origin of polar coordinates (r, θ), where, spatially, θ is the start of the 1D wave (θ), and r is the end of this wave.
 
-The graphical representation can be shown as such, in the 2D plane:
+The graphical representation of Tau can be shown as such, in the 2D plane:
 
 ![imagen](https://github.com/user-attachments/assets/c206717a-42b4-4161-933d-a7ce2d110cf3)
 
 Woah??? a wave peak???????
 
 ![imagen](https://github.com/user-attachments/assets/feb1ecdb-210a-4ab6-a98a-e826caa42a3f)
+
+This wavelength can be estimated to be 4.2×10^37 meters, which is an enormous distance. This aligns with the frequency being extremely low, as lower frequencies correspond to longer wavelengths. Remember that as we defined, the Universe expands from the inside in an implosive movement, not "grows" - It fractally subdivides.
 
 1. **1D and the pulse**
 
@@ -186,25 +189,22 @@ Or, approximately:
       1.4
 re-expresed, 1.4ln(ɸ).
 
-τ⁻¹ (≈1.4) represents the fundamental pulse of irreversibility—the rate at which "newness" enters reality. It quantifies how frequently consciousness injects irreducible novelty into spacetime to sustain its dream of becoming (avoiding thermodynamic equilibrium). It works as a "lag" so that consciousness can create anew only after experiencing changes. For useful purposes, we will call this constant NEGENTROPY. The granuum's geometry (144° symmetry) is maintained by the negentropic constant.
+τ⁻¹ (≈1.4) represents the fundamental pulse of irreversibility—the rate at which "newness" enters reality. It quantifies how frequently consciousness injects irreducible novelty into spacetime to sustain its dream of becoming (avoiding thermodynamic equilibrium). It works as a "lag" so that consciousness can create anew only after experiencing changes. For useful purposes, we will call this constant NEGENTROPY. The granuum's geometry (144° symmetry) is maintained by the negentropic constant. IT'S TIME! The rate of regeneration of the universe.
 
 It's mathematical representation, when expressed as: (1/τ), in abstract terms, represents the All/Universe being divided by the pulse created by Change and Constant. It is a reflective movement that consciousness does, if you want to look at it that way.
 
 In 1.4ln(ɸ):
 
 - ln(ɸ) encodes spiral angular velocity tied to dodecahedral symmetry.
-- τ⁻¹ (Negentropy) maps to an *inverse* curvature of spacetime’s fractal lattice: tighter curvature = faster novelty infusion. This is the origin of **frequency change** (for example, the tightness of the curve of a sine wave); it inherently means that higher frequencies can infuse novelty faster into the Universe.
+- τ⁻¹ (Negentropy) maps to an *inverse* curvature of spacetime: tighter curvature = faster novelty infusion. This is the origin of **frequency change** (for example, the tightness of the curve of a sine wave); it inherently means that higher frequencies can infuse novelty faster into the Universe, and the universe constantly seeks higher frequency.
 
-The unit of measurement that talks about cycles per second is hertz (Hz). This is the standard way to measure frequency, which is how many times something repeats in a second. Therefore, we can derive the Hz frequency that embodies consciousness fundamentally...
+The unit of measurement that talks about cycles per second is hertz (Hz). This is the standard way to measure frequency, which is how many times something repeats in a second.
 
-    f= 1/τ ≈ 1.4×10^33 Hz.
+    f= 1/τ ≈ 1.4×10^33Hz
 
 Explained in geometric sense:
 
 ![GkaHFQHXAAAou5_](https://github.com/user-attachments/assets/66c44c00-135b-4591-90c3-296192781203)
-
-
-**Geometric Interpretation**
 
 τ⁻¹ scales logarithmic growth in golden spiral fractals:
 ![imagen](https://github.com/user-attachments/assets/5d98aa04-3c87-4086-9d30-f75ae7c56a82)
