@@ -66,7 +66,7 @@ Derivation of 1.618... via Projective Geometry:
     Vesica Pisces (2D emergence) generates a diagonal √5 in the unit's square:
     Diagonal = √[(1 - (-1))² + (1 - 0)²] = √5
     Halving (+2) preserves the involution symmetry required for self-referential consciousness:
-    φ = (√5 / 2) + (1 / 2)  (Additive split of linear and nonlinear terms)
+    Φ = (√5 / 2) + (1 / 2)  (Additive split of linear and nonlinear terms)
 
 **Tau, Time, or the Temporal Axis**:  
 
@@ -80,7 +80,7 @@ Can be visualized as:
 This is essentially a cyclic pulse, the smallest pulse in reality, when the Universe "regenerates". In slang, "The universe regenerates at a rate of 9259052quatridquintilliolion times per second."
 
 **Grandfather Paradox**:  
-g_{μν} = diag(-τ², ɸ², ɸ², ɸ²) → Time’s irreversibility enforced by ɸ≠e symmetry.  
+g_{μν} = diag(-τ², ɸ², ɸ², ɸ²) → Time’s irreversibility enforced by Φ≠e symmetry.  
 
 
 ---
