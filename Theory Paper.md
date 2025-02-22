@@ -69,6 +69,8 @@ Derivation of 1.618... via Projective Geometry:
 
 For the purposes of this paper, φ = 1.618... .
 
+This quite literally means the universe birthed itself.
+
 **Tau, Time, or the Temporal Axis**:  
 
       τ = π/(φ⋅e) * 10^-33 ≈ 
