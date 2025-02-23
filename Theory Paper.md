@@ -443,10 +443,15 @@ Then we calculate the wavelength of this negentropic contribution. Recall that t
 
       2π/(τ−1 lnφ) ≈ 0.00000000000000000000000000000000000932634180032... or
       9.32634180032 × 10^−35 m
+      
+then we scale that by phi.. (φ^n, the memory retention term)
+
+      9.32634180032 × 10^−35 m * 1.6180339887 = 0.00000000000000000000000000000000015090338023
+      1.50903380232... × 10⁻³⁴
 
 2 axis of lengths. We have our "existing" minimum energy wave!
 
-![imagen](https://github.com/user-attachments/assets/67330f86-ceb6-4059-b1ca-3ee07ca488f8)
+![imagen](https://github.com/user-attachments/assets/67330f86-ceb6-4059-b1ca-3ee07ca488f8) (TO CHANGE)
 
 
 The geometry in this inherently implies that these waves create through their center, one toroidal particle with positive and negative charge potential as "antinodes" when they phase-conjugate, that has a spin to it (tau-pulse, where each pulse dictates a complete spin). These waves can spin clockwise or counterclockwise in the 3D, and in the 2D they have "phase".
