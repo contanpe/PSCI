@@ -121,12 +121,16 @@ Now we remove the seconds.
 
 From here, using geometry, we can derive the characteristics of the slinky: 
 
+![imagen](https://github.com/user-attachments/assets/06b2968e-6e68-4b28-b41e-f5ff4e6e8acf)
+
 We now postulate the minimal wavelength:
 
       (71428 * 10^-34 m) * 4 = 0.000000000000000000000000000028571151.. or,
       λl = 2.8571151..×10^−28 meters.
       
 ![imagen](https://github.com/user-attachments/assets/23576898-b4e0-4f8c-a1e4-ab3da500e948)
+
+And the minimal amplitude: 
 
 
 
