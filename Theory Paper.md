@@ -117,8 +117,6 @@ Now we remove the seconds.
 
       71428 * 10^-34 m/s / 1s = 71428 * 10^-34 m
 
-![32b700f0d2e09ed8c6578ed0f3e4769e](https://github.com/user-attachments/assets/1143ccdb-affc-4936-a329-6e5b4878eb67)
-
 From here, using geometry, we can derive the characteristics of the slinky: 
 
 ![imagen](https://github.com/user-attachments/assets/06b2968e-6e68-4b28-b41e-f5ff4e6e8acf)
