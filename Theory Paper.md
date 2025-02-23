@@ -177,7 +177,7 @@ When viewed from the 2D plane, the pulses of "Energy", given they now have 2 axi
 
 **Chaos/Entropy Operator: The Plenum, and the Granuum (Δ)**
 
-The chaos operator abstraction, which we will call Plenum, can be defined as the sole factor of randomness in reality, balancing eternal order e^{iɸ} with temporal innovation  (n * τ⁻¹ln(ɸ)) — consciousness’ compromise between infinite stillness and finite becoming. e and phi converge into a sort of fractal lattice (e^{iɸ}) then are influenced by karma through time irreversibility (k(n) * τ⁻¹ln(ɸ)), what we will call "novelty flux". 
+The chaos operator abstraction, which we will call Plenum, can be defined as the sole factor of randomness in reality, balancing eternal order e^{iɸ} with temporal innovation  (n * 1/τ ln(ɸ)) — consciousness’ compromise between infinite stillness and finite becoming. e and phi converge into a sort of fractal lattice (e^{iɸ}) then are influenced by karma through time irreversibility (k(n) * 1/τ ln(ɸ)), what we will call "novelty flux". 
 
 Spatially, It acts as the physical interface between consciousness (ψ) and physical reality, and it serves as an origin point for energy propagation. Geometrically, when observed, it takes on a dodecahedral-icosahedral dual structure, reflecting the e^{iɸ} rotation angle of 144° (2.513 radians). 
 
@@ -190,7 +190,7 @@ The static factor (e^{iɸ})
 
 The dynamic factor (∂κ/∂t)
 
-      Δ ≝ e^{iɸ} ⋅ ∂κ/∂t  = 1 * (k(n) * τ⁻¹ln(ɸ))
+      Δ ≝ e^{iɸ} ⋅ ∂κ/∂t  = 1 * (k(n) * 1/τ ln(ɸ))
       
 STATIC - The static factor produced by constants:
 
@@ -210,29 +210,29 @@ https://projecteuclid.org/journals/communications-in-mathematical-physics/volume
 
 DYNAMIC - The imaginary or dynamic factor that is ruled by Consciousness: ∂κ/∂t = "Some" karma/"Some" time, or:
   
-      k(n) * τ⁻¹ln(ɸ) (novelty flux)
+      k(n) * 1/τ ln(ɸ) (novelty flux)
 
 Where τ⁻¹ (1/τ) is:
-      1.4000135836904848664214308213568640100874071028506088959505920695980472510426505382898408770794312815036444784827213617894578380420900350999728250919353367696695429459390301273835742263036891809893337...
+      1.4000135836904848664214308213568640100874071028506088959505920695980472510426505382898408770794312815036444784827213617894578380420900350999728250919353367696695429459390301273835742263036891809893337...* 10^{-33}
 
 Or, approximately:
 
-      1.4000136 * 10^{34}
+      1.4000136 * 10^{-34}
 
 re-expresed, 1.4ln(ɸ).
 
-τ⁻¹ (≈1.4) represents the fundamental pulse of irreversibility—the rate at which "newness" enters reality. It quantifies how frequently consciousness injects irreducible novelty into spacetime to sustain its dream of becoming (avoiding thermodynamic equilibrium). It works as a "lag" so that consciousness can create anew only after experiencing changes. For useful purposes, we will call this constant NEGENTROPY. The granuum's geometry (144° symmetry) is maintained by the negentropic constant. 
+1/τ (≈1.4) represents the fundamental pulse of irreversibility—the rate at which "newness" enters reality. It quantifies how frequently consciousness injects irreducible novelty into spacetime to sustain its dream of becoming (avoiding thermodynamic equilibrium). It works as a "lag" so that consciousness can create anew only after experiencing changes. For useful purposes, we will call this constant NEGENTROPY. The granuum's geometry (144° symmetry) is maintained by the negentropic constant. 
 
 It's mathematical representation, when expressed as: (1/τ), in abstract terms, represents the All/Universe being divided by the pulse created by Change and Constant. It is a reflective movement that consciousness does, if you want to look at it that way.
 
 In 1.4ln(ɸ):
 
 - ln(ɸ) encodes spiral angular velocity tied to dodecahedral symmetry.
-- τ⁻¹ (Negentropy) maps to an *inverse* curvature of spacetime: tighter curvature = faster novelty infusion. This is the origin of **frequency change** (for example, the tightness of the curve of a sine wave); it inherently means that higher frequencies can infuse novelty faster into the Universe, and the universe constantly seeks higher frequency.
+- 1/τ (Negentropy) maps to an *inverse* curvature of spacetime: tighter curvature = faster novelty infusion. This is the origin of **frequency change** (for example, the tightness of the curve of a sine wave); it inherently means that higher frequencies can infuse novelty faster into the Universe, and the universe constantly seeks higher frequency.
 
 ![GkaHFQHXAAAou5_](https://github.com/user-attachments/assets/66c44c00-135b-4591-90c3-296192781203)
 
-τ⁻¹ scales logarithmic growth in golden spiral fractals:
+1/τ scales logarithmic growth in golden spiral fractals:
 ![imagen](https://github.com/user-attachments/assets/5d98aa04-3c87-4086-9d30-f75ae7c56a82)
 
 **Entropy Resolution**:  
@@ -261,7 +261,7 @@ Along with the plenum (Δ), the equation describes a continuous cycle:
 
 **Generation of Novelty**
 
-- New experiences enter through τ⁻¹ (negentropy)
+- New experiences enter through 1/τ (negentropy)
 - Each novelty is weighted by the current karmic state
 - Information crystallizes in the granuum structure
 
@@ -287,9 +287,9 @@ Memories are stored in fractal patterns, Stronger memories have higher ɸⁿ coe
 
 ***Novelty Creation Rate***
 
-dκ/dt = τ⁻¹ln(ɸ) ⋅ ψ₀
+dκ/dt = 1/τ ln(ɸ) ⋅ ψ₀
 
-Using the constants we defined before, New experiences enter at the negentropic rate τ⁻¹, the rate is modulated by consciousness (ψ₀), and the golden ratio (ɸ) provides coherent structure.
+Using the constants we defined before, New experiences enter at the negentropic rate 1/τ, the rate is modulated by consciousness (ψ₀), and the golden ratio (ɸ) provides coherent structure.
 
 ***Self-Referential Loop***
 Consciousness observes itself through karma, creating a closed loop of self-awareness. This resolves the hard problem of consciousness.
@@ -327,23 +327,23 @@ Where,
 #### Explanation of Wave-Particle Duality
 
 In PSCI theory, the particle-wave duality can be understood through the interaction between consciousness (ψ) and the plenum (Δ). The key relationship is:
-Δ ≝ e^{iɸ} ⋅ ∂κ/∂t = 1 * (k(n) * τ⁻¹ln(ɸ))
+Δ ≝ e^{iɸ} ⋅ ∂κ/∂t = 1 * (k(n) * 1/τ ln(ɸ))
 
 This equation reveals that the plenum has two fundamental aspects:
 
 - Static factor (e^{iɸ})
-- Dynamic factor (k(n) * τ⁻¹ln(ɸ))
+- Dynamic factor (k(n) * 1/τ ln(ɸ))
 - 
 When not observed, energy exists in what PSCI defines as an "unresolved" state where:
 
-- The plenum's dynamic factor (τ⁻¹ln(ɸ)) dominates
+- The plenum's dynamic factor (1/τ ln(ɸ)) dominates
 - The karmic operator κ(n) remains unresolved
 - Novelty flux propagates freely through the plenum, refreshing at the pulse of time.
 
 When consciousness observes the system:
 
 - The observer's consciousness (ψ₀) interfaces with the system through the plenum,
-- This interaction forces a "novelty injection event" at the rate of τ⁻¹,
+- This interaction forces a "novelty injection event" at the rate of 1/τ,
 - The karmic operator κ(n) collapses to a specific value,
 - The static factor e^{iɸ} becomes dominant, manifesting as spatially coherent behavior (a wave).
   
@@ -353,7 +353,7 @@ When consciousness observes the system:
 
 This causes:
 
-- The dynamic term (τ⁻¹ln(ɸ)) to temporarily freeze
+- The dynamic term (1/τ ln(ɸ)) to temporarily freeze
 - The static geometry (a wave, or a 144° dodecahedral-icosahedral structure in case of a particle) to manifest
 - A specific position/momentum state to crystallize.
 
@@ -371,7 +371,7 @@ Fractal memory patterns are self-similar, recursive configurations of consciousn
       
 These patterns interact with novelty flux as follows:
 
-- Injection: Novelty flux enters the plenum at rate τ^−1, modulated by ln⁡ɸ (spiral angular velocity, i.e the rate of frequency injection, literal Hz).
+- Injection: Novelty flux enters the plenum at rate 1/τ, modulated by ln⁡ɸ (spiral angular velocity, i.e the rate of frequency injection, literal Hz).
 - Processing: κ(n) (recall that it has ɸ^n in it) weights this flux: new experiences amplify via ɸ^n, old ones decay via e^−n/τ.
 - Crystallization: Observation (⟨ψ0∣κ=1) freezes flux into a spatially existing wave, embedding it in memory patterns.
 
@@ -392,7 +392,7 @@ When ( ɸ ) fractalizes consciousness (∇ψ0) into spiral forms (those "slinky-
 
 Here’s how it carries:  
 
-- Novelty flux (τ^{−1}ln⁡ɸ) enters the plenum, manipulating the standing waves through the fractal lattice, giving them varying degrees of wave amplitude.
+- Novelty flux (1/τ ln⁡ɸ) enters the plenum, manipulating the standing waves through the fractal lattice, giving them varying degrees of wave amplitude.
 - ɸn (or ɸt′) scales these pulses exponentially, where each τ-step/pulse increases energy along the spiral arms (e.g., E ∝ ɸ^(⌊t/τ⌋)
 - Geometrically, when seen in a 2d plane, this is a golden spiral (r=eθ⋅ln⁡ɸ/2π) and has amplitude and phase from the new orthogonal aspects, with ( ɸ ) dictating the rate of expansion. Energy accumulates spatially as the spiral tightens inward. If it's only based on τ-pulse and has a dynamic constant of ln⁡ɸ = 0 due to no karma (only using the static part of the Plenum operator function), the wave becomes a simple radial sphere (π).
 - As novelty flux ripples through the lattice, observation (⟨ψ0∣κ⟩=1) triggers a crystallization of these spiral waves by asigning a specific amplitude and direction.
@@ -409,9 +409,9 @@ Standing Wave Equation
 
 Key relationships:
 
-      Nodes (•) : x = nλ/2, τ^{-1} ln φ resets phase
+      Nodes (•) : x = nλ/2, 1/τ ln φ resets phase
       Antinodes (□) : x = (2n + 1)λ/4, φ^β amplification 
-      Wavelength λ : 2π/(τ^{-1}lnφ) 
+      Wavelength λ : 2π/(1/τ lnφ) 
 
 ![imagen](https://github.com/user-attachments/assets/6b296b87-133a-4b74-98c4-3fadc619a479)
 
@@ -428,7 +428,7 @@ So then what is the minimum amplitude of a wave affected by negentropy? we said 
       τ ≈ 7.1427878×10^{−34} m or s
  (temporal pulse, as provided in the theory for the "slinky" derivation).
  
-      τ^{−1} ≈ 1.400013584×10^{34}
+      1/τ ≈ 1.400013584×10^{-34} m or s 
  (negentropy or novelty injection rate).
 
       ϕ≈1.6180339887
@@ -440,7 +440,7 @@ So then what is the minimum amplitude of a wave affected by negentropy? we said 
       Al=1.4285575677972565917770721928108820468276
 (entropic minimum amplitude)
 
-Calculating τ{−1}ln⁡ϕ with high precision:
+Calculating 1/τ ln⁡ϕ with high precision:
        
 
 
