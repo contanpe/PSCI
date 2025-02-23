@@ -74,11 +74,11 @@ This quite literally means the universe birthed itself.
 **Tau, the Temporal Axis**
 
       τ = π/(φ⋅e) * 10^-33 ≈ 
-           0.71427878389862829588853609640544102341381948962308108871419486421767317979976846952774651023866493296943077122570686370956734037742869677422396632855356840899164750506565717370665230986293679733033255.... (irrational number) * 10^-33 
+           0.71427878389862830105313858884996215912911202055654203705873053427733426641608834337079193392710261171868177299485923372742634516801307875697025098637709190530540425786401100007158816281142997637162857.... (irrational number) * 10^-33 
 
 Can be visualized as:
-
-      7.1428 * 10^-34
+     
+                         7.1427878389862830105313858884996215912911202055654203705873053427733426641608834337079193392710261171868177299485923372742634516801307875697025098637709190530540425786401100007158816281142997637162857 * 10^-34
       
 This is essentially the rate at which the Universe "regenerates". This is EXTREMELY fast. 
 
@@ -126,15 +126,15 @@ We now postulate the minimal wavelength:
 
       (7.1427878 * 10^-34 m) * 4 = 
       
-      λl = 2.8571151355945131835541443856217640936552779584923243548567794568706927191990738781109860409546597318777230849028274548382693615097147870968958653142142736359665900202626286948266092394517471893213302 × 10^-32 meters,
+      λl = 2.8571151355945132042125543553998486365164480822261681482349221371093370656643533734831677357084104468747270919794369349097053806720523150278810039455083676212216170314560440002863526512457199054865143 × 10^-33 meters,
 
-And the minimal amplitude: 
+And the minimal "amplitude" per pulse: 
 
-      Al =  1.4285575677972565917770721928108820468276389792461621774283897284353463595995369390554930204773298659388615424514137274191346807548573935484479326571071368179832950101313143474133046197258735946606651 × 10^-32 m (tentative)
+      Al =  1.4285575677972565917770721928108820468276389792461621774283897284353463595995369390554930204773298659388615424514137274191346807548573935484479326571071368179832950101313143474133046197258735946606651 × 10^-33 m (tentative)
 
 ![imagen](https://github.com/user-attachments/assets/b9ae4617-656e-47ef-b0ab-c74a9e3fde8c)
 
-This slinky is inherently entropic. Alone it cannot create a particle.
+This slinky is inherently entropic. Alone it cannot create a particle - Under no forces, by having a positive and a negative antinode it will want to collapse onto itself and disappear.
 
 
 1. **1D and the pulse**
@@ -405,7 +405,11 @@ Here’s how it carries:
 
 Standing Wave Equation
 
-![imagen](https://github.com/user-attachments/assets/0c0b286c-95ca-4abc-9a49-d2b0ab1a6fca)
+      ψ(x, t) = A sin(kx)e^{iφt} + 1/τ ln φ ⋅ δ(t - nτ)
+
+Where,
+- A sin(kx)e^{iφt} = Static structure
+- 1/τ ln φ ⋅ δ(t - nτ) = Negentropic injection.
 
 Key relationships:
 
@@ -421,7 +425,7 @@ If negentropy preserves the wave:
 
 ![imagen](https://github.com/user-attachments/assets/5e5b0a21-b309-4266-a8fe-c77170072a39)
 
-So then what is the minimum amplitude of a wave affected by negentropy? we said that Negentropy (τ^−1) prevents the wave from collapsing by injecting novelty and maintaining coherence in the plenum. This suggests that the wave amplitude is sustained or modulated by the interplay of τ^{−1}ln⁡ϕ. To find the minimum wave amplitude of a negentropy-affected longitudinal wave, we need to combine the standing wave properties, the role of negentropy, and the geometric constraints provided. A standing wave has nodes (points of zero displacement) and antinodes (points of maximum displacement). The amplitude at an antinode represents the maximum displacement. Finding the minimum amplitude under the influence of negentropy:
+So then what is the minimum amplitude of a wave affected by negentropy? we said that Negentropy (1/τ) prevents the wave from collapsing by injecting novelty and maintaining coherence in the plenum. This suggests that the wave amplitude is sustained or modulated by the interplay of 1/τ ln⁡ϕ. To find the minimum wave amplitude of a negentropy-affected longitudinal wave, we need to combine the standing wave properties, the role of negentropy, and the geometric constraints provided. A standing wave has nodes (points of zero displacement) and antinodes (points of maximum displacement). The amplitude at an antinode represents the maximum displacement. Finding the minimum amplitude under the influence of negentropy:
 
 **Constants**
 
@@ -431,17 +435,14 @@ So then what is the minimum amplitude of a wave affected by negentropy? we said 
       1/τ ≈ 1.400013584×10^{-34} m or s 
  (negentropy or novelty injection rate).
 
-      ϕ≈1.6180339887
+      φ≈1.6180339887
  (golden ratio).
 
-      ln⁡ϕ≈ln⁡(1.6180339887)≈0.4812118251
+      ln⁡φ≈ln⁡(1.6180339887)≈0.4812118251
  (natural logarithm).
 
-      Al=1.4285575677972565917770721928108820468276
-(entropic minimum amplitude)
-
-Calculating 1/τ ln⁡ϕ with high precision:
-       
+      Al=1.4285575678 × 10^-33 m
+(entropic minimum amplitude)     
 
 
 
