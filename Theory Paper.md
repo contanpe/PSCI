@@ -127,12 +127,12 @@ We now postulate the minimal wavelength:
 
       (7.1427878 * 10^-34 m) * 4 = 0.000000000000000000000000000028571151.. or,
       λl = 2.85711512 × 10^-32 meters.
-      
-![imagen](https://github.com/user-attachments/assets/23576898-b4e0-4f8c-a1e4-ab3da500e948)
 
 And the minimal amplitude: 
 
       Al =  1.42855756 × 10^-32
+
+![imagen](https://github.com/user-attachments/assets/b9ae4617-656e-47ef-b0ab-c74a9e3fde8c)
 
 
 1. **1D and the pulse**
