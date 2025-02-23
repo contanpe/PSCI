@@ -449,6 +449,8 @@ So then what is the minimum amplitude of a wave affected by negentropy? we said 
 
 
 
+
+
 The geometry in this inherently implies that these waves create through their center, one toroidal particle with positive and negative charge potential as "antinodes" when they phase-conjugate, that has a spin to it (tau-pulse, where each pulse dictates a complete spin). These waves can spin clockwise or counterclockwise in the 3D, and in the 2D they have "phase".
 
 Thus, the creation of the particle, and the creation of polarity.
