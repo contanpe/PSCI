@@ -74,13 +74,13 @@ This quite literally means the universe birthed itself.
 **Tau, the Temporal Axis**
 
       τ = π/(φ⋅e) * 10^-33 ≈ 
-           0.71427878389862829588853609640544102341381948962308108871419486421767317979976846952774651023866493296943077122570686370956734037742869677422396632855356840899164750506565717370665230986293679733033255.... (irrational number) * 10^33 s
+           0.71427878389862829588853609640544102341381948962308108871419486421767317979976846952774651023866493296943077122570686370956734037742869677422396632855356840899164750506565717370665230986293679733033255.... (irrational number) * 10^-33 
 
 Can be visualized as:
 
       71428 * 10^-34 s
       
-This is essentially the rate at which the Universe "regenerates". This is EXTREMELY fast.
+This is essentially the rate at which the Universe "regenerates". This is EXTREMELY fast. 
 
 
 **Grandfather Paradox**:  
@@ -107,6 +107,36 @@ The graphical representation of Tau can be shown as such, in the 2D plane:
 Woah??? a wave peak???????
 
 ![imagen](https://github.com/user-attachments/assets/feb1ecdb-210a-4ab6-a98a-e826caa42a3f)
+
+I will now show you an extremely easy way to conceive wave amplitude for the primordial slinky from the pulse:
+We have 1 meter. We multiply this meter by 71428 * 10^-34 s to get the wave speed =
+
+      1m * (71428 * 10^-34 s) = 71428 * 10^-34 m/s
+      
+Now we remove the seconds.
+
+      71428 * 10^-34 m/s / 1s = 71428 * 10^-34 m
+      
+We now postulate the minimal wavelength:
+
+(71428 * 10^-34 m) * 4 = 0.0000000000000000000000000000285712, or 2.85712×10^−28 meters.
+
+![imagen](https://github.com/user-attachments/assets/ab82c831-1844-4b05-94f2-08c1159603ba)
+
+From here, using geometry, we can derive the amplitude of the slinky: 
+
+![imagen](https://github.com/user-attachments/assets/427530db-b562-45c5-ae6d-6795c6efe028)
+
+*Of course, 60° radial... we are using magic shapes*. The sides of that triangle have a value of:
+
+      Adjacent from 60° to 90°: 3.571393919493141×10^−34 m
+      Hypotenuse: 71428 * 10^-34 m
+      Opposite: 6.185835722404673×10^−34 m
+
+      
+
+
+
 
 1. **1D and the pulse**
 
