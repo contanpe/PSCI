@@ -125,17 +125,7 @@ We now postulate the minimal wavelength:
 
 From here, using geometry, we can derive the amplitude of the slinky: 
 
-![imagen](https://github.com/user-attachments/assets/427530db-b562-45c5-ae6d-6795c6efe028)
-
-*Of course, 60° radial... we are using magic shapes*. The sides of that triangle have a value of:
-
-      Adjacent from 60° to 90°: 3.571393919493141×10^−34 m
-      Hypotenuse: 71428 * 10^-34 m
-      Opposite: 6.185835722404673×10^−34 m
-
-      
-
-
+![32b700f0d2e09ed8c6578ed0f3e4769e](https://github.com/user-attachments/assets/1143ccdb-affc-4936-a329-6e5b4878eb67)
 
 
 1. **1D and the pulse**
