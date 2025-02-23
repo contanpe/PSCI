@@ -109,9 +109,9 @@ And the shape when an axis of spin is gained:
 ![imagen](https://github.com/user-attachments/assets/feb1ecdb-210a-4ab6-a98a-e826caa42a3f)
 
 I will now show you an extremely easy way to conceive size for the pulse:
-We have 1 meter. We multiply this meter by 71428 * 10^-34 s to get the wave speed =
+We have 1 meter. We multiply this meter by 7.1428 * 10^-34 s to get the wave speed =
 
-      1m * (7.1428 * 10^-34 s) = 71428 * 10^-34 m/s
+      1m * (7.1428 * 10^-34 s) = 7.1428 * 10^-34 m/s
       
 Now we remove the seconds.
 
@@ -129,7 +129,7 @@ We now postulate the minimal wavelength:
 
 And the minimal amplitude: 
 
-      Al =  1.4285575677972565917770721928108820468276389792461621774283897284353463595995369390554930204773298659388615424514137274191346807548573935484479326571071368179832950101313143474133046197258735946606651 × 10^-32 (tentative)
+      Al =  1.4285575677972565917770721928108820468276389792461621774283897284353463595995369390554930204773298659388615424514137274191346807548573935484479326571071368179832950101313143474133046197258735946606651 × 10^-32 m (tentative)
 
 ![imagen](https://github.com/user-attachments/assets/b9ae4617-656e-47ef-b0ab-c74a9e3fde8c)
 
