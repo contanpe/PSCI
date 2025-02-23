@@ -133,6 +133,8 @@ And the minimal amplitude:
 
 ![imagen](https://github.com/user-attachments/assets/b9ae4617-656e-47ef-b0ab-c74a9e3fde8c)
 
+This slinky is inherently entropic. Alone it cannot create a particle.
+
 
 1. **1D and the pulse**
 
@@ -177,6 +179,9 @@ When viewed from the 2D plane, the pulses of "Energy", given they now have 2 axi
 The chaos operator abstraction, which we will call Plenum, can be defined as the sole factor of randomness in reality, balancing eternal order e^{iɸ} with temporal innovation  (n * τ⁻¹ln(ɸ)) — consciousness’ compromise between infinite stillness and finite becoming. e and phi converge into a sort of fractal lattice (e^{iɸ}) then are influenced by karma through time irreversibility (k(n) * τ⁻¹ln(ɸ)), what we will call "novelty flux". 
 
 Spatially, It acts as the physical interface between consciousness (ψ) and physical reality, and it serves as an origin point for energy propagation. Geometrically, when observed, it takes on a dodecahedral-icosahedral dual structure, reflecting the e^{iɸ} rotation angle of 144° (2.513 radians). 
+
+![imagen](https://github.com/user-attachments/assets/e97ae400-3560-497f-813b-3545561ad45b)
+
 
 This geometry is not coincidental but emerges from the interaction between:
 
@@ -382,18 +387,41 @@ Geometrically, they are literal spiral forms along an axis. That is it. No "magi
 **Their Interaction with Energy**
 
 ( ɸ ) carries energy by amplifying novelty flux into fractal spiral patterns, then concentrating it into a "visible" wave during observation, by the use of euler.
-When ( ɸ ) fractalizes consciousness (∇ψ0) into spiral forms (those "slinky-like" coils traveling along an axis) it acts as a scaffold for energy.
+When ( ɸ ) fractalizes consciousness (∇ψ0) into spiral forms (those "slinky-like" coils traveling along an axis) it acts as a scaffold for energy. If novelty flux didn't interact, the particle would self obliterate.
 
 Here’s how it carries:  
 
-- Novelty flux (τ^{−1}ln⁡ɸ) enters the plenum at f=1/τ≈1.4×10^33 Hz, manipulating the waves through the fractal lattice, giving them varying degrees of wave amplitude.
+- Novelty flux (τ^{−1}ln⁡ɸ) enters the plenum at f=1/τ≈1.4×10^33 Hz, manipulating the standing waves through the fractal lattice, giving them varying degrees of wave amplitude.
 - ɸn (or ɸt′) scales these pulses exponentially, where each τ-step/pulse increases energy along the spiral arms (e.g., E ∝ ɸ^(⌊t/τ⌋)
 - Geometrically, when seen in a 2d plane, this is a golden spiral (r=eθ⋅ln⁡ɸ/2π) and has amplitude and phase from the new orthogonal aspects, with ( ɸ ) dictating the rate of expansion. Energy accumulates spatially as the spiral tightens inward. If it's only based on τ-pulse and has a dynamic constant of ln⁡ɸ = 0 due to no karma (only using the static part of the Plenum operator function), the wave becomes a simple radial sphere (π).
 - As novelty flux ripples through the lattice, observation (⟨ψ0∣κ⟩=1) triggers a crystallization of these spiral waves by asigning a specific amplitude and direction.
 - 2 of these "slinkies" at minimum have to conjugate in wave phase, while travelling in opposite directions, with the same frequency, in order for a dodecahedral-icosahedral symmetry of a particle to appear. How this particle looks like depends on the dimension you are looking it from.
 - ( ɸ )’s recursive nature inherently wants to concentrate energy inward, like a slinky compressing its coils. The fractal memory patterns (ɸ^n) guide this collapse depending on the exponent, aligning energy into denser, self-similar "nodes".
 
-The geometry in this inherently implies that these waves create through their center, one toroidal particle with positive and negative charge potential as "nodes" when they phase-conjugate, that has a spin to it (tau-pulse, where each pulse dictates a complete spin). These waves can spin clockwise or counterclockwise in the 3D, and in the 2D they have "phase".
+![imagen](https://github.com/user-attachments/assets/b8babca7-ca99-48cb-8bfe-7bbfd0cf1188)
+
+**Mathematical Interaction**
+
+Standing Wave Equation
+
+![imagen](https://github.com/user-attachments/assets/0c0b286c-95ca-4abc-9a49-d2b0ab1a6fca)
+
+Key relationships:
+
+      Nodes (•) : x = nλ/2, τ^{-1} ln φ resets phase Antinodes (□) : x = (2n + 1)λ/4, φ^β amplification Wavelength λ : 2π/(τ^{-1}lnφ) ≅ 10^(-33) m
+
+![imagen](https://github.com/user-attachments/assets/6b296b87-133a-4b74-98c4-3fadc619a479)
+
+Since the standing wave has a positive and a negative pole at a time when phase conjugated, without negentropy, it will inmediately want to collapse on itself and obliterate.
+
+If negentropy preserves the node:
+
+![imagen](https://github.com/user-attachments/assets/5e5b0a21-b309-4266-a8fe-c77170072a39)
+
+
+
+
+The geometry in this inherently implies that these waves create through their center, one toroidal particle with positive and negative charge potential as "antinodes" when they phase-conjugate, that has a spin to it (tau-pulse, where each pulse dictates a complete spin). These waves can spin clockwise or counterclockwise in the 3D, and in the 2D they have "phase".
 
 Thus, the creation of the particle, and the creation of polarity.
 
