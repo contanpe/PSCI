@@ -102,7 +102,7 @@ Geometrically, this creates an origin of polar coordinates (r, θ), where, spati
 
 The graphical representation of the length of tau can be shown as such, in the 1D plane:
 
-![imagen](https://github.com/user-attachments/assets/c206717a-42b4-4161-933d-a7ce2d110cf3)
+![imagen](https://github.com/user-attachments/assets/c2c35ef9-55fa-4017-b66b-02987a5ef18a)
 
 And the shape when an axis of spin is gained:
 
