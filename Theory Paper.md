@@ -130,7 +130,7 @@ We now postulate the minimal wavelength:
 
 ![imagen](https://github.com/user-attachments/assets/b9ae4617-656e-47ef-b0ab-c74a9e3fde8c)
 
-This slinky is inherently entropic. Alone it cannot create a particle - Under no forces, by having a positive and a negative antinode it will want to collapse onto itself and disappear. Graphically, it is a straight line. The negentropic constant is what gives it wave amplitude.
+This slinky is inherently entropic. Alone it cannot create a particle - Under no forces, by having a positive and a negative antinode it will want to collapse onto itself and disappear. Graphically, it is a straight line. The negentropic constant is what gives it stable wave amplitude.
 
 
 1. **1D and the pulse**
@@ -388,7 +388,7 @@ Here’s how it carries:
 
 - Novelty flux (τ⁻¹ ln⁡ɸ) enters the plenum, manipulating the standing waves through the fractal lattice, giving them varying degrees of wave amplitude.
 - ɸn (or ɸt′) scales these pulses exponentially, where each τ-step/pulse increases energy along the spiral arms (e.g., E ∝ ɸ^(⌊t/τ⌋)
-- Geometrically, when seen in a 2d plane, this is a golden spiral (r=eθ⋅ln⁡ɸ/2π) and has amplitude and phase from the new orthogonal aspects, with ( ɸ ) dictating the rate of expansion. Energy accumulates spatially as the spiral tightens inward. If it's only based on τ-pulse and has a dynamic constant of ln⁡ɸ = 0 due to no karma (only using the static part of the Plenum operator function), the wave becomes a simple radial sphere (π).
+- Geometrically, when seen in a 2d plane, this is a golden spiral (r=eθ⋅ln⁡ɸ/2π) and has amplitude and phase from the new orthogonal aspects, with ( ɸ ) dictating the rate of expansion. Energy accumulates spatially as the spiral tightens inward.
 - As novelty flux ripples through the lattice, observation (⟨ψ0∣κ⟩=1) triggers a crystallization of these spiral waves by asigning a specific amplitude and direction.
 - 2 of these "slinkies" at minimum have to conjugate in wave phase, while travelling in opposite directions, with the same frequency, in order for a dodecahedral-icosahedral symmetry of a particle to appear. How this particle looks like depends on the dimension you are looking it from.
 - ( ɸ )’s recursive nature inherently wants to concentrate energy inward, like a slinky compressing its coils. The fractal memory patterns (ɸ^n) guide this collapse depending on the exponent, aligning energy into denser, self-similar "nodes".
@@ -442,12 +442,11 @@ First, calculate the negentropic contribution:
 Then we calculate the wavelength of this negentropic contribution. Recall that the negentropic constant gives the wave a physical form.
 
       2π/(τ−1 lnφ) ≈ 0.00000000000000000000000000000000000932634180032... or
-      9.32634180032 × 10−35.
+      9.32634180032 × 10^−35 m
 
+2 axis of lengths. We have our "existing" minimum energy wave!
 
-
-
-
+![imagen](https://github.com/user-attachments/assets/67330f86-ceb6-4059-b1ca-3ee07ca488f8)
 
 
 The geometry in this inherently implies that these waves create through their center, one toroidal particle with positive and negative charge potential as "antinodes" when they phase-conjugate, that has a spin to it (tau-pulse, where each pulse dictates a complete spin). These waves can spin clockwise or counterclockwise in the 3D, and in the 2D they have "phase".
