@@ -127,7 +127,7 @@ We now postulate the minimal wavelength:
 
 And minimal amplitude:
 
-     (71428787 * 10^-34 m) * pi÷2 = 1.57079632 * 71428787 * 10^-34 m = 
+     (71428787 * 10^-34 m) * pi÷2 = 1.57079632 * (71428787 * 10^-34 m) = 
 
 
 
