@@ -78,7 +78,7 @@ This quite literally means the universe birthed itself.
 
 Can be visualized as:
 
-      71428 * 10^-34 s
+      7.1428 * 10^-34 s
       
 This is essentially the rate at which the Universe "regenerates". This is EXTREMELY fast. 
 
@@ -125,16 +125,14 @@ From here, using geometry, we can derive the characteristics of the slinky:
 
 We now postulate the minimal wavelength:
 
-      (71428 * 10^-34 m) * 4 = 0.000000000000000000000000000028571151.. or,
-      λl = 2.8571151..×10^−28 meters.
+      (7.1427878 * 10^-34 m) * 4 = 0.000000000000000000000000000028571151.. or,
+      λl = 2.85711512 × 10^-32 meters.
       
 ![imagen](https://github.com/user-attachments/assets/23576898-b4e0-4f8c-a1e4-ab3da500e948)
 
 And the minimal amplitude: 
 
-
-
-
+      Al =  1.42855756 × 10^-32
 
 
 1. **1D and the pulse**
