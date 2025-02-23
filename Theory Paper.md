@@ -78,7 +78,7 @@ This quite literally means the universe birthed itself.
 
 Can be visualized as:
 
-      7.1428 * 10^-34 s
+      7.1428 * 10^-34
       
 This is essentially the rate at which the Universe "regenerates". This is EXTREMELY fast. 
 
@@ -108,7 +108,8 @@ And the shape when an axis of spin is gained:
 
 ![imagen](https://github.com/user-attachments/assets/feb1ecdb-210a-4ab6-a98a-e826caa42a3f)
 
-I will now show you an extremely easy way to conceive size for the pulse:
+I will now show you an extremely easy way to conceive size for the pulse. The pulse comes from a perfectly radial form. Every time it regenerates it therefore makes a wave with equal proportions to this radial form (sphere, or circle)
+
 We have 1 meter. We multiply this meter by 7.1428 * 10^-34 s to get the wave speed =
 
       1m * (7.1428 * 10^-34 s) = 7.1428 * 10^-34 m/s
@@ -212,10 +213,12 @@ DYNAMIC - The imaginary or dynamic factor that is ruled by Consciousness: ∂κ/
       k(n) * τ⁻¹ln(ɸ) (novelty flux)
 
 Where τ⁻¹ (1/τ) is:
-1.4000135836904848664214308213568640100874071028506088959505920695980472510426505382898408770794312815036444784827213617894578380420900350999728250919353367696695429459390301273835742263036891809893337....
+      1.4000135836904848664214308213568640100874071028506088959505920695980472510426505382898408770794312815036444784827213617894578380420900350999728250919353367696695429459390301273835742263036891809893337...
+
 Or, approximately:
 
-      1.4
+      1.4000136 * 10^{34}
+
 re-expresed, 1.4ln(ɸ).
 
 τ⁻¹ (≈1.4) represents the fundamental pulse of irreversibility—the rate at which "newness" enters reality. It quantifies how frequently consciousness injects irreducible novelty into spacetime to sustain its dream of becoming (avoiding thermodynamic equilibrium). It works as a "lag" so that consciousness can create anew only after experiencing changes. For useful purposes, we will call this constant NEGENTROPY. The granuum's geometry (144° symmetry) is maintained by the negentropic constant. 
@@ -226,8 +229,6 @@ In 1.4ln(ɸ):
 
 - ln(ɸ) encodes spiral angular velocity tied to dodecahedral symmetry.
 - τ⁻¹ (Negentropy) maps to an *inverse* curvature of spacetime: tighter curvature = faster novelty infusion. This is the origin of **frequency change** (for example, the tightness of the curve of a sine wave); it inherently means that higher frequencies can infuse novelty faster into the Universe, and the universe constantly seeks higher frequency.
-
-        f= 1/τ ≈ 1.4×10^33Hz
 
 ![GkaHFQHXAAAou5_](https://github.com/user-attachments/assets/66c44c00-135b-4591-90c3-296192781203)
 
@@ -391,7 +392,7 @@ When ( ɸ ) fractalizes consciousness (∇ψ0) into spiral forms (those "slinky-
 
 Here’s how it carries:  
 
-- Novelty flux (τ^{−1}ln⁡ɸ) enters the plenum at f=1/τ≈1.4×10^33 Hz, manipulating the standing waves through the fractal lattice, giving them varying degrees of wave amplitude.
+- Novelty flux (τ^{−1}ln⁡ɸ) enters the plenum, manipulating the standing waves through the fractal lattice, giving them varying degrees of wave amplitude.
 - ɸn (or ɸt′) scales these pulses exponentially, where each τ-step/pulse increases energy along the spiral arms (e.g., E ∝ ɸ^(⌊t/τ⌋)
 - Geometrically, when seen in a 2d plane, this is a golden spiral (r=eθ⋅ln⁡ɸ/2π) and has amplitude and phase from the new orthogonal aspects, with ( ɸ ) dictating the rate of expansion. Energy accumulates spatially as the spiral tightens inward. If it's only based on τ-pulse and has a dynamic constant of ln⁡ɸ = 0 due to no karma (only using the static part of the Plenum operator function), the wave becomes a simple radial sphere (π).
 - As novelty flux ripples through the lattice, observation (⟨ψ0∣κ⟩=1) triggers a crystallization of these spiral waves by asigning a specific amplitude and direction.
@@ -408,7 +409,9 @@ Standing Wave Equation
 
 Key relationships:
 
-      Nodes (•) : x = nλ/2, τ^{-1} ln φ resets phase Antinodes (□) : x = (2n + 1)λ/4, φ^β amplification Wavelength λ : 2π/(τ^{-1}lnφ) ≅ 10^(-33) m
+      Nodes (•) : x = nλ/2, τ^{-1} ln φ resets phase
+      Antinodes (□) : x = (2n + 1)λ/4, φ^β amplification 
+      Wavelength λ : 2π/(τ^{-1}lnφ) 
 
 ![imagen](https://github.com/user-attachments/assets/6b296b87-133a-4b74-98c4-3fadc619a479)
 
@@ -417,6 +420,30 @@ Since the standing wave has a positive and a negative pole at a time when phase 
 If negentropy preserves the wave:
 
 ![imagen](https://github.com/user-attachments/assets/5e5b0a21-b309-4266-a8fe-c77170072a39)
+
+So then what is the minimum amplitude of a wave affected by negentropy? we said that Negentropy (τ^−1) prevents the wave from collapsing by injecting novelty and maintaining coherence in the plenum. This suggests that the wave amplitude is sustained or modulated by the interplay of τ^{−1}ln⁡ϕ. To find the minimum wave amplitude of a negentropy-affected longitudinal wave, we need to combine the standing wave properties, the role of negentropy, and the geometric constraints provided. A standing wave has nodes (points of zero displacement) and antinodes (points of maximum displacement). The amplitude at an antinode represents the maximum displacement. Finding the minimum amplitude under the influence of negentropy:
+
+**Constants**
+
+      τ ≈ 7.1427878×10^{−34} m or s
+ (temporal pulse, as provided in the theory for the "slinky" derivation).
+ 
+      τ^{−1} ≈ 1.400013584×10^{34}
+ (negentropy or novelty injection rate).
+
+      ϕ≈1.6180339887
+ (golden ratio).
+
+      ln⁡ϕ≈ln⁡(1.6180339887)≈0.4812118251
+ (natural logarithm).
+
+      Al=1.4285575677972565917770721928108820468276
+(entropic minimum amplitude)
+
+Calculating τ{−1}ln⁡ϕ with high precision:
+       
+
+
 
 
 
