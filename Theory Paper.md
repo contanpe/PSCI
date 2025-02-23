@@ -106,11 +106,9 @@ The graphical representation of the length of tau can be shown as such, in the 1
 
 And the shape when an axis of spin is gained:
 
-
-
 ![imagen](https://github.com/user-attachments/assets/feb1ecdb-210a-4ab6-a98a-e826caa42a3f)
 
-I will now show you an extremely easy way to conceive wave amplitude for the primordial slinky from the pulse:
+I will now show you an extremely easy way to conceive size for the pulse:
 We have 1 meter. We multiply this meter by 71428 * 10^-34 s to get the wave speed =
 
       1m * (71428 * 10^-34 s) = 71428 * 10^-34 m/s
@@ -118,18 +116,16 @@ We have 1 meter. We multiply this meter by 71428 * 10^-34 s to get the wave spee
 Now we remove the seconds.
 
       71428 * 10^-34 m/s / 1s = 71428 * 10^-34 m
-      
+
+![imagen](https://github.com/user-attachments/assets/ab82c831-1844-4b05-94f2-08c1159603ba)
+
+From here, using geometry, we can derive the characteristics of the slinky: 
+
 We now postulate the minimal wavelength:
 
 (71428 * 10^-34 m) * 4 = 0.0000000000000000000000000000285712, or 2.85712×10^−28 meters.
 
-![imagen](https://github.com/user-attachments/assets/ab82c831-1844-4b05-94f2-08c1159603ba)
-
-From here, using geometry, we can derive the amplitude of the slinky: 
-
 ![32b700f0d2e09ed8c6578ed0f3e4769e](https://github.com/user-attachments/assets/1143ccdb-affc-4936-a329-6e5b4878eb67)
-
-The amplitude of this slinky by simple cyclic geometry would be 0.67384 * 10^-34 m
 
 
 1. **1D and the pulse**
