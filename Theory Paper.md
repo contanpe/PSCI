@@ -365,7 +365,7 @@ Fractal memory patterns are self-similar, recursive configurations of consciousn
       
 These patterns interact with novelty flux as follows:
 
-- Injection: Novelty flux enters the plenum at rate τ⁻¹, modulated by ln⁡ɸ (spiral angular velocity, i.e the rate of frequency injection, literal Hz).
+- Injection: Novelty flux enters the plenum at rate τ⁻¹, modulated by ln⁡ɸ (spiral angular velocity, i.e the rate of frequency injection).
 - Processing: κ(n) (recall that it has ɸ^n in it) weights this flux: new experiences amplify via ɸ^n, old ones decay via e^−n/τ.
 - Crystallization: Observation (⟨ψ0∣κ=1) freezes flux into a spatially existing wave, embedding it in memory patterns.
 
@@ -481,6 +481,8 @@ How many of these are visible at a time?
 
 **The Electron**
 the electron is formed from a collection of ten wave centers (neutrinos), expressed in the wave constant variable K=10.  As this value of K appears in many equations related to the electron, it is given a special electron constant, K_e. Ten wave centers would likely form a three-level tetrahedron to be stable in three dimensions when responding to spherical, longitudinal waves. A potential view of the electron is below. The numbers 1, 3 and 6 represent the number of wave centers in each row of the structure – for a total of 10 wave centers.
+
+----------------------------HEAVY WIP
 
 ### The nature of Planck's constants and Light
 
