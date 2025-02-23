@@ -542,20 +542,7 @@ Planck's constant was formulated as part of Max Planck's successful effort to pr
 
 The Plenum’s fractal-eulerian geometry (ϕ, e) and τ-pulse impose discrete action thresholds:
 
-Standing Wave Requirements: Energy modes in blackbody cavities are constrained by the Plenum’s icosahedral-dodecahedral lattice geometrical requirement (static term e{iϕ}). Only standing waves matching the lattice’s 144° symmetry survive.
-
-      E_n = n * h * ν = n * (e^2 / ε_0) * τ * ν
-      where n is an integer (discrete fractal recursion level, novelty).
-
-τ-Pulse Cutoff: High-frequency particles (ν > τ⁻¹) exceed the Plenum's novelty-injection rate, causing destructive interference in the particle itself and causing implosion. 
-This limits energy density per particle: 
-
-      u(ν) ∝ ᵥ³ / (e^(hν/kτ) - 1)
-
-This means that if two standing wave nodes collide, since they do not have self-stable geometry, they simply implode and destroy eachother, liberating energy. A particle to achieve some degree of stability requires a minimal neutrino amount of 3.
-The exponential decay term (e^(-hν/kτ)) arises from τ-modulated novelty flux, preventing divergence. Lower-frequency modes align more often with ϕ^n fractal memory patterns, amplifying their survival probability (Planck distribution’s peak).
-
-![imagen](https://github.com/user-attachments/assets/f0aeaab5-6f0f-4854-8449-fa27ec019e59)
+**Explain how in the absence of negentropy it creates energy by implosion**
 
 From here we can draw a reduced constant, which is the modern one:
 
