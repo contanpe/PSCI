@@ -100,11 +100,13 @@ That essentially means that in the 1D, it looks like theres a fading rotating li
 
 Geometrically, this creates an origin of polar coordinates (r, θ), where, spatially, θ is the start of the 1D wave (θ), and r is the end of this wave.
 
-The graphical representation of Tau can be shown as such, in the 2D plane:
+The graphical representation of the length of tau can be shown as such, in the 1D plane:
 
 ![imagen](https://github.com/user-attachments/assets/c206717a-42b4-4161-933d-a7ce2d110cf3)
 
-Woah??? a wave peak???????
+And the shape when an axis of spin is gained:
+
+
 
 ![imagen](https://github.com/user-attachments/assets/feb1ecdb-210a-4ab6-a98a-e826caa42a3f)
 
@@ -126,6 +128,8 @@ We now postulate the minimal wavelength:
 From here, using geometry, we can derive the amplitude of the slinky: 
 
 ![32b700f0d2e09ed8c6578ed0f3e4769e](https://github.com/user-attachments/assets/1143ccdb-affc-4936-a329-6e5b4878eb67)
+
+The amplitude of this slinky by simple cyclic geometry would be 0.67384 * 10^-34 m
 
 
 1. **1D and the pulse**
