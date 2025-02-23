@@ -111,11 +111,11 @@ And the shape when an axis of spin is gained:
 I will now show you an extremely easy way to conceive size for the pulse:
 We have 1 meter. We multiply this meter by 71428 * 10^-34 s to get the wave speed =
 
-      1m * (71428 * 10^-34 s) = 71428 * 10^-34 m/s
+      1m * (7.1428 * 10^-34 s) = 71428 * 10^-34 m/s
       
 Now we remove the seconds.
 
-      71428 * 10^-34 m/s / 1s = 71428 * 10^-34 m
+      7.1428 * 10^-34 m/s / 1s = 7.1428 * 10^-34 m
 
 From here, using geometry, we can derive the characteristics of the slinky: 
 
