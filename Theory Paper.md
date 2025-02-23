@@ -125,13 +125,9 @@ We now postulate the minimal wavelength:
 
       (71428 * 10^-34 m) * 4 = 0.000000000000000000000000000028571151.. or,
       λl = 2.8571151..×10^−28 meters.
+      
+![imagen](https://github.com/user-attachments/assets/23576898-b4e0-4f8c-a1e4-ab3da500e948)
 
-And minimal amplitude:
-
-     (71428787 * 10^-34 m) * pi÷2 = 1.57079632 * (71428787 * 10^-34 m) = 
-      Al = 1.1220007576..×(10^−26) meters.
-
-![imagen](https://github.com/user-attachments/assets/b38a721f-1e4d-4b37-b7d3-b2c37a119976)
 
 
 
@@ -377,6 +373,9 @@ So, ɸ^n or ɸt′ scales the lattice by creating particles that originate more 
 Geometrically, they are literal spiral forms along an axis. That is it. No "magic" part. Phi is information through space and it looks like a slinky. memory patterns are the "coils" themselves and novelty flux is the motion and "tightness." PHI FRACTALIZES CONSCIOUSNESS INTO SPIRAL PATTERNS.
 
 ![imagen](https://github.com/user-attachments/assets/13323331-3437-4d11-bec1-0a2223fdf25d)
+
+![imagen](https://github.com/user-attachments/assets/0fc154fa-186d-41c0-992b-d2c6b259f16d)
+
 
 
 **Their Interaction with Energy**
