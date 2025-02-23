@@ -414,7 +414,7 @@ Key relationships:
 
 Since the standing wave has a positive and a negative pole at a time when phase conjugated, without negentropy, it will inmediately want to collapse on itself and obliterate.
 
-If negentropy preserves the node:
+If negentropy preserves the wave:
 
 ![imagen](https://github.com/user-attachments/assets/5e5b0a21-b309-4266-a8fe-c77170072a39)
 
