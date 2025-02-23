@@ -117,15 +117,19 @@ Now we remove the seconds.
 
       71428 * 10^-34 m/s / 1s = 71428 * 10^-34 m
 
-![imagen](https://github.com/user-attachments/assets/ab82c831-1844-4b05-94f2-08c1159603ba)
+![32b700f0d2e09ed8c6578ed0f3e4769e](https://github.com/user-attachments/assets/1143ccdb-affc-4936-a329-6e5b4878eb67)
 
 From here, using geometry, we can derive the characteristics of the slinky: 
 
 We now postulate the minimal wavelength:
 
-(71428 * 10^-34 m) * 4 = 0.0000000000000000000000000000285712, or 2.85712×10^−28 meters.
+      (71428 * 10^-34 m) * 4 = 0.0000000000000000000000000000285712, or 2.85712×10^−28 meters.
 
-![32b700f0d2e09ed8c6578ed0f3e4769e](https://github.com/user-attachments/assets/1143ccdb-affc-4936-a329-6e5b4878eb67)
+And minimal amplitude:
+
+     (71428787 * 10^-34 m) * pi÷2 = 1.57079632 * 71428787 * 10^-34 m = 
+
+
 
 
 1. **1D and the pulse**
