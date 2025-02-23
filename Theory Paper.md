@@ -131,6 +131,9 @@ And minimal amplitude:
      (71428787 * 10^-34 m) * pi÷2 = 1.57079632 * (71428787 * 10^-34 m) = 
       Al = 1.1220007576..×(10^−26) meters.
 
+![imagen](https://github.com/user-attachments/assets/b38a721f-1e4d-4b37-b7d3-b2c37a119976)
+
+
 
 
 
