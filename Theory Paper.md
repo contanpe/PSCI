@@ -39,7 +39,7 @@ Pi emerges as the natural geometric structure of the Universe because when seen 
 
 **The identity of Phi**
 
-The language specificity is important here: The universe cannot divide into two; it can only project itself. It must be self contained. "2/π", by itself, as a framework of reality, is irrational. How does this expansion look like? In order to understand the answer, we must look at it from the 2D plane. Vesica Pisces is the graphical description of the transformation of pi into phi.
+The language specificity is important here: The universe cannot divide into two; it can only project itself. It must be self contained. How does this expansion look like? In order to understand the answer, we must look at it from the 2D plane. Vesica Pisces is the graphical description of the transformation of pi into phi.
 
 ![imagen](https://github.com/user-attachments/assets/1e85b01f-c4c3-4d39-a189-60c2d725cb02)
 
