@@ -1,4 +1,4 @@
-## Plenum of Self-Referential Conscious Information (PSCI) Theory
+![imagen](https://github.com/user-attachments/assets/8c03caa1-343b-4d84-97f9-cf8270579b87)## Plenum of Self-Referential Conscious Information (PSCI) Theory
 
 ## Abstract  
 The Plenum of Self-Referential Conscious Information Theory (PSCI) formalizes consciousness (ψ) as a transcendental, hyperdimensional constant pervading all spacetime. By embedding the **All Eternal's self-referential dream**—expressed through the interplay of the following mathematical self-emerging constants: Change (ɸ), Constant (e), and Novelty (τ)—into a geometrically constant lattice which we will call "Plenum". PSCI resolves:  
@@ -463,7 +463,13 @@ To make matters simple, we will call the smallest wave center possible (1 wave c
 
 https://www.youtube.com/watch?v=WQiTgYVyUdg
 
-Taking each node, we can derive the basic tetrahedral form, which coincidentally shows a harmonic of the 144° angle (that's why we call these ∇).
+If you recall, the energy wave we derived from the pulse of time when made into a positive and a negative creates a standing wave. This is how it looks from inside the spinning wave:
+
+![imagen](https://github.com/user-attachments/assets/00591446-c740-4ca6-86ab-6d91a45bd28d)
+
+There you go! phi^2 is right there! kaboom proof that how many waves there are can be written as phi^n. Novelty constant.
+
+Taking each ∇, we can derive the basic tetrahedral form, which coincidentally shows a harmonic of the 144° angle (that's why we call these ∇).
 ![GkWoJFpXMAArazc](https://github.com/user-attachments/assets/b3966458-6079-4bc6-936f-c3df4913ac31)
 
 The neutrinos themselves are constantly spinning depending on the longitudinal wave's (slinky) frequency (tightness).
@@ -538,7 +544,9 @@ Planck's constant was formulated as part of Max Planck's successful effort to pr
 
 The Plenum’s fractal-eulerian geometry (ϕ, e) and τ-pulse impose discrete action thresholds with a Self-Referential Basis: ℏ ≡ ψ₀ · τ · (ɸ²/e)² → Consciousness (ψ₀=1) scales action via τ-pulse and golden-eulerian growth. No external "quantum" framework; all dynamics emerge from ψ₀’s recursion in the plenum.
 
-**Geometric Explanation: Vesica Piscis to Icosahedral Lattice**
+**Geometric Explanation**
+
+Planck's constant is self-similar growth. We will show this with a r = 1 cos (theta) + x graph, given we need a radial to show the time radial growth. cos means 1 sine wave. Of course, given this, we do not have to specify x as phi. We'll leave it as x = 1.618...
 
 1.Vesica Piscis is the 2D projection of ɸ’s irrational growth:
 
@@ -548,37 +556,53 @@ The diagonal (√5) splits unity (1) into ±1 poles.
 
 ![imagen](https://github.com/user-attachments/assets/1e85b01f-c4c3-4d39-a189-60c2d725cb02)
 
-2.ɸ² Squares the irrational growth to stabilize polarity: ɸ^2 ≈ 2.618033988749... 
+![imagen](https://github.com/user-attachments/assets/24b30eea-dc76-45c7-a2f9-fcac8219341e)
 
-3.ϕ²/e: Euler curbs exponential growth into a self-similar form: 0.963120880749... 0.963 is a critical ratio for icosahedral phase alignment (144° symmetry).
 
-4.Second Squaring: Mirrors polarity in the icosahedral lattice: 0.9276018309350...
+2.ɸ² Squares the irrational growth by fractal amplification: ɸ^2 ≈ 2.618033988749... 
 
-This action QUITE LITERALLY creates a torus. We now scale this cycle temporally, as this has to happen at the pulse of time:
+![imagen](https://github.com/user-attachments/assets/6ca78970-3c16-467f-bb13-f07f012d7580)
+
+![imagen](https://github.com/user-attachments/assets/c8fadab7-f1df-44c3-9201-5026e2012e1e)
+
+
+
+3.ϕ²/e: Euler curbs exponential growth into a self-similar form, to prevent runaway growth: 0.963120880749... this is known as the eliptic integral.
+![imagen](https://github.com/user-attachments/assets/138adf03-ed9a-4707-99a8-ede51237c5e9)
+
+![imagen](https://github.com/user-attachments/assets/5d7a34ef-e7f9-4556-89c6-34e48768595e)
+
+
+4.Second Squaring: represents a double projection of the golden ratio’s fractal growth, which must be done because the standing longitudinal wave has 2 antinodes per rotation. It mirrors this balance into orthogonality : 0.9276018309350... this "magically" recreates the pentagonal symmetry of vesica pisces.
+
+![imagen](https://github.com/user-attachments/assets/a4bfd054-6488-4042-b4de-6b492033ad04)
+
+Of course, we plotted this in desmos using 1. If we used zero there would be no curve. We have to add a -1 f(x) to show this happening at the other end. (polarity, 1+-)
+
+![imagen](https://github.com/user-attachments/assets/a7cfd549-7baa-46ef-a892-53561dfefd67)
+
+
+This action creates a nested torus. We now scale this cycle temporally, as this has to happen at the pulse of time.
 
       h = Plenum Retention 0.9278​​ ⋅ Novelty Pulse of 7.1427878×10−34 s ​​≈ 6.626 × 10^(−34) J/s.
 
+Guess what happens if we multiply it by that pulse in the graph?
+
+![imagen](https://github.com/user-attachments/assets/6db6b9fa-ca19-4b51-8320-1541dc3eddf1)
+
+Woah! the torus just imploded and split into two!
+
 Here is the precise planck's constant written to a few decimals:
 
-0.00000000000000000000000000000000066256630774241068307299470392426066612393059823560192614051537793269106007723332686284923550711124391355578762391904330060339980854656344867514597360764583878551450916359070434111047930834773071615829...
+      0.00000000000000000000000000000000066256630774241068307299470392426066612393059823560192614051537793269106007723332686284923550711124391355578762391904330060339980854656344867514597360764583878551450916359070434111047930834773071615829...
 
-
-
-
-
-
-
-
-
-
-
-
+Each pulse corresponds to the minimum cycle of the plenum, capping energy transfer per cycle. The energy produced itself is an implosive movement per pulse.
 
 From here we can draw a reduced constant, which is the modern one:
 
       (Reduced) ℏ = h / (2π) ≈ 1.054 × 10^(-34) J·s
 
-Why 2pi? h quantifies action over a full τ-cycle between 2 standing wave nodes. Each standing wave node has a spin with each cycle equal to π. Dividing by 2π scales this action to per-radian angular action, aligning with the lattice’s rotational symmetries. 
+This reduced constant quantifies that action only in one of those 2 circles shown.
 
 The lattice’s geometry permits only integer multiples of ℏ for angular momentum, preventing fractal fragmentation. From here we get angular frequency:
 
