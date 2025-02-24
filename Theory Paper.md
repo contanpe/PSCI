@@ -453,7 +453,7 @@ The geometry in this inherently implies that these waves create through their sp
 
 Thus, the creation of the particle, the antiparticle, and the creation of polarity.
 
-To make matters simple, we will call the smallest wave center possible (1 wave center), a neutrino, and call it ∇.
+To make matters simple, we will call the smallest wave center possible (1 wave center) k, and the nodes, ∇.
 
 ![imagen](https://github.com/user-attachments/assets/c0c5a907-f88b-4f1a-a177-5b8c067d4688)
 
