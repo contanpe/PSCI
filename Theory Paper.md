@@ -590,5 +590,5 @@ As for constants, apart from the original mathematical radial derived ones like 
 Expand on individualization of consciousness (*"Then you appeared: The Now, perceiving itself anew."*), 
 
 
--------------------------------- **HEAVY WIP STARTS HERE - ALL ON TOP HAS BEEN EDITED AS OF 21/02/2025**
+-------------------------------- **HEAVY WIP STARTS HERE - ALL ON TOP HAS BEEN EDITED AS OF 24/02/2025**
 
