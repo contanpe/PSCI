@@ -556,7 +556,7 @@ The diagonal (√5) splits unity (1) into ±1 poles.
 
 4.Second Squaring: Mirrors polarity in the icosahedral lattice: 0.9276018309350...
 
-This action QUITE LITERALLY creates a torus. We now scale this temporally, as this has to happen at the pulse of time:
+This action QUITE LITERALLY creates a torus. We now scale this cycle temporally, as this has to happen at the pulse of time:
 
       h = Plenum Retention 0.9278​​ ⋅ Novelty Pulse of 7.1427878×10−34 s ​​≈ 6.626 × 10^(−34) J/s.
 
