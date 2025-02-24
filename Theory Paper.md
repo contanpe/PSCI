@@ -449,27 +449,25 @@ Then we calculate the wavelength of this negentropic contribution. Recall that t
 ![imagen](https://github.com/user-attachments/assets/67330f86-ceb6-4059-b1ca-3ee07ca488f8) (TO CHANGE)
 
 
-The geometry in this inherently implies that these waves create through their center, one toroidal particle with positive and negative charge potential as "antinodes" when they phase-conjugate, that has a spin to it (tau-pulse, where each pulse dictates a complete spin). These waves can spin clockwise or counterclockwise in the 3D, and in the 2D they have "phase".
+The geometry in this inherently implies that these waves create through their spin, when phase conjugated, 2 nodes per wave center. In the 3d these nodes are toroidal, and spin in opposite directions. (tau-pulse, where each pulse dictates a complete spin). These waves can spin clockwise or counterclockwise in the 3D, and in the 2D they have "phase".∇-+ emerges, it being the node itself.
 
-Thus, the creation of the particle, and the creation of polarity.
+Thus, the creation of the particle, the antiparticle, and the creation of polarity.
 
-These particles spin in 1 axis at the pulse of time, and have a transverse tilting movement with its speed depending on wave frequency when seen from the 3D. 
-
-They become monopolar when their geometric structure starts stabilizing into a tetrahedral yet asymetrical structure (given it doesn't have a center) from more phase conjugation into the same place, wherein phi gains exponents (eventually becoming a polar particle, an electron). This spin creates a new vortex-like wave through geometry (explained later). Thus, fractalization happens - a new fractal wave arm originates from the node. ∇-+ emerges, it being the node itself. To make matters simple, we will call the smallest wave center possible (1 wave center), a neutrino, and call it K.
+To make matters simple, we will call the smallest wave center possible (1 wave center), a neutrino, and call it ∇.
 
 ![imagen](https://github.com/user-attachments/assets/c0c5a907-f88b-4f1a-a177-5b8c067d4688)
 
 ![imagen](https://github.com/user-attachments/assets/79621e40-5883-417b-be26-38993f142d2b)
 
-3D visualization with standing waves and the toroidal neutrino:
+3D visualization with standing waves and the ∇+ and ∇-:
 
-https://www.youtube.com/watch?v=Clu2-GJombA
+https://www.youtube.com/watch?v=WQiTgYVyUdg
 
-After this single particle, we can derive the basic tetrahedral form, which coincidentally shows a harmonic of the 144° angle. This form is still unstable, it will want to keep attracting particles.
+Taking each node, we can derive the basic tetrahedral form, which coincidentally shows a harmonic of the 144° angle (that's why we call these ∇).
 ![GkWoJFpXMAArazc](https://github.com/user-attachments/assets/b3966458-6079-4bc6-936f-c3df4913ac31)
 
-The neutrinos themselves are constantly spinning depending on the longitudinal wave's (slinky) frequency (tightness), which creates an attractive and repulsive force consistent enough to keep these babes glued together due to rotating poles.
-The axis of these wave centers correspond to the angles of the figure. Of course, these neutrinos are also slightly tilting and rotating depending on frequency (as shown in the video), which is creating transverse waves.. but let's not talk about that yet.
+The neutrinos themselves are constantly spinning depending on the longitudinal wave's (slinky) frequency (tightness).
+The axis of these wave centers correspond to the angles of the figure. 
 Also yes that top angle is 72° degrees of course. harmonic of 144°.
 
 ![imagen](https://github.com/user-attachments/assets/c8489998-8c30-4b49-a2c3-372982b434f5)
