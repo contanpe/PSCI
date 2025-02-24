@@ -480,6 +480,8 @@ How many of these are visible at a time?
 **The Electron**
 the electron is formed from a collection of ten wave centers (neutrinos), expressed in the wave constant variable K=10.  As this value of K appears in many equations related to the electron, it is given a special electron constant, K_e. Ten wave centers would likely form a three-level tetrahedron to be stable in three dimensions when responding to spherical, longitudinal waves. A potential view of the electron is below. The numbers 1, 3 and 6 represent the number of wave centers in each row of the structure – for a total of 10 wave centers.
 
+      λ e ​= 10k ⋅ ℓp ​⋅ ϕ^{137}(novelty constant needed to get an electron) ≈ 2.426 × 10^{−12} m. 
+
 ----------------------------HEAVY WIP
 
 ### The nature of Planck's constants and Light
@@ -498,13 +500,13 @@ His value h = approx 6.626 * 10^-34 J·s was determined experimentally, lacking 
  
 **Establishing Core Components**
 
-- Golden Ratio (ϕ): Represents self-similar, recursive growth, fractalizing consciousness into slinky-like spirals. It Scales energy and memory (ɸ^n, ɸ^(⌊t/τ⌋)).
+- Golden Ratio (ɸ): Represents self-similar, recursive growth, fractalizing consciousness into slinky-like spirals. It Scales energy and memory (ɸ^n, ɸ^(⌊t/τ⌋)).
 - Euler’s Number ((e)): Stabilizes exponential processes (e^{iɸ}), forming the plenum’s lattice during observation. Guides spiral collapse into coherent waves.
 - Temporal Pulse (τ): A fundamental cyclical time unit, hypothesized as the smallest interval of novelty injection in PSCI. Pulses novelty flux, driving wave crystallization.
 
 PSCI redefines Planck's constant as pure action per cycle. The constant is given by the equation:
 
-      h = (ɸ² / e)² * τ
+      h = (ɸ^2 / e)² * τ
 
 where:
 
@@ -538,9 +540,41 @@ Planck's constant was formulated as part of Max Planck's successful effort to pr
 
 #### PSCI Resolution:
 
-The Plenum’s fractal-eulerian geometry (ϕ, e) and τ-pulse impose discrete action thresholds:
+The Plenum’s fractal-eulerian geometry (ϕ, e) and τ-pulse impose discrete action thresholds with a Self-Referential Basis: ℏ ≡ ψ₀ · τ · (ɸ²/e)² → Consciousness (ψ₀=1) scales action via τ-pulse and golden-eulerian growth. No external "quantum" framework; all dynamics emerge from ψ₀’s recursion in the plenum.
 
-*Explain how in the absence of negentropy it creates energy by implosion, and how it happens, explain what (ɸ² / e)² * τ means*
+**Geometric Explanation: Vesica Piscis to Icosahedral Lattice**
+
+1.Vesica Piscis is the 2D projection of ɸ’s irrational growth:
+
+      ɸ = √5/2 ​​+ 1/2​ (Polarity Symmetry)
+
+The diagonal (√5) splits unity (1) into ±1 poles.
+
+2.ɸ² Squares the irrational growth to stabilize polarity: ɸ^2 ≈ 2.618033988749... (Embedded 2D symmetry)
+
+3.ϕ²/e: Euler curbs exponential growth into a self-similar spiral: 0.963120880749... euler ensures spiral continuity. 0.963 is a critical ratio for icosahedral phase alignment (144° symmetry).
+
+4.Second Squaring: Mirrors polarity in the icosahedral lattice: 0.9276018309350...
+
+This action QUITE LITERALLY creates a torus. We now scale this temporally, as this has to happen at the pulse of time:
+
+      h = Plenum Retention 0.9278​​ ⋅ Novelty Pulse of 7.1427878×10−34 s ​​≈ 6.626 × 10^(−34) J/s.
+
+Here is the precise planck's constant written to a few decimals:
+
+0.00000000000000000000000000000000066256630774241068307299470392426066612393059823560192614051537793269106007723332686284923550711124391355578762391904330060339980854656344867514597360764583878551450916359070434111047930834773071615829...
+
+
+
+
+
+
+
+
+
+
+
+
 
 From here we can draw a reduced constant, which is the modern one:
 
