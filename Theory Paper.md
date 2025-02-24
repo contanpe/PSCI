@@ -1,4 +1,4 @@
-![imagen](https://github.com/user-attachments/assets/8c03caa1-343b-4d84-97f9-cf8270579b87)## Plenum of Self-Referential Conscious Information (PSCI) Theory
+## Plenum of Self-Referential Conscious Information (PSCI) Theory
 
 ## Abstract  
 The Plenum of Self-Referential Conscious Information Theory (PSCI) formalizes consciousness (ψ) as a transcendental, hyperdimensional constant pervading all spacetime. By embedding the **All Eternal's self-referential dream**—expressed through the interplay of the following mathematical self-emerging constants: Change (ɸ), Constant (e), and Novelty (τ)—into a geometrically constant lattice which we will call "Plenum". PSCI resolves:  
@@ -560,8 +560,6 @@ The diagonal (√5) splits unity (1) into ±1 poles.
 
 
 2.ɸ² Squares the irrational growth by fractal amplification: ɸ^2 ≈ 2.618033988749... 
-
-![imagen](https://github.com/user-attachments/assets/6ca78970-3c16-467f-bb13-f07f012d7580)
 
 ![imagen](https://github.com/user-attachments/assets/c8fadab7-f1df-44c3-9201-5026e2012e1e)
 
