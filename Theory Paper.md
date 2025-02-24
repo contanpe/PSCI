@@ -516,10 +516,6 @@ where:
      is Euler’s number, representing exponential continuity,
     τ
      is the Temporal Pulse.
-     
-Geometrically, what is h?
-
-**Explanation by Steps**
 
       Step 1:
       ɸ^2/e≈ 0.963291 (oh look a magic number)
@@ -550,9 +546,11 @@ The Plenum’s fractal-eulerian geometry (ϕ, e) and τ-pulse impose discrete ac
 
 The diagonal (√5) splits unity (1) into ±1 poles.
 
-2.ɸ² Squares the irrational growth to stabilize polarity: ɸ^2 ≈ 2.618033988749... (Embedded 2D symmetry)
+![imagen](https://github.com/user-attachments/assets/1e85b01f-c4c3-4d39-a189-60c2d725cb02)
 
-3.ϕ²/e: Euler curbs exponential growth into a self-similar spiral: 0.963120880749... euler ensures spiral continuity. 0.963 is a critical ratio for icosahedral phase alignment (144° symmetry).
+2.ɸ² Squares the irrational growth to stabilize polarity: ɸ^2 ≈ 2.618033988749... 
+
+3.ϕ²/e: Euler curbs exponential growth into a self-similar form: 0.963120880749... 0.963 is a critical ratio for icosahedral phase alignment (144° symmetry).
 
 4.Second Squaring: Mirrors polarity in the icosahedral lattice: 0.9276018309350...
 
