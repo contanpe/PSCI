@@ -113,16 +113,11 @@ The representation with dotted lines...
 
 ![image](https://github.com/user-attachments/assets/a9fa0075-f320-4217-a48a-3e1b186fd163)
 
-
-
-
 The rate and places in which Energy appears and travels is defined by the "Plenum" (Δ), explained later.
 
-That essentially means that in the 1D, it looks like theres a fading rotating line where energy is produced.
+The dimensions are creation of axis. We humans already come equipped with the capacity of seeing all axis due to the angle our eyes are oriented, even if it we mathematically can't conceive this. 
 
-Geometrically, this creates an origin of polar coordinates (r, θ), where, spatially, θ is the start of the 1D wave (θ), and r is the end of this wave.
-
-The graphical representation of the length of tau can be shown as such, in the 1D plane:
+Mathematically, that essentially means that in the 1D, it looks like theres a fading rotating line where energy is produced. Geometrically, this creates an origin of polar coordinates (r, θ), where, spatially, θ is the start of the 1D wave (θ), and r is the end of this wave. The graphical representation of the length of tau can be shown as such, in the 1D plane:
 
 ![imagen](https://github.com/user-attachments/assets/c2c35ef9-55fa-4017-b66b-02987a5ef18a)
 
