@@ -571,14 +571,13 @@ The diagonal (√5) splits unity (1) into ±1 poles.
 ![imagen](https://github.com/user-attachments/assets/5d7a34ef-e7f9-4556-89c6-34e48768595e)
 
 
-4.Second Squaring: represents a double projection of the golden ratio’s fractal growth, which must be done because the standing longitudinal wave has 2 antinodes per rotation. It mirrors this balance into orthogonality : 0.9276018309350... this "magically" recreates the pentagonal symmetry of vesica pisces.
+4.Second Squaring: represents a double projection of the golden ratio’s fractal growth, which would generate cos. This physically creates another curve appear. You could call sin the magnetic field and cos the electric field. Mathematically, and abstractly, it's just squared in the formula.
 
-![imagen](https://github.com/user-attachments/assets/a4bfd054-6488-4042-b4de-6b492033ad04)
+y
 
 Of course, we plotted this in desmos using 1. If we used zero there would be no curve. We have to add a -1 f(x) to show this happening at the other end. (polarity, 1+-)
 
-![imagen](https://github.com/user-attachments/assets/a7cfd549-7baa-46ef-a892-53561dfefd67)
-
+x
 
 This action creates a nested torus. We now scale this cycle temporally, as this has to happen at the pulse of time.
 
