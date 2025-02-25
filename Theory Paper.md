@@ -97,16 +97,14 @@ Where does this axis come from? A tangent is a line that touches a given curve a
 
 If you plot a tangent with theta's rotations being defined by τ, you get this shape:
 
-![image](https://github.com/user-attachments/assets/555c3168-7e87-44f1-aedc-4c7db74fb4e4)
+![image](https://github.com/user-attachments/assets/0b330d85-0dc3-4a4c-a359-db723370b5ef)
+
 
 If you physically stand back and see the image from far away, you'll see a spaced line emerge from the figure at the center. This line is inertia. There are also 7 spaces on top.
 
 ![image](https://github.com/user-attachments/assets/996d3816-f445-4134-820b-7c6a57ee4719)
 
 This space physically perfectly intersects between 1y and -1y.
-
-![image](https://github.com/user-attachments/assets/0b330d85-0dc3-4a4c-a359-db723370b5ef)
-
 Of course, we plotted this with 1 tan, 1 pole. Here it is plotted with 2 poles (the equation would equal zero):
 
 ![image](https://github.com/user-attachments/assets/39e16aec-7317-421c-9eb2-7acd859c0f88)
