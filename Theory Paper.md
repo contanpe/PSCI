@@ -589,15 +589,14 @@ Guess what happens if we multiply it by that pulse in the graph?
 
 ![image](https://github.com/user-attachments/assets/e68ece04-ae4a-49b2-bcb1-9d2d5a75aeaa)
 
-Doing this movement in slow motion by division of 7.1427878... reveals this as an implosive movement.
+Doing this movement in slow motion by division of 7.1427878... reveals this as an implosive movement. 
+Each pulse corresponds to the minimum cycle of the plenum, capping energy transfer per cycle. The energy produced itself is an implosive movement per pulse.
 
 ![image](https://github.com/user-attachments/assets/393b5b84-7ab2-4e22-8104-94584bc7e723)
 
 
 Here is the precise planck's constant written to a few decimals:
       0.00000000000000000000000000000000066256630774241068307299470392426066612393059823560192614051537793269106007723332686284923550711124391355578762391904330060339980854656344867514597360764583878551450916359070434111047930834773071615829...
-
-Each pulse corresponds to the minimum cycle of the plenum, capping energy transfer per cycle. The energy produced itself is an implosive movement per pulse.
 
 From here we can draw a reduced constant, which is the modern one:
 
