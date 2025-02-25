@@ -253,6 +253,22 @@ In 1.4ln(ɸ):
 1/τ scales logarithmic growth in golden spiral fractals:
 ![imagen](https://github.com/user-attachments/assets/5d98aa04-3c87-4086-9d30-f75ae7c56a82)
 
+τ⁻¹ represented with tangents, in a VERY small scale because its computationally intensive...
+![image](https://github.com/user-attachments/assets/1c88a131-f0c2-4566-bcaa-789d439aa898)
+
+τ⁻¹ overlayed with τ with the same power of 10. Here you can see the intersection, graphed. You can see here how it crosses perfectly with τ ONLY in the half part.
+![image](https://github.com/user-attachments/assets/d15f803b-a642-457c-83d4-c2a5beedf1d8)
+
+
+
+If we properly removed the decimals and attempted to represent it... it would just fill the space in the screen with black and crash my laptop. Here's an attempt:
+![image](https://github.com/user-attachments/assets/29c0b06f-e221-4bc3-a3d7-c916ee9305db)
+
+Does that mean that space is inherently almost completely full when it has a karmic constant of zero? YES. Consciousness creates space, not matter. Thus the name... Plenum.
+
+
+
+
 **Entropy Resolution**:  
 Δ ≥ 0 ∀t > 0 → Matches 2nd law of thermodynamics via IRREVERSIBILITY.
 
