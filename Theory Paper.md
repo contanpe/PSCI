@@ -95,6 +95,9 @@ The primordial thing, what we will call for simple purposes, uh, energy, emerges
 
 Where does this axis come from? If you plot a tangent with theta's rotations being defined by τ, you get this shape:
 
+![image](https://github.com/user-attachments/assets/fbe0b680-48c7-47ab-824c-eaab1e6ec840)
+
+
 The rate and places in which Energy appears and travels is defined by the "Plenum" (Δ), explained later.
 
 That essentially means that in the 1D, it looks like theres a fading rotating line where energy is produced.
@@ -584,7 +587,7 @@ Of course, we plotted this in desmos using 1. If we used zero there would be no 
 
 This action creates a nested torus. We now scale this cycle temporally, as this has to happen at the pulse of time.
 
-      h = Plenum Retention 0.9278​​ ⋅ Novelty Pulse of 7.1427878×10−34 s ​​≈ 6.626 × 10^(−34) J/s.
+      h = Plenum Retention 0.9278​​ ⋅ Novelty Pulse of 7.14278783898628301..×10−34 s ​​≈ 6.626 × 10^(−34) J/s.
 
 Guess what happens if we multiply it by that pulse in the graph?
 
@@ -610,7 +613,7 @@ This reduced constant quantifies that action to the space between the red and bl
 
 Here's what happens if instead we do this by a tangent:
 
-(phi^2/e) x 7.1427878...
+(phi^2/e) x 7.14278783898628301...
 
 r\ =\ -1\ \tan\ \left(\theta\right)+\left(\frac{2}{e}\right)\ \frac{7.1427878}{1}
 
