@@ -113,7 +113,7 @@ The representation with dotted lines...
 
 ![image](https://github.com/user-attachments/assets/a9fa0075-f320-4217-a48a-3e1b186fd163)
 
-The more you zoom out, the more rings appear from each time the source lines intersect... and they are logarithmically scaled by the golden ratio:
+The more you zoom out, the more rings appear from each time the source lines intersect... and these lines are logarithmically scaled by the golden ratio: Fibonacci numbers.
 
 ![image](https://github.com/user-attachments/assets/e7097b18-d0f5-414c-bfcd-fbefdbd7cc89)
 
