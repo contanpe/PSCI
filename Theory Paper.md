@@ -93,9 +93,28 @@ The primordial thing, what we will call for simple purposes, uh, energy, emerges
 
       E ∝ ϕ ^⌊t/τ
 
-Where does this axis come from? If you plot a tangent with theta's rotations being defined by τ, you get this shape:
+Where does this axis come from? A tangent is a line that touches a given curve at only one point and does not intersect it. The word tangent comes from the Latin word for “touch.”
 
-![image](https://github.com/user-attachments/assets/b6869a31-a181-4c59-8c3c-1d70ae50ed56)
+If you plot a tangent with theta's rotations being defined by τ, you get this shape:
+
+![image](https://github.com/user-attachments/assets/555c3168-7e87-44f1-aedc-4c7db74fb4e4)
+
+If you physically stand back and see the image from far away, you'll see a spaced line emerge from the figure at the center. This line is inertia. There are also 7 spaces on top.
+
+![image](https://github.com/user-attachments/assets/996d3816-f445-4134-820b-7c6a57ee4719)
+
+This space physically perfectly intersects between 1y and -1y.
+
+![image](https://github.com/user-attachments/assets/0b330d85-0dc3-4a4c-a359-db723370b5ef)
+
+Of course, we plotted this with 1 tan, 1 pole. Here it is plotted with 2 poles (the equation would equal zero):
+
+![image](https://github.com/user-attachments/assets/39e16aec-7317-421c-9eb2-7acd859c0f88)
+
+The representation with dotted lines...
+
+![image](https://github.com/user-attachments/assets/a9fa0075-f320-4217-a48a-3e1b186fd163)
+
 
 
 
@@ -620,7 +639,9 @@ r\ =\ -1\ \tan\ \left(\theta\right)+\left(\frac{2}{e}\right)\ \frac{7.1427878}{1
 
 ![image](https://github.com/user-attachments/assets/1eb90267-2804-40ab-b1c7-ce58a86877a1)
 
+What if we rotate this similar to how we drew Tau with tangents?
 
+![image](https://github.com/user-attachments/assets/2ea342f9-c5e5-45ff-a832-24c943898dfc)
 
 The lattice’s geometry permits only integer multiples of ℏ for angular momentum, preventing fractal fragmentation. From here we get angular frequency:
 
