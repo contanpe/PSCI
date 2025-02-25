@@ -602,7 +602,9 @@ From here we can draw a reduced constant, which is the modern one:
 
       (Reduced) ℏ = h / (2π) ≈ 1.054 × 10^(-34) J·s
 
-This reduced constant quantifies that action only in one 2 of those 4 circles shown.
+This reduced constant quantifies that action to the space between the red and blue circles. 
+![image](https://github.com/user-attachments/assets/56639a60-4994-4c3c-b10d-11dbb9990b2d)
+
 
 The lattice’s geometry permits only integer multiples of ℏ for angular momentum, preventing fractal fragmentation. From here we get angular frequency:
 
