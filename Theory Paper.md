@@ -82,13 +82,6 @@ Can be visualized as:
       
 This is essentially the rate at which the Universe "regenerates". This is EXTREMELY fast. 
 
-Interestingly, this is what happens if you plot a tangent in desmos and define the number of rotations as τ:
-
-
-
-
-
-
 **Grandfather Paradox**:  
 g_{μν} = diag(-τ², ɸ², ɸ², ɸ²) → Time’s irreversibility enforced by Φ≠e symmetry.  
 
@@ -99,6 +92,8 @@ g_{μν} = diag(-τ², ɸ², ɸ², ɸ²) → Time’s irreversibility enforced b
 The primordial thing, what we will call for simple purposes, uh, energy, emerges as accumulated tau pulses along a linear axis. It is simply the tau pulse, through time, in an axis. 
 
       E ∝ ϕ ^⌊t/τ
+
+Where does this axis come from? If you plot a tangent with theta's rotations being defined by τ, you get this shape:
 
 The rate and places in which Energy appears and travels is defined by the "Plenum" (Δ), explained later.
 
