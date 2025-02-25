@@ -643,6 +643,9 @@ What if we rotate this similar to how we drew Tau with tangents?
 
 ![image](https://github.com/user-attachments/assets/4b96f5c7-28ba-416d-abff-f3087b51742b)
 
+![image](https://github.com/user-attachments/assets/4766b17a-3e18-4763-9424-e268e723df16)
+
+
 The lattice’s geometry permits only integer multiples of ℏ for angular momentum, preventing fractal fragmentation. From here we get angular frequency:
 
 Angular Frequency (ω): Tied to the Plenum’s τ-pulse rate (ω = 2 π ν)
