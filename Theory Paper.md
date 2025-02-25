@@ -635,8 +635,6 @@ Here's what happens if instead we do this by a tangent:
 
 (phi^2/e) x 7.14278783898628301...
 
-r\ =\ -1\ \tan\ \left(\theta\right)+\left(\frac{2}{e}\right)\ \frac{7.1427878}{1}
-
 ![image](https://github.com/user-attachments/assets/1eb90267-2804-40ab-b1c7-ce58a86877a1)
 
 What if we rotate this similar to how we drew Tau with tangents?
@@ -644,6 +642,8 @@ What if we rotate this similar to how we drew Tau with tangents?
 ![image](https://github.com/user-attachments/assets/4b96f5c7-28ba-416d-abff-f3087b51742b)
 
 ![image](https://github.com/user-attachments/assets/4766b17a-3e18-4763-9424-e268e723df16)
+
+The torus is rotation in 1 axis.
 
 
 The lattice’s geometry permits only integer multiples of ℏ for angular momentum, preventing fractal fragmentation. From here we get angular frequency:
