@@ -187,7 +187,9 @@ When viewed from the 2D plane, the pulses of "Energy", given they now have 2 axi
 
 ![imagen](https://github.com/user-attachments/assets/59ddfe52-1d3c-493c-aca8-915eb6b91cd4)
 
-*isn't it beautiful?*
+![image](https://github.com/user-attachments/assets/6e43fc69-534c-436b-9b3f-ada92ce8a359)
+
+;)
 
 
 ### 4. ** Chaos (Δ)**  
@@ -639,7 +641,7 @@ r\ =\ -1\ \tan\ \left(\theta\right)+\left(\frac{2}{e}\right)\ \frac{7.1427878}{1
 
 What if we rotate this similar to how we drew Tau with tangents?
 
-![image](https://github.com/user-attachments/assets/2ea342f9-c5e5-45ff-a832-24c943898dfc)
+![image](https://github.com/user-attachments/assets/4b96f5c7-28ba-416d-abff-f3087b51742b)
 
 The lattice’s geometry permits only integer multiples of ℏ for angular momentum, preventing fractal fragmentation. From here we get angular frequency:
 
