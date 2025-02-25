@@ -95,7 +95,8 @@ The primordial thing, what we will call for simple purposes, uh, energy, emerges
 
 Where does this axis come from? If you plot a tangent with theta's rotations being defined by τ, you get this shape:
 
-![image](https://github.com/user-attachments/assets/fbe0b680-48c7-47ab-824c-eaab1e6ec840)
+![image](https://github.com/user-attachments/assets/b6869a31-a181-4c59-8c3c-1d70ae50ed56)
+
 
 
 The rate and places in which Energy appears and travels is defined by the "Plenum" (Δ), explained later.
