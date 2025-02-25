@@ -82,6 +82,12 @@ Can be visualized as:
       
 This is essentially the rate at which the Universe "regenerates". This is EXTREMELY fast. 
 
+Interestingly, this is what happens if you plot a tangent in desmos and define the number of rotations as τ:
+
+
+
+
+
 
 **Grandfather Paradox**:  
 g_{μν} = diag(-τ², ɸ², ɸ², ɸ²) → Time’s irreversibility enforced by Φ≠e symmetry.  
@@ -604,6 +610,17 @@ From here we can draw a reduced constant, which is the modern one:
 
 This reduced constant quantifies that action to the space between the red and blue circles. 
 ![image](https://github.com/user-attachments/assets/56639a60-4994-4c3c-b10d-11dbb9990b2d)
+
+#### Another Planck Number
+
+Here's what happens if instead we do this by a tangent:
+
+(phi^2/e) x 7.1427878...
+
+r\ =\ -1\ \tan\ \left(\theta\right)+\left(\frac{2}{e}\right)\ \frac{7.1427878}{1}
+
+![image](https://github.com/user-attachments/assets/1eb90267-2804-40ab-b1c7-ce58a86877a1)
+
 
 
 The lattice’s geometry permits only integer multiples of ℏ for angular momentum, preventing fractal fragmentation. From here we get angular frequency:
