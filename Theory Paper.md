@@ -573,11 +573,13 @@ The diagonal (√5) splits unity (1) into ±1 poles.
 
 4.Second Squaring: represents a double projection of the golden ratio’s fractal growth, which would generate cos. This physically creates another curve appear. You could call sin the magnetic field and cos the electric field. Mathematically, and abstractly, it's just squared in the formula.
 
-y
+![image](https://github.com/user-attachments/assets/bece3b54-f7e0-4653-aa12-24c21171d6e7)
+
 
 Of course, we plotted this in desmos using 1. If we used zero there would be no curve. We have to add a -1 f(x) to show this happening at the other end. (polarity, 1+-)
 
-x
+![image](https://github.com/user-attachments/assets/2d47a7d5-ed07-4cdb-a901-a3ea8d78b897)
+
 
 This action creates a nested torus. We now scale this cycle temporally, as this has to happen at the pulse of time.
 
@@ -585,12 +587,9 @@ This action creates a nested torus. We now scale this cycle temporally, as this 
 
 Guess what happens if we multiply it by that pulse in the graph?
 
-![imagen](https://github.com/user-attachments/assets/6db6b9fa-ca19-4b51-8320-1541dc3eddf1)
-
-Woah! the torus just imploded and split into two!
+![image](https://github.com/user-attachments/assets/e68ece04-ae4a-49b2-bcb1-9d2d5a75aeaa)
 
 Here is the precise planck's constant written to a few decimals:
-
       0.00000000000000000000000000000000066256630774241068307299470392426066612393059823560192614051537793269106007723332686284923550711124391355578762391904330060339980854656344867514597360764583878551450916359070434111047930834773071615829...
 
 Each pulse corresponds to the minimum cycle of the plenum, capping energy transfer per cycle. The energy produced itself is an implosive movement per pulse.
@@ -599,7 +598,7 @@ From here we can draw a reduced constant, which is the modern one:
 
       (Reduced) ℏ = h / (2π) ≈ 1.054 × 10^(-34) J·s
 
-This reduced constant quantifies that action only in one of those 2 circles shown.
+This reduced constant quantifies that action only in one 2 of those 4 circles shown.
 
 The lattice’s geometry permits only integer multiples of ℏ for angular momentum, preventing fractal fragmentation. From here we get angular frequency:
 
